@@ -1,266 +1,278 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="A cool layout.">
-        <meta name="keywords" content="R">
-        <meta name="author" content="ivanhanigan based on rich-iannone">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>UC-ACT Regional Health Observatory </title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="title" content="UC-ACT Regional Health Observatory "/>
+<meta name="generator" content="Org-mode"/>
+<meta name="generated" content="2016-12-12T08:02+1100"/>
+<meta name="author" content="Ivan Hanigan"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  html { font-family: Times, serif; font-size: 12pt; }
+  .title  { text-align: center; }
+  .todo   { color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #add8e6; font-weight:normal }
+  .target { }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  {margin-left:auto; margin-right:0px;  text-align:right;}
+  .left   {margin-left:0px;  margin-right:auto; text-align:left;}
+  .center {margin-left:auto; margin-right:auto; text-align:center;}
+  p.verse { margin-left: 3% }
+  pre {
+	border: 1pt solid #AEBDCC;
+	background-color: #F3F5F7;
+	padding: 5pt;
+	font-family: courier, monospace;
+        font-size: 90%;
+        overflow:auto;
+  }
+  table { border-collapse: collapse; }
+  td, th { vertical-align: top;  }
+  th.right  { text-align:center;  }
+  th.left   { text-align:center;   }
+  th.center { text-align:center; }
+  td.right  { text-align:right;  }
+  td.left   { text-align:left;   }
+  td.center { text-align:center; }
+  dt { font-weight: bold; }
+  div.figure { padding: 0.5em; }
+  div.figure p { text-align: center; }
+  div.inlinetask {
+    padding:10px;
+    border:2px solid gray;
+    margin:10px;
+    background: #ffffcc;
+  }
+  textarea { overflow-x: auto; }
+  .linenr { font-size:smaller }
+  .code-highlighted {background-color:#ffff00;}
+  .org-info-js_info-navigation { border-style:none; }
+  #org-info-js_console-label { font-size:10px; font-weight:bold;
+                               white-space:nowrap; }
+  .org-info-js_search-highlight {background-color:#ffff00; color:#000000;
+                                 font-weight:bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
 
-        <link rel="apple-touch-icon" sizes="57x57" href="icon/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="icon/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="icon/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="icon/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="icon/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="icon/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="icon/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="icon/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="icon/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="icon/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="icon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="icon/favicon-16x16.png">
-        <link rel="manifest" href="icon/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="icon/ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
 
-        <title>
-        Cool layout
-        </title>
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
 
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/docs.min.css" rel="stylesheet">
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
 
-        <script src="js/ie-emulation-modes-warning.js"></script>
 
-    </head>
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
 
+</head>
 <body>
-    <a id="skippy" class="sr-only sr-only-focusable" href="#content"><div class="container"><span class="skiplink-text">Skip to main content</span></div></a>
 
-    <!-- Docs master nav -->
-    <header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
-        <div class="container">
-            <div class="navbar-header">
-                <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a href="index.html" class="navbar-brand">Cool layout</a>
-            </div>
-            <!-- <nav class="collapse navbar-collapse bs-navbar-collapse"> -->
-            <!--     <ul class="nav navbar-nav"> -->
-            <!--         <li> -->
-            <!--           <a href="docs.html">Start</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="io.html">I/O</a> -->
-            <!--         </li> -->
-            <!--         <li class="active"> -->
-            <!--           <a href="graphviz_and_mermaid.html">Graphviz/Mermaid</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="ndfs_edfs.html">NDFs/EDFs</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="graph_creation.html">Graph Creation</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="selections.html">Selections</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="traversals.html">Traversals</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="inspection.html">Inspection</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="modification.html">Modification</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="deposit_values.html">Deposits</a> -->
-            <!--         </li> -->
-            <!--         <li> -->
-            <!--           <a href="graph_series.html">Series</a> -->
-            <!--         </li> -->
-            <!--     </ul> -->
-            <!-- </nav> -->
-        </div>
-    </header>
+<div id="preamble">
 
-    <!-- Docs page layout -->
-    <div class="bs-docs-header" id="content">
-        <div class="container">
-        <h1>Cool layout</h1>
-        <p>Get an overview of a page and drill into it.</p>
-        </div>
-    </div>
+</div>
 
-    <div class="container bs-docs-container">
-            <div class="col-md-3" role="complementary">
-                <!-- <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm"> -->
-                <!--     <ul class="nav bs-docs-sidenav"> -->
-                <!--         <li> -->
-                <!--             <a href="#graphviz">Graphviz</a> -->
-                <!--             <ul class="nav"> -->
-                <!--                 <li><a href="#diagrammer-implementation">DiagrammeR Implementation</a></li> -->
-                <!--                 <li><a href="#defining-a-graphviz-graph">Defining a Graphviz Graph</a></li> -->
-                <!--                 <li><a href="#statements">Statements</a></li> -->
-                <!--                 <li><a href="#subgraphs-and-clusters">Subgraphs and Clusters</a></li> -->
-                <!--             </ul> -->
-                <!--         </li> -->
-                <!--         <li> -->
-                <!--             <a href="#attributes">Graphviz Attributes</a> -->
-                <!--             <ul class="nav"> -->
-                <!--                 <li><a href="#node-attributes">Node Attributes</a></li> -->
-                <!--                 <li><a href="#edge-attributes">Edge Attributes</a></li> -->
-                <!--                 <li><a href="#colors">Colors</a></li> -->
-                <!--                 <li><a href="#node-shapes">Node Shapes</a></li> -->
-                <!--                 <li><a href="#arrow-shapes">Arrow Shapes</a></li> -->
-                <!--             </ul> -->
-                <!--         </li> -->
-                <!--         <li> -->
-                <!--             <a href="#substitution">Graphviz Substitution</a> -->
-                <!--             <ul class="nav"> -->
-                <!--                 <li><a href="#how-it-works">How It Works</a></li> -->
-                <!--                 <li><a href="#examples">Examples</a></li> -->
-                <!--             </ul> -->
-                <!--         </li> -->
-                <!--         <li> -->
-                <!--             <a href="#graphviz-layouts">Graphviz Layouts</a> -->
-                <!--             <ul class="nav"> -->
-                <!--                 <li><a href="#the-layouts">The Layouts</a></li> -->
-                <!--                 <li><a href="#dot">dot</a></li> -->
-                <!--                 <li><a href="#neato">neato</a></li> -->
-                <!--                 <li><a href="#twopi">twopi</a></li> -->
-                <!--                 <li><a href="#circo">circo</a></li> -->
-                <!--             </ul> -->
-                <!--         </li> -->
-                <!--         <li> -->
-                <!--             <a href="#mermaid">mermaid</a> -->
-                <!--             <ul class="nav"> -->
-                <!--                 <li><a href="#mermaid-basics">mermaid Basics</a></li> -->
-                <!--                 <li><a href="#defining-a-mermaid-graph">Defining a mermaid Graph</a></li> -->
-                <!--                 <li><a href="#node-shape-and-text">Node Shape and Text</a></li> -->
-                <!--                 <li><a href="#mermaid-sequence-diagrams">mermaid Sequence Diagrams</a></li> -->
-                <!--             </ul> -->
-                <!--         </li> -->
-                <!--     </ul> -->
-                <!--     <a class="back-to-top" href="#top">Back to top</a> -->
-                <!-- </nav> -->
-                <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
-                    <ul class="nav bs-docs-sidenav">
-                        <li>
-                            <a href="#dmp">Data Management Plan</a>
-                            <ul class="nav">
-                                <li><a href="#scope">scope</a></li>
-                                <li><a href="#datainventory">Data Inventory</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#folderstructure">Folder Structure</a>
-                            <ul class="nav">
-                                <li><a href="#project">Project</a>
-                                    <ul class="nav">
-                                        <li><a href="#dataset">Dataset</a></li>
-                                        <li><a href="#entity">Entity</a></li>
-                                    </ul>
-                                </li>                                
-                                <li><a href="#version">Version control</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <a class="back-to-top" href="#top">Back to top</a>
-                </nav>
-
-            </div>
-
-    <div class="container bs-docs-container">
-        <div class="row">
-            <div class="col-md-9" role="main">
-                <div class="bs-docs-section">
-                    <h1 id="data" class="page-header">Data Management</h1>
-                       <h2 id="dmp">Data Management Plan</h2>
-                       <p>Hello world.</p>
-                           <h3 id="scope">Scope</h3>
-                           <p>This is a thing</p>
-                           <h3 id="datainventory">Data Inventory</h3>
-                           <p>This is a thing</p>
-                    
-                       <h2 id="folderstructure">Folder Structure</h2>
-                       <p>The  report by Noble.</p>
-                           <h3 id="project">Project</h3>
-                           <p>This is a thing</p>
-                           <h3 id="dataset">Dataset</h3>
-                           <p>This is a thing</p>
-                               <h4 id="entity">Entity</h3>
-                               <p>This is a thing</p>
-                           <h3 id="version">Version Control</h3>
-                           <p>This is a thing</p>
-
-                    <div class="bs-example">
-                        <img src="img/Pipeline.png" class="img-responsive center-block">
-                    </div>
-                    <div>
-                        <pre><code class="prettyprint">dat <- rnorm(1000,1,2)</code></pre></div>
-                </div>
-            </div>
-        </div>
-
-        <footer class="bs-docs-footer" role="contentinfo">
-            <div class="container">
-                <div class="bs-docs-social">
-                    <!-- <ul class="bs-docs-social-buttons"> -->
-                    <!--     <li> -->
-                    <!--         <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=rich-iannone&amp;repo=DiagrammeR&amp;type=watch&amp;count=true" width="90" height="20" title="Star on GitHub"></iframe> -->
-                    <!--     </li> -->
-                    <!--     <li> -->
-                    <!--         <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=rich-iannone&amp;repo=DiagrammeR&amp;type=fork&amp;count=true" width="90" height="20" title="Fork on GitHub"></iframe> -->
-                    <!--     </li> -->
-                    <!-- </ul> -->
-                    <ul class="bs-docs-social-buttons">
-                        <li class="follow-btn">
-                            <a href="https://twitter.com/ivanhanigan" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @ivanhanigan</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- <div class="container"> -->
-            <!--     <p>Designed and built by Richard Iannone <a href="https://twitter.com/riannone" target="_blank">@riannone</a>.</p> -->
-            <!--     <p>Valuable contributions by Kent Russell <a href="https://twitter.com/timelyportfolio" target="_blank">@timelyportfolio</a>, JJ Allaire <a href="https://twitter.com/rstudio" target="_blank">@rstudio</a>, and Michaël Benesty <a href="https://twitter.com/pommedeterre33" target="_blank">@pommedeterre33</a>.</p> -->
-            <!--     <p>Code licensed under MIT.</p> -->
-            <!--     <ul class="bs-docs-footer-links text-muted"> -->
-            <!--         <li>Currently v0.8.2</li> -->
-            <!--         <li>&middot;</li> -->
-            <!--         <li><a href="https://github.com/rich-iannone/DiagrammeR">GitHub</a></li> -->
-            <!--         <li>&middot;</li> -->
-            <!--         <li><a href="https://github.com/rich-iannone/DiagrammeR/issues">Issues</a></li> -->
-            <!--         <li>&middot;</li> -->
-            <!--         <li><a href="https://github.com/rich-iannone/DiagrammeR/releases">Releases</a></li> -->
-            <!--     </ul> -->
-            <!-- </div> -->
-        </footer>
+<div id="content">
+<h1 class="title">UC-ACT Regional Health Observatory </h1>
 
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script src="./js/bootstrap.min.js"></script>
-        <script src="./js/docs.min.js"></script>
-        <script src="./js/ie10-viewport-bug-workaround.js"></script>
-        <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+<hr/>
 
-        <script>
-          window.twttr = (function (d,s,id) {
-            var t, js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return; js=d.createElement(s); js.id=id; js.async=1;
-            js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
-            return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
-          }(document, "script", "twitter-wjs"));
-        </script>
 
-    </body>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Introduction</a>
+<ul>
+<li><a href="#sec-1-1">1.1 Overview</a></li>
+<li><a href="#sec-1-2">1.2 Key aims of the observatory</a>
+<ul>
+<li><a href="#sec-1-2-1">1.2.1 Understanding patterns in the data</a></li>
+<li><a href="#sec-1-2-2">1.2.2 Explanatory statistical modelling</a></li>
+<li><a href="#sec-1-2-3">1.2.3 Capacity building</a></li>
+<li><a href="#sec-1-2-4">1.2.4 Sharing data</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-3">1.3 The team</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+
+
+</div>
+
+<div id="outline-container-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> Overview</h3>
+<div class="outline-text-3" id="text-1-1">
+
+<p>The Observatory is concerned with the current spatial variability and
+trends of neighbourhood-level population health outcomes and risk
+factors in the Australian Capital Region. The region is composed of
+Canberra and the 17 surrounding Local Government Areas. Additional
+links with the National UC Regional Wellbeing Survey and the Sydney PH
+Observatory also provide the observatory a multi-scaled perspective
+that sees population health in an ecological framework ranging from
+micro, meso and macro scale factors. Stakeholders include ACT Health
+and the Heart Foundation.
+</p>
+<p>
+<img src="./img/ACRegion.png"  alt="./img/ACRegion.png" />
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> Key aims of the observatory</h3>
+<div class="outline-text-3" id="text-1-2">
+
+
+<p>
+The observatory aims to support those working to improve public health and reduce health inequalities by:
+</p>
+<ol>
+<li>producing and disseminating health intelligence
+</li>
+<li>strengthening research evidence for policy and practice.
+</li>
+</ol>
+
+
+
+</div>
+
+<div id="outline-container-1-2-1" class="outline-4">
+<h4 id="sec-1-2-1"><span class="section-number-4">1.2.1</span> Understanding patterns in the data</h4>
+<div class="outline-text-4" id="text-1-2-1">
+
+<p>We act as a source of expertise in health intelligence, indicator development and inequalities measurement, and act as catalyst for population health improvement. A particular focus is on research that solves cross-scale data problems in health data collections and analysis. 
+</p></div>
+
+</div>
+
+<div id="outline-container-1-2-2" class="outline-4">
+<h4 id="sec-1-2-2"><span class="section-number-4">1.2.2</span> Explanatory statistical modelling</h4>
+<div class="outline-text-4" id="text-1-2-2">
+
+<p>We apply state-of-the-art statistical techniques to mortality and disease modelling and cost estimates. This enhances our understanding of health determinants in the region.
+</p></div>
+
+</div>
+
+<div id="outline-container-1-2-3" class="outline-4">
+<h4 id="sec-1-2-3"><span class="section-number-4">1.2.3</span> Capacity building</h4>
+<div class="outline-text-4" id="text-1-2-3">
+
+<p>We actively try to build research resources with our stakeholders and engaging relevant other policy communities. We advise on methods of evaluation and health impact. We aim to facilitate the translation of health intelligence into evidence-informed policy and practice and increase co-research capacity, between academics, policy makers, practitioners and Non-Government Organisations (NGO).
+</p></div>
+
+</div>
+
+<div id="outline-container-1-2-4" class="outline-4">
+<h4 id="sec-1-2-4"><span class="section-number-4">1.2.4</span> Sharing data</h4>
+<div class="outline-text-4" id="text-1-2-4">
+
+<p>We aspire to develop an online, searchable collection of aggregated data sets together with interactive presentation tools and spatial mapping capability.
+</p>
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-1-3" class="outline-3">
+<h3 id="sec-1-3"><span class="section-number-3">1.3</span> The team</h3>
+<div class="outline-text-3" id="text-1-3">
+
+
+<p>
+CeRAPH Staff:
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<colgroup><col class="left" /><col class="left" />
+</colgroup>
+<thead>
+<tr><th scope="col" class="left">Full name</th><th scope="col" class="left">Position</th></tr>
+</thead>
+<tbody>
+<tr><td class="left">Prof Rachel Davey</td><td class="left">Director of HRI and CeRAPH</td></tr>
+<tr><td class="left">Prof Tom Cochrane</td><td class="left">Professor of Public Health</td></tr>
+<tr><td class="left">Dr Yohannes Kinfu</td><td class="left">Statistician, Senior Research Fellow</td></tr>
+<tr><td class="left">Dr Yan Yu</td><td class="left">Biostatistician, Research Fellow</td></tr>
+<tr><td class="left">Dr Ivan Hanigan</td><td class="left">Data Scientist, Research Fellow</td></tr>
+<tr><td class="left">Mr Vincent Learnihan</td><td class="left">Research Officer- GIS</td></tr>
+</tbody>
+</table>
+
+
+<p>
+Affiliated researchers:
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<colgroup><col class="left" /><col class="left" />
+</colgroup>
+<thead>
+<tr><th scope="col" class="left">Full name</th><th scope="col" class="left">Position</th></tr>
+</thead>
+<tbody>
+<tr><td class="left">Dr Nasser Bagheri</td><td class="left">ARC DECRA Research Fellow, ANU</td></tr>
+<tr><td class="left">Dr Soumya Mazumdar</td><td class="left">Epidemiologist, South West Sydney Local Health District</td></tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+
+</body>
 </html>
