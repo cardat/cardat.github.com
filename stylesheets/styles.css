@@ -256,3 +256,14 @@ footer {
     color:#444;
   }
 }
+
+/* custom classes */
+.float-left {
+  float:left;
+  padding-right:10px;
+}
+
+.float-right {
+  float:right;
+  padding-left:10px;
+}
