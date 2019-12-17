@@ -269,3 +269,8 @@ footer {
   float:right;
   padding-left:10px;
 }
+.logo-image {
+  float:left;
+  padding-right:10px;
+  width:75%;
+}
