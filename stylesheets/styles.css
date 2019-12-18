@@ -165,7 +165,7 @@ header ul a strong {
 }
 
 section {
-  width:570px;
+  width:65%;
   float:right;
   padding-bottom:50px;
 }
@@ -277,7 +277,6 @@ footer {
 }
 hr.car-red {
   border-top: 1px solid #952738;
-  width: 95%;
 }
 div.padding-top-bottom {
   padding-top: 1px;
