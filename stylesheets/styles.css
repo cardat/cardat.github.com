@@ -275,8 +275,8 @@ footer {
   padding-bottom:15px;
   width:75%;
 }
-.car-red {
-  color: #952738;
+hr.car-red {
+  border-top: 1px solid #952738;
 }
 .padding-top-bottom-5 {
   padding-top: 5px;
