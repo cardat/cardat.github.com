@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding:40px;
+  padding:45px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:400;
@@ -30,11 +30,11 @@ h1 {
 }
 
 h2 {
-  color:#78537F;
+  color:#1D2554;
 }
 
 h3, h4, h5, h6 {
-  color:#5e2b33;
+  color:#78537F;
 }
 
 a {
@@ -274,4 +274,11 @@ footer {
   padding-right:10px;
   padding-bottom:15px;
   width:75%;
+}
+.car-red {
+  color: #952738;
+}
+.padding-top-bottom-5 {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
