@@ -277,11 +277,12 @@ footer {
 }
 hr.car-red {
   border-top: 1px solid #952738;
-  width: 75%;
-  align: left;
+  width: 95%;
 }
 div.padding-top-bottom {
   padding-top: 1px;
   padding-bottom: 1px;
 }
-
+div.padding-top {
+  padding-top: 1px;
+}
