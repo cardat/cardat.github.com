@@ -80,6 +80,11 @@ table {
   width:100%;
   border-collapse:collapse;
 }
+caption {
+  caption-side:bottom;
+  display: table-caption;
+  text-align: left;
+}
 
 th, td {
   text-align:left;
