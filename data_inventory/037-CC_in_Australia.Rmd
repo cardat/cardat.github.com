@@ -1,0 +1,56 @@
+CC_in_Australia
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:39 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> CC_in_Australia </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> CSIRO and Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Climate model data from the full set of current generation global climate models (CMIP5) for Australia (and for the four available greenhouse gas emissions scenarios). Data exists in two categories - Projected change data: projected climate changes relative to the IPCC 1986-2005 baseline; and application ready data: projected climate changes applied to a 30 year observational data set (1981-2010). (See more at https://www.climatechangeinaustralia.gov.au/) </td> </tr>
+   </table>
+
+
+
+CC_in_Aus_ABS_SD_2019
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:39 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> CC_in_Aus_ABS_SD_2019 </td> </tr>
+  <tr> <td align="right"> title </td> <td> CC_in_Aus_ABS_SD_2019 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan, based on data from CSIRO and ABS </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Monthly modelled rainfall (PR) and surface air temperature (TAS) averaged for each statistical division of NSW (excluding Lord Howe Island). Derived from CSIRO Climate Change in Australia gridded time series datasets and ABS 2006 statistical division boudaries.  | Data used three climate models (ACCESS1-0, GFDL-ESM2M, NorESM1-M) at Representative Concentration Pathways (RCP) 4.5 and 8.5. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3247925799 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Hanigan, I (2019), CC_in_Aus_ABS_SD_2019, data derived from CSIRO and ABS data. Retrieved from Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/3247925799 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> CCBYNC </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+
+
+Climate_Change_Aus_Gridded_Data
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:39 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Climate_Change_Aus_Gridded_Data </td> </tr>
+  <tr> <td align="right"> title </td> <td> Climate_Change_Aus_Gridded_Data </td> </tr>
+  <tr> <td align="right"> creator </td> <td> CSIRO and Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Gridded individual model data using WGS84 datum from the full set of climate models (CIMP5). Available for: change data at native model grid, as monthly, seasonal and annual averages; application-ready data at 0.05Â° (approx. 5 km) grid, as monthly, seasonal and annual averages; and application-ready data at 0.05Â° (approx. 5 km) grid, as monthly, seasonal and annual 30-year time-series. Gridded daily time-series data are also available for manual delivery. (See more at https://www.climatechangeinaustralia.gov.au/en/climate-projections/explore-data/data-download/) To download, access the data (in NetCDF only) on the NCI ERDDAP server (http://nrm-erddap.nci.org.au/erddap/index.html) and the CCIA datasets also sit on the National Computational Infrastructure (NCI) (http://dap.nci.org.au/thredds/remoteCatalogService?catalog=http://dapds00.nci.org.au/thredds/catalog/ua6_4/CMIP5/derived/CMIP5/GCM/native/catalog.xml). (Use the link labelled â€œ2 HTTPServer:â€ in browser.) Each file contains the data for all months as well as annual, summer (djf), autumn (mam), winter (jja), spring (son), wet season (ndjfma) and dry season (mjjaso). </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> CSIRO and Bureau of Meteorology (BoM), NA, Climate_Change_Aus_Gridded_Data, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

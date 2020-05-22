@@ -1,0 +1,34 @@
+GIS_Regression_Sydney
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:24 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> GIS_Regression_Sydney </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Christine Cowie </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Methods consistent with the European Study of Cohorts for Air Pollution Effects (ESCAPE) methodology to develop LUR (Land Use Regression) models for NO2 and NOx. 46 Ogawa passive samplers were deployed across western Sydney during 2013/2014 and acquired data on land use, population density, and traffic volumes for the study area. </td> </tr>
+   </table>
+
+
+
+GIS_Regression_Southwest_Sydney_NO2
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:25 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> GIS_Regression_Southwest_Sydney_NO2 </td> </tr>
+  <tr> <td align="right"> title </td> <td> GIS_Regression_Southwest_Sydney_NO2 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Christine Cowie </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Annual average NO2 concentrations for 2013 were estimated for 947 addresses in the western Sydney region using an LUR model developed according to European Study of Cohorts for Air Pollution Effects (ESCAPE) methodology. These data are described in the paper (including supplementary data) Cowie, C. et al. 2019 , Comparison of model estimates from an intra-city land use regression model with a national satellite-LUR and a regional Bayesian Maximum Entropy model, in estimating NO2 for a birth cohort in Sydney, Australia. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4162780368 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Cowie, C. 2020, Southwest Sydney GIS Regression NO2 data. Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/4162780368 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

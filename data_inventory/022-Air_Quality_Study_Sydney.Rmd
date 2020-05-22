@@ -1,0 +1,34 @@
+Air_Quality_Study_Sydney
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:18 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Air_Quality_Study_Sydney </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> NSW OEH and EPA </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Multi-year study, starting in 2016, drawing on data from the Sydney Air Quality Monitoring Network, the NSW Greater Metropolitan Regional Air Emissions Inventory, and from research studies such as the Sydney Particle Study and the Sydney Particle Characterisation Study. A regional airshed model was established to examine air quality and population exposures variation and to quantify major source contributions to air pollution and exposure. Future projections of air quality changes and consequent impacts are also studied using this model. </td> </tr>
+   </table>
+
+
+
+Air_Quality_Study_Sydney_2016_2022
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:18 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Air_Quality_Study_Sydney_2016_2022 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Air_Quality_Study_Sydney_2016_2022 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NSW OEH and EPA </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Multi-year study, starting in 2016 and on-going, drawing on data from the Sydney Air Quality Monitoring Network, the NSW Greater Metropolitan Regional Air Emissions Inventory, and from other research studies. Air quality and population exposures were modelled. Major source contributions to air pollution and exposure were quantified and health impacts and costs assessed. Future projections of air quality changes and consequent impacts are also studied using this model. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW OEH and EPA, NA, Air_Quality_Study_Sydney_2016_2022, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

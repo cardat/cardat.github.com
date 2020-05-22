@@ -1,0 +1,122 @@
+Air_Pollution_Monitoring_Stations_National
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_National </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> CAR </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Air pollution monitoring data collated from state and territory agencies. |  |  |  | Note (23/9/2019): Apparently John Kirkwood of NSW OEH has convened a technical committee for air pollution monitoring, involving all states and territories. Standardisation of air pollution monitoring methods and records has been raised, although it seems nothing concrete is in place. </td> </tr>
+   </table>
+
+
+
+Air_Pollution_Monitoring_Stations_National_NO2_2006_2011
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Air_Pollution_Monitoring_Stations_National_NO2_2006_2011 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_National_NO2_2006_2011 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Hourly NO2 measurements for 2006-2011 at EPA sites across Australia </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Luke Knibbs, NA, Air_Pollution_Monitoring_Stations_National_NO2_2006_2011, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Air_Pollution_Monitoring_Stations_National_PM10_2006_2011
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Air_Pollution_Monitoring_Stations_National_PM10_2006_2011 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_National_PM10_2006_2011 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Daily PM10 observations for 2006-2011 across Australia. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Luke Knibbs, NA, Air_Pollution_Monitoring_Stations_National_PM10_2006_2011, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Air_Pollution_Monitoring_Stations_National_PM25_2000_2015
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Air_Pollution_Monitoring_Stations_National_PM25_2000_2015 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_National_PM25_2000_2015 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> PM2.5 2000-2015. Some sites used different measurement method and some sites changed over time â€“ this is caveat.  |  |  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1718142663 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td> This was provided for CAR collaborations. The sharing details will be dealt with in the future, but we hope that this will become a fairly public dataset. This is just internal for us for the BoD current project until EPAs can be confirmed for u/l to the platform and wider access. |  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Luke Knibbs, 2018-04-04, Air_Pollution_Monitoring_Stations_National_PM25_2000_2015, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+
+
+Air_Pollution_Monitoring_Stations_National_PM25_2016_2018
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Air_Pollution_Monitoring_Stations_National_PM25_2016_2018 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_National_PM25_2016_2018 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Various state agencies </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td>  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Various state agencies, NA, Air_Pollution_Monitoring_Stations_National_PM25_2016_2018, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_national_database
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_national_database </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_national_database </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Various </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> All states and all pollutants for all sites. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4276930659 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Various, 2020-03-18, AP_monitor_national_database, Data retrieved from Centre for Air pollution, energy and health Research. </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

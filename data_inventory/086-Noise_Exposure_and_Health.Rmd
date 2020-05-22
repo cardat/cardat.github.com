@@ -1,0 +1,78 @@
+Noise_Exposure_and_Health
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:03 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Noise_Exposure_and_Health </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Geoff Morgan, National Noise and Health Collaboration </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> This is a national collaboration with USyd, UWA, ACU, UNSW, ISGlobal and Ben Hinze (ambient.com). |  | Some of these datasets are created by Ben Hinze to model noise using road geometry, cadastral boundaries, and mesh block census data. |  </td> </tr>
+   </table>
+
+
+
+Morley_Minor_Roads
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:03 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Morley_Minor_Roads </td> </tr>
+  <tr> <td align="right"> title </td> <td> Morley_Minor_Roads </td> </tr>
+  <tr> <td align="right"> creator </td> <td> David Morley </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Downloaded from Github https://github.com/dwmorley/Minor_Roads </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> David Morley, NA, Morley_Minor_Roads, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+NOISE_S1_bankstown_preliminary_results
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:03 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> NOISE_S1_bankstown_preliminary_results </td> </tr>
+  <tr> <td align="right"> title </td> <td> NOISE_S1_bankstown_preliminary_results </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ben Hinze </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> ben@ambientmaps.co </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> In preliminary modelling toward a noise map for Sydney Ben Hinze created a model including 2m ground contours, road, rail and buildings. The geometry for road and rail lines was based on the centreline of these roads / rail with arbitrary values based on road or rail classification. Eg 75 dB for freeways and stepping down in 5 dB increments for each drop in road classification. For buildings, the cadastral boundaries that were residential and created a polygon within a few meters or so away from the cadastral line.  Then the 2011 Mesh Block and Census data were used. A population estimate was attached to each building based on the volume of the building (ie building footprint area * the height), as to assign a greater number of people to larger, taller buildings (eg unit blocks) compare to single dwellings. Then a noise level was calculated for each building for the road lines. These noise levels are based on the noise levels around each building facade and provide not only the maximum noise level at each building, but also an average and minimum noise levels around each building, acknowledging not everyone lives in the loudest room of each house. This data is a based on a crude model with the greatest limitation being the estimated building facade information based on block size and a nominal setback distance to define the footprint. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3751667240 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Hinze, B. (2019) NOISE S1 Bankstown preliminary results. Retrieved from Centre for Air pollution, energy and health Research.  https://cloudstor.aarnet.edu.au/plus/f/3751667240 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+
+
+Traffic_Noise_Canterbury_Earlwood_and_Hurlstone_Park
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:03 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Traffic_Noise_Canterbury_Earlwood_and_Hurlstone_Park </td> </tr>
+  <tr> <td align="right"> title </td> <td> Traffic_Noise_Canterbury_Earlwood_and_Hurlstone_Park </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ben Hinze </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> These data were created by Ben Hinze as part of his work to create a road, rail and aircraft noise model for Australia. For roads, inputs based from mobile device probe counts include traffic volumes, speeds and HGV% for the day, evening and night time periods for all roads including local access streets. Noise barriers as identified by the NSW Department of Roads and Maritime Services also feature. Buildings were sourced from PSMA Australia (release date May 2019), with all features overlaid on to a terrain developed from the Shuttle Radar Topography Mission. |   | Noise levels in the form of an LAeq were calculated using the German standard RLS90 for the day (7am to 7pm), evening (7pm to 11pm) and night (11pm to 7am) time periods.  |  | At this stage, no verification has been made with this dataset and the German standard. This process is currently underway. |  | Then a noise level was calculated for each facade of each storey for each building for the road lines. These noise levels are based on the noise levels around each building facade and provide not only the maximum noise level at each building, but also an average and minimum noise levels around each building, acknowledging not everyone lives in the loudest room of each house.  |  | These data also include the height and number of floors in the buildings. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3821502861 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td> Data available on request. Co-authorship is expected for any publications resulting from this data. </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Hinze, B. (2019) Traffic noise for the Sydney suburbs of Canterbury, Earlwood and Hurlstone Park. Retrieved from Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/3821502861 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> CCBYSA </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

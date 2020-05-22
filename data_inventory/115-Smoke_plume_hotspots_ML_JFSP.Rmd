@@ -1,0 +1,34 @@
+Smoke_plume_hotspots_ML_JFSP
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Smoke_plume_hotspots_ML_JFSP </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Smoke plume hotspots from machine learning (as part of the Joint Fire Science Program), a collaboration between CSIRO, USyd and Uni North Carolina (USA). |  </td> </tr>
+   </table>
+
+
+
+Smoke_plume_hotspots_ML_JFSP
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Smoke_plume_hotspots_ML_JFSP </td> </tr>
+  <tr> <td align="right"> title </td> <td> Smoke_plume_hotspots_ML_JFSP </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Smoke plume hotspots from machine learning (as part of the Joint Fire Science Program), a collaboration between CSIRO, USyd and Uni North Carolina (USA). </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2043811973 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, NA, Smoke_plume_hotspots_ML_JFSP, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

@@ -1,0 +1,78 @@
+RBDM_National_Death
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:28 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> RBDM_National_Death </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Department of Justice and Attorney-General (QLD) </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> The Department of Justice and Attorney-General (QLD) is the appointed Australian Coordinating Registry (ACR), compiling data from each State and Territory Registries of Births, Deaths and Marriages (RBDMs) and from State and Chief Coroners through the National Coronial Information System (NCIS). </td> </tr>
+   </table>
+
+
+
+RBDM_National_Death_CODURF_1968
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:28 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> RBDM_National_Death_CODURF_1968 </td> </tr>
+  <tr> <td align="right"> title </td> <td> RBDM_National_Death_CODURF_1968 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Department of Justice and Attorney-General (QLD) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> CODURF data from 1968 to an unknown date. Data is currrently archived with no current plan to revive the database. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Department of Justice and Attorney-General (QLD), NA, RBDM_National_Death_CODURF_1968, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+RBDM_National_Death_CODURF_2006_2019
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:28 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> RBDM_National_Death_CODURF_2006_2019 </td> </tr>
+  <tr> <td align="right"> title </td> <td> RBDM_National_Death_CODURF_2006_2019 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Department of Justice and Attorney-General (QLD) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Cause of death unit record file (COD URF) contains information relating to all deaths registered in Australia for a given reference year. The dataset does not contain names but has a number of attributes of an individual including the International Classification of Disease (currently version 10) codes relating to the causes of death, which are added by the Australian Bureau of Statistics (ABS). National dataset is a compilation from state and territory Registries of Births, Deaths and Marriages (RBDMs) and from State and Chief Coroners through the National Coronial Information System (NCIS). See https://publications.qld.gov.au/dataset/rbdm-qld-nation-death-data-frequently-asked-questions for more information. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Department of Justice and Attorney-General (QLD), NA, RBDM_National_Death_CODURF_2006_2019, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+RBDM_National_Death_CODURF_NSW_1986_2005
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:28 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> RBDM_National_Death_CODURF_NSW_1986_2005 </td> </tr>
+  <tr> <td align="right"> title </td> <td> RBDM_National_Death_CODURF_NSW_1986_2005 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Department of Justice and Attorney-General (QLD), NSW Ministry of Health </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> CODURF data for NSW only from 1986 to 2005. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Department of Justice and Attorney-General (QLD), NSW Ministry of Health, NA, RBDM_National_Death_CODURF_NSW_1986_2005, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

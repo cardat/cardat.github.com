@@ -1,0 +1,34 @@
+Air_Pollution_Monitors_Ogawa
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitors_Ogawa </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Christine Cowie </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td>  </td> </tr>
+   </table>
+
+
+
+Ogawa_passive_samplers_Western_Sydney_Adjusted
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Ogawa_passive_samplers_Western_Sydney_Adjusted </td> </tr>
+  <tr> <td align="right"> title </td> <td> Ogawa_passive_samplers_Western_Sydney_Adjusted </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Christine Cowie and Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This is the dataset used in the Sydney2 data set developed for Luke's paper 'Independent validation of national satellite-based land-use regression models for nitrogen dioxide using passive samplers' Luke David Knibbs, Craig P. Coorey, Matthew John Bechle, Christine Therese Cowie, Mila Dirgawati, Jane S. Heyworth, Guy Barrington Marks, Julian D Marshall, Lidia Morawska, Gavin Pereira, and Michael G. Hewson Environ. Sci. Technol., DOI: 10.1021/acs.est.6b03428.  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/ResearchProjects_CAR/Air_Pollution_Monitors_Ogawa/Ogawa_passive_samplers_Western_Sydney_Adjusted" target = "_blank">/home/public_share_data/ResearchData_CAR/ResearchProjects_CAR/Air_Pollution_Monitors_Ogawa/Ogawa_passive_samplers_Western_Sydney_Adjusted</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4346343153 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td> By request only </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Christine Cowie and Luke Knibbs, 2020-04-08, Ogawa_passive_samplers_Western_Sydney_Adjusted, Data retrieved from Centre for Air pollution, energy and health Research. </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

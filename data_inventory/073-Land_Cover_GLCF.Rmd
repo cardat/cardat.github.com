@@ -1,0 +1,34 @@
+Land_Cover_GLCF
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:41 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Land_Cover_GLCF </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Global Land Cover Facility (GLCF), University of Maryland, NASA </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Land cover, percent tree cover, forest change, radiative flux and other derived products using remotely sensed satellite data </td> </tr>
+   </table>
+
+
+
+Vegetation_Continuous_Fields_MODIS_2000_2010
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:41 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Vegetation_Continuous_Fields_MODIS_2000_2010 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Vegetation_Continuous_Fields_MODIS_2000_2010 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Global Land Cover Facility (GLCF) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Proportional estimates for vegetative cover types: woody vegetation, herbaceous vegetation, and bare ground. derived from all seven bands of the MODerate-resolution Imaging Spectroradiometer (MODIS) sensor. Spatial resolution of 250m. Used by Luke to develop the automated Satellite and Landuse regression models. Access at http://www.landcover.org/data/vcf/ </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Global Land Cover Facility (GLCF), NA, Vegetation_Continuous_Fields_MODIS_2000_2010, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

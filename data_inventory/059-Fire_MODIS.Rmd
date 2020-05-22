@@ -1,0 +1,56 @@
+Fire_MODIS
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:17 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Fire_MODIS </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Louis Giglio et al. </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Active fire and burned area maps derived from MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Terra and Aqua satellites </td> </tr>
+   </table>
+
+
+
+Fire_MODIS_Active_Fire
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:17 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Fire_MODIS_Active_Fire </td> </tr>
+  <tr> <td align="right"> title </td> <td> Fire_MODIS_Active_Fire </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Louis Giglio et al. </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Annual active fire density (fires/km2) from satellite-derived estimates of active fires (where detection confidence â‰¥30%) with 1km spatial resolution. Used by Luke to develop the automated Satellite and Landuse regression models. |  | http://modis-fire.umd.edu/pages/ActiveFire.php </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Louis Giglio et al., NA, Fire_MODIS_Active_Fire, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Fire_MODIS_Burned_Area
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:17 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Fire_MODIS_Burned_Area </td> </tr>
+  <tr> <td align="right"> title </td> <td> Fire_MODIS_Burned_Area </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luigi Borschetti et al. </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Annual total burned vegetation area (%) from satellite-derived estimates of burned area (where QA values â‰¤3) with 500m spatial resolution. Used by Luke to develop the automated Satellite and Landuse regression models. |  | http://modis-fire.umd.edu/pages/BurnedArea.php </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Luigi Borschetti et al., NA, Fire_MODIS_Burned_Area, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

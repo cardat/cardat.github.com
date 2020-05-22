@@ -1,0 +1,56 @@
+Air_Pollution_Monitoring_Stations_NT
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:07 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_NT </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> NT EPA </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Air pollution monitoring data for NT </td> </tr>
+   </table>
+
+
+
+EPA_monitor_NT_2012_2017
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:07 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> EPA_monitor_NT_2012_2017 </td> </tr>
+  <tr> <td align="right"> title </td> <td> EPA_monitor_NT_2012_2017 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NT EPA </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Validated air pollution monitoring data for NT, 1-hrly averages. Downloaded from http://ntepa.webhop.net/NTEPA/Default.ltr.aspx on 30 May 2019 (Multi Station Report: Periodic search, Purpose - AIR QUALITY, All Stations for 01/01/2012 00:00 to 01/01/2018 00:00, Type - Mean, Time Base - 1 Hour). Station locations manually copied from station descriptions on same site. |  | Since 2004, the Northern Territory Government has conducted particulate monitoring in the Darwin region. In late 2010 monitoring was expanded to include a full ambient air quality monitoring station located near Palmerston. Another station was installed at Winnellie in mid 2012.  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NT/EPA_monitor_NT_2012_2017" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NT/EPA_monitor_NT_2012_2017</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3626060520 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NT EPA, 2019-07-02, EPA_monitor_NT_2012_2017, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+
+
+EPA_monitor_NT_hr_avg_2011_2018
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:07 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> EPA_monitor_NT_hr_avg_2011_2018 </td> </tr>
+  <tr> <td align="right"> title </td> <td> EPA_monitor_NT_hr_avg_2011_2018 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NT EPA </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Air pollution monitor data, hourly averages, for Northern Territory. Palmerston station operational since 2011, Winnellie since mid-2012 and Stokes Hill since May 2017. Data downloaded 2019-09-30 from http://ntepa.webhop.net/NTEPA/Default.ltr.aspx.  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NT/EPA_monitor_NT_hr_avg_2011_2018" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NT/EPA_monitor_NT_hr_avg_2011_2018</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3870951930 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NT EPA, NA, EPA_monitor_NT_hr_avg_2011_2018, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

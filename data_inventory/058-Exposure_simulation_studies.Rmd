@@ -1,0 +1,34 @@
+Exposure_simulation_studies
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:15 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Exposure_simulation_studies </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Luke Knibbs, Ivan Hanigan, Geoff Morgan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> This project was initiated by Luke Knibbs and Ivan Hanigan to facilitate an investigation to look at the bias introduced by exposure misclassification to NO2 in Sydney using the NATSEM synthetic census to imitate the 45andUp cohort (this cohort provides key motivation) and 5 different ways to estimate an exposure surface.  Other datasets are anticipated that may look at the access to fast food locations, using Ivan's work with the University of Canberra as a motivating case study. </td> </tr>
+   </table>
+
+
+
+Exposure_simulation_study_Sydney_NO2
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:15 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Exposure_simulation_study_Sydney_NO2 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Exposure_simulation_study_Sydney_NO2 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan and Cassandra Yuen </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This project is a shared work for a CAR seed grant.   | The aim is to quantify exposure misclassification bias in estimated relative risks using a simulated cohort dataset based on the 45andUp cohort. |  | There is also a shared folder: | ~/Dropbox/projects/air_pollution_ucrh/CARET/Exposure_simulation_study/CARET_exposure_simulation_study_shared |  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1718142693 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan and Cassandra Yuen, NA, Exposure_simulation_study_Sydney_NO2, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

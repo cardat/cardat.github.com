@@ -1,0 +1,34 @@
+AHI_cloud_masks
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:13:55 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> AHI_cloud_masks </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Geoff Morgan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Advanced Himawari Imager (AHI) data with a cloud mask algorithm. Aerosol optical depth (AOD) data were analysed to derive pixel-wise aerosol properties (cloud, smoke, dust, fog, absorptive) over a 2 km grid covering Australia (Qin et al., 2015; Qin et al. 2018 - submitted).  The AOD fields were derived in 10-minute increments spanning each study timeframe. |  | Qin, Y., R. Mitchell and B. W. Forgan, Characterizing the Aerosol and Surface Reflectance Over Australia Using AATSR, in IEEE Transactions on Geoscience and Remote Sensing, vol. 53, no. 11, pp. 6163-6182, Nov. 2015. doi: 10.1109/TGRS.2015.2433911. | Qin, Y., Steven, A.D.L., Schroeder, T., McVicar, T.R., Huang, J., Cope, M., Zhou, S., 2018, “Cloud Masking, Cloud Classification and Optical Depth Retrieval of Advanced Himawari Imager data: Development and Evaluation of a Time-Series Radiative Transfer Modelling Based Approach”, Frontiers in Environmental Science, (submitted). </td> </tr>
+   </table>
+
+
+
+AHI_cloud_masks_JFSP_ML_smoke_usa
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:13:55 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AHI_cloud_masks_JFSP_ML_smoke_usa </td> </tr>
+  <tr> <td align="right"> title </td> <td> AHI_cloud_masks_JFSP_ML_smoke_usa </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Yi Qin </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> From: Qin, Yi (O&A, Black Mountain)  | Sent: Thursday, 22 February 2018 1:35 PM | To: Alexandra Larsen <aelarsen@ncsu.edu>; Cope, Martin (O&A, Aspendale) <Martin.Cope@csiro.au> | Cc: Ana Rappold <Rappold.Ana@epa.gov> | Subject: RE: Cloud mask and smoke data | Hi Alex / Martin, | The files are now in place. | Martin, could you please create a link to: /datastore/wwwusers/254864/ML_smoke. | Alex, you may also access the file from:  http://hpc.csiro.au/users/254864/ | Regards, |  | Yi </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2037686413 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td> Ivan Hanigan [role: creation of publishable derived data from data provided] </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Yi Qin, 2018-08-01, AHI_cloud_masks_JFSP_ML_smoke_usa, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

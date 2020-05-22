@@ -1,0 +1,56 @@
+Sentinel-5P
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:49 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Sentinel-5P </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> European Space Agency (ESA) </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Atmospheric monitoring data from the Sentinel-5P satellite carrying the TROPOMI (Tropospheric Monitoring Instrument), as part of the Copernicus missions. Data collected includes air qulity, ozone and UV radiation. </td> </tr>
+   </table>
+
+
+
+Sentinel-5P_Atmospheric_Chemistry
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:49 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Sentinel-5P_Atmospheric_Chemistry </td> </tr>
+  <tr> <td align="right"> title </td> <td> Sentinel-5P_Atmospheric_Chemistry </td> </tr>
+  <tr> <td align="right"> creator </td> <td> European Space Agency (ESA) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Atmospheric monitoring data from the Sentinel-5P satellite carrying the TROPOMI (Tropospheric Monitoring Instrument), as part of the Copernicus missions. Geophysical products are derived from 4 multichannel spectrometers and cover O3, NO2, SO2, CO, CH4, and HCHO gases, as well as cloud fraction, albedo, top pressure, UV aerosol index, and aerosol layer height (mid-level pressure). Data is collected globally on a daily basis with a pixel resolution of 7km x 7km. |  | Data will be publicly and freely available from the NCI when obtained by the Australian Copernicus Regional Data Hub (see http://www.copernicus.gov.au/). </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> European Space Agency (ESA), NA, Sentinel-5P_Atmospheric_Chemistry, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Sentinel-5P_Radiance_Irradiance
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:49 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Sentinel-5P_Radiance_Irradiance </td> </tr>
+  <tr> <td align="right"> title </td> <td> Sentinel-5P_Radiance_Irradiance </td> </tr>
+  <tr> <td align="right"> creator </td> <td> European Space Agency (ESA) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Atmospheric monitoring data from the Sentinel-5P satellite carrying the TROPOMI (Tropospheric Monitoring Instrument), as part of the Copernicus missions. Radiance and irradiance data is from calibrated sensor output from 4 multichannel spectrometers, ranging from 270nm to 2385nm. Data is collected globally on a daily basis with a pixel resolution of 7km x 7km. |  | Data will be publicly and freely available from the NCI when obtained by the Australian Copernicus Regional Data Hub (see http://www.copernicus.gov.au/). </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> European Space Agency (ESA), NA, Sentinel-5P_Radiance_Irradiance, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

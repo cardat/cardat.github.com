@@ -1,0 +1,56 @@
+Digital_Elevation_Model_GA
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Digital_Elevation_Model_GA </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Geoscience Australia </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Digital elevation models for Australia </td> </tr>
+   </table>
+
+
+
+DEM_D8_9Sec_2008
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> DEM_D8_9Sec_2008 </td> </tr>
+  <tr> <td align="right"> title </td> <td> DEM_D8_9Sec_2008 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Geoscience Australia </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> The GEODATA 9 Second Digital Elevation Model (DEM-9S) Version 3 is a grid of ground level elevation points covering the whole of Australia with a grid spacing of 9 seconds in longitude and latitude (approximately 250 metres) in the GDA94 coordinate system. GEODATA 9 Second Flow Direction Grid (D8-9S) is a corresponding grid describing the principal directions of surface drainage across the whole of Australia. Access at https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search?node=srv#/metadata/66006 </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Geoscience Australia, NA, DEM_D8_9Sec_2008, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+SRTM_1sec_Smooth_DEM_National
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> SRTM_1sec_Smooth_DEM_National </td> </tr>
+  <tr> <td align="right"> title </td> <td> SRTM_1sec_Smooth_DEM_National </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Geoscience Australia </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Satellite-derived (SRTM) Geoscience Australia 1-second smoothed digital elevation model |  | http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_72759 </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Geoscience Australia, NA, SRTM_1sec_Smooth_DEM_National, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

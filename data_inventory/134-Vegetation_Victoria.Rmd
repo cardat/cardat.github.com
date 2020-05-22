@@ -1,0 +1,34 @@
+Vegetation_Victoria
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:17:24 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Vegetation_Victoria </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Government of Victoria - Department of Environment, Land, Water and Planning </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Vegetation cover in Victoria </td> </tr>
+   </table>
+
+
+
+Vegetation_Victoria_Tree_Density_1991_2001
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:17:24 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Vegetation_Victoria_Tree_Density_1991_2001 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Vegetation_Victoria_Tree_Density_1991_2001 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Government of Victoria - Department of Environment, Land, Water and Planning </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Presence/absence of tree cover, medium density vegetation and dense vegetation datasets that are derived from SPOT Panchromatic imagery (10m pixels) by a combination of digital classification and visual interpretation. Available at the AURIN portal - Vicmap Vegetation - Tree Density (https://data.aurin.org.au/dataset/vic-govt-delwp-datavic-vmveg-tree-density-na; https://data.aurin.org.au/dataset/vic-govt-delwp-datavic-vmveg-tree-density-medium-na; https://data.aurin.org.au/dataset/vic-govt-delwp-datavic-vmveg-tree-density-dense-na) </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Government of Victoria - Department of Environment, Land, Water and Planning, NA, Vegetation_Victoria_Tree_Density_1991_2001, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

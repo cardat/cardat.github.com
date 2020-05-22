@@ -1,0 +1,34 @@
+GBD_GHDx
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:19 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> GBD_GHDx </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Institute for Health Metrics and Evaluation (IHME) </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Global all-cause deaths and Disability-Adjusted Life Years (DALYs) annually since 1990. |  | Data available categoriesd by year, age group, sex, location (region, country, select sub-national units, custom regions). Include following information: all GBD causes, risks, etiologies, impairments, injuries by nature, and sequela aggregates; measures: deaths, years of life lost (YLLs), years lived with disability (YLDs), disability-adjusted life years (DALYs), prevalence, incidence, life expectancy, probability of death, healthy life expectancy (HALE), maternal mortality ratio (MMR), and summary exposure value (SEV) |  </td> </tr>
+   </table>
+
+
+
+GBD_Australia_2016
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:19 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> GBD_Australia_2016 </td> </tr>
+  <tr> <td align="right"> title </td> <td> GBD_Australia_2016 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Institute for Health Metrics and Evaluation (IHME) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Estimated global all-cause deaths and Disability-Adjusted Life Years (DALYs) annually since 1990. |  | Data available categoriesd by year, age group, sex, location (region, country, select sub-national units, custom regions). Include following information: all GBD causes, risks, etiologies, impairments, injuries by nature, and sequela aggregates; measures: deaths, years of life lost (YLLs), years lived with disability (YLDs), disability-adjusted life years (DALYs), prevalence, incidence, life expectancy, probability of death, healthy life expectancy (HALE), maternal mortality ratio (MMR), and summary exposure value (SEV) |  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Institute for Health Metrics and Evaluation (IHME), NA, GBD_Australia_2016, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

@@ -1,0 +1,100 @@
+NPI
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> NPI </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Geoff Morgan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> The National Pollutant Inventory (NPI) contains information about toxic substances emitted to the environment and transferred as contained waste. For more information, visit the NPI website: www.npi.gov.au or https://data.gov.au/dataset/npi </td> </tr>
+   </table>
+
+
+
+NPI_1998_2017
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> NPI_1998_2017 </td> </tr>
+  <tr> <td align="right"> title </td> <td> NPI_1998_2017 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan, Based on data from Department of the Environment and Energy </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Available at https://data.gov.au/dataset/npi  | The National Pollutant Inventory (NPI) contains information about toxic substances emitted to the environment and transferred as contained waste. The dataset is updated on or before 31 March each year. Smaller updates may be made at any time. See data changes at http://www.npi.gov.au/npi-data/search-npi-data/data-change-notifications </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, Based on data from Department of the Environment and Energy, NA, NPI_1998_2017, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+NPI_2010_2013
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> NPI_2010_2013 </td> </tr>
+  <tr> <td align="right"> title </td> <td> NPI_2010_2013 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan, Based on data from Department of the Environment and Energy </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> https://data.gov.au/dataset/npi | Accessed by ivanhanigan 2018-03-07 | Publisher: Department of the Environment and Energy  | The National Pollutant Inventory (NPI) contains information about toxic substances emitted to the environment and transferred as contained waste. |  | The dataset is updated on or before 31 March each year. Smaller updates may be made at any time. |  | For more information, visit the NPI website: www.npi.gov.au </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/NPI/NPI_2010_2013" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/NPI/NPI_2010_2013</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1845019603 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, Based on data from Department of the Environment and Energy, 2018-08-31, NPI_2010_2013, Data retrieved from Centre for Air pollution, energy and health Research.The Australian Centre for Air pollution, energy and health Research (CAR). </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+
+
+NPINOX_from_Knibbs
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> NPINOX_from_Knibbs </td> </tr>
+  <tr> <td align="right"> title </td> <td> NPINOX_from_Knibbs </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This dataset was provided by Luke for work on developing the automated Satellite and Landuse regression models. For further information see Knibbs et al. 2014 and supplementary information found here: https://cloudstor.aarnet.edu.au/plus/f/1718144803 |  | Australia National Pollutant Inventory 2008/9 http://www.npi.gov.au/ </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/NPI/NPINOX_from_Knibbs" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/NPI/NPINOX_from_Knibbs</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2212645520 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td> Ivan Hanigan [role: creation of publishable derived data from data provided] </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Luke Knibbs, 2018-08-31, NPINOX_from_Knibbs, Data retrieved from Centre for Air pollution, energy and health Research.The Australian Centre for Air pollution, energy and health Research (CAR). </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+
+
+NPI_PM25_from_Knibbs
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:16 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> NPI_PM25_from_Knibbs </td> </tr>
+  <tr> <td align="right"> title </td> <td> NPI_PM25_from_Knibbs </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Department of the Environment and Energy </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> PM2.5 point source emission density and sites. Used by Luke to develop the automated Satellite and Landuse regression models. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Department of the Environment and Energy, NA, NPI_PM25_from_Knibbs, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

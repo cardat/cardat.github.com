@@ -1,0 +1,56 @@
+Satellite_OMI_NO2
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:43 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Satellite_OMI_NO2 </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Data used in Knibbs et al. 2014. Environmental Research 135 (2014) 204-211. </td> </tr>
+   </table>
+
+
+
+Sat_OMI_NO2_LK_2005_2016
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:43 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Sat_OMI_NO2_LK_2005_2016 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Sat_OMI_NO2_LK_2005_2016 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> The Ozone Monitoring Instrument (OMI) aboard the Aura satellite produces daily global observations of NO2tropospheric column abundance at a resolution of 13-24 km2(nadir) using a differential optical absorption spectroscopy (DOAS) algorithm (Levelt et al., 2006). We obtained the average tropospheric NO2 columns over Australia for each month from 2005-2016. We then produced estimates of ground-level NO2 by using the Weather Research and Forecasting model (WRF-Chem) to predict monthly surface-to-column ratios. This approach is a standard method to convert tropospheric column NO2 abundance (in molecules per cm2) to ground-level NO2 concentration (in ppb), and has been described extensively (Lamsal et al., 2008; Bechle et al., 2013). Detailed information on satellite data retrieval and processing is given in the supplement (pages S3–S9 https://cloudstor.aarnet.edu.au/plus/f/1718144803). This is the data used by Knibbs et al. 2014, with additional years downloaded. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/ResearchProjects_CAR/Satellite_OMI_NO2/Sat_OMI_NO2_LK_2005_2016" target = "_blank">/home/public_share_data/ResearchData_CAR/ResearchProjects_CAR/Satellite_OMI_NO2/Sat_OMI_NO2_LK_2005_2016</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4370744844 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Knibbs, L. 2020. Satellite Ozone Monitoring Instrument (OMI) NO2 data 2006-2011 Retrieved from Centre for Air pollution, energy and health https://cloudstor.aarnet.edu.au/plus/f/4370744844 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Sat_OMI_NO2_LK_2006_2011
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:43 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Sat_OMI_NO2_LK_2006_2011 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Sat_OMI_NO2_LK_2006_2011 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> The Ozone Monitoring Instrument (OMI) aboard the Aura satellite produces daily global observations of NO2tropospheric column abundance at a resolution of 13-24 km2(nadir) using a differential optical absorption spectroscopy (DOAS) algorithm (Levelt et al., 2006). We obtained the average tropospheric NO2 columns over Australia for each month from 2006-2011. We then produced estimates of ground-level NO2 by using the Weather Research and Forecasting model (WRF-Chem) to predict monthly surface-to-column ratios. This approach is a standard method to convert tropospheric column NO2 abundance (in molecules per cm2) to ground-level NO2 concentration (in ppb), and has been described extensively (Lamsal et al., 2008; Bechle et al., 2013). Detailed information on satellite data retrieval and processing is given in the supplement (pages S3–S9 https://cloudstor.aarnet.edu.au/plus/f/1718144803). This is the exact data used in Knibbs et al. 2014 </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4370134056 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Knibbs, L. 2020. Satellite Ozone Monitoring Instrument (OMI) NO2 data 2006-2011 (data from Knibbs et al. 2014) Retrieved from Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4370134056 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

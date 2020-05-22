@@ -1,0 +1,100 @@
+Meteorology_BARRA
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:50 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Meteorology_BARRA </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Bureau of Meteorology Atmospheric high-resolution Regional Reanalysis for Australia (BARRA) (http://www.bom.gov.au/research/projects/reanalysis/). | The reanalysis over the Australian domain is provided with a resolution of approximately 12 km and extends over 70 levels up to 80 km into the atmosphere. For a small number of subdomains, the 12-km reanalysis is downscaled to a 1.5 km resolution. This project will eventually cover years from 1990 to 2018 for the Australia-wide domain and for four subdomains at high resolution covering Sydney, Perth and surrounds, Tasmania and Adelaide. </td> </tr>
+   </table>
+
+
+
+Meteorology_BARRA-PH_2007_2016
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:50 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Meteorology_BARRA-PH_2007_2016 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Meteorology_BARRA-PH_2007_2016 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> High-resolution Perth and surrounds regional reanalysis of meteorological data (1.5km resolution). | Contact helpdesk.reanalysis@bom.gov.au for access. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Bureau of Meteorology (BoM), NA, Meteorology_BARRA-PH_2007_2016, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Meteorology_BARRA-R
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Meteorology_BARRA-R_2003-2016 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Meteorology_BARRA-R </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Australia-wide regional reanalysis of meteorological data at 12km resolution. About 100 parameters are archived at hourly (and some at 10 minute) time intervals. This includes information about surface conditions (such as temperature, precipitation, wind speed and direction, humidity, evaporation and soil moisture) and at pressure and model levels as well as information on solar radiation and cloud cover. | Contact helpdesk.reanalysis@bom.gov.au for access. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Bureau of Meteorology (BoM), NA, Meteorology_BARRA-R, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Meteorology_BARRA-SY_2007_2015
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Meteorology_BARRA-SY_2007_2015 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Meteorology_BARRA-SY_2007_2015 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> High resolution Sydney regional reanalysis of meteorological data (1.5km resolution). | Contact helpdesk.reanalysis@bom.gov.au for access.  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Bureau of Meteorology (BoM), NA, Meteorology_BARRA-SY_2007_2015, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+Meteorology_BARRA-TA_2007_2016
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:15:51 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Meteorology_BARRA-TA_2007_2016 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Meteorology_BARRA-TA_2007_2016 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Bureau of Meteorology (BoM) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> High-resolution Tasmania regional reanalysis of meteorological data (1.5km resolution). | Contact helpdesk.reanalysis@bom.gov.au for access. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Bureau of Meteorology (BoM), NA, Meteorology_BARRA-TA_2007_2016, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

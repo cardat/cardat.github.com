@@ -1,0 +1,100 @@
+Satellite_NO2_LUR
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:42 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Satellite_NO2_LUR </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> This project comprises work on the methods and data analysis for a satellite enhanced Land Use Regression model of NO2 pollution.   |  | Original Methodology reported in Knibbs, L. D., Hewson, M. G., Bechle, M. J., Marshall, J. D., &amp; Barnett, A. G. (2014). A national satellite-based land-use regression model for air pollution exposure assessment in Australia. Environmental Research, 135, 204–211. doi:10.1016/j.envres.2014.09.011. </td> </tr>
+   </table>
+
+
+
+SatNO2_1990_2005
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:42 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> SatNO2_1990_2005 </td> </tr>
+  <tr> <td align="right"> title </td> <td> SatNO2_1990_2005 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs and Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> The SatNO2_2006_2011 data can be adjusted using the coefficient on time from the paper. See Knibbs et al. 2018 Long-term nitrogen dioxide exposure assessment using back-extrapolation of satellite-based land-use regression models for Australia. Environmental Research 163 (2018) 16-25 </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/projects/Satellite_NO2_LUR/SatNO2_1990_2005" target = "_blank">/home/public_share_data/ResearchData_CAR/projects/Satellite_NO2_LUR/SatNO2_1990_2005</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Luke Knibbs and Ivan Hanigan, NA, SatNO2_1990_2005, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+
+
+SatNO2_2006_2011
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:42 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> SatNO2_2006_2011 </td> </tr>
+  <tr> <td align="right"> title </td> <td> SatNO2_2006_2011 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This is the predicted annual mean values of NO2 (ppb) on Mesh Blocks (2011) from Knibbs (see paper Knibbs et al 2015). This is the SatLUR data predicted on MB 2011. NSW data provided to M Rolfe and G Morgan on 13/5/2015, rest of data provided to Ivan Hanigan on 1/4/2019. |  | Note from Luke: Please note that there are 2 predictions for each year - one with 'SURF' and one with 'COL' - these refer to the model used to generate them. The two models give very similar results but COL has slightly better  predictive ability. This might be the best place to start but we could also think about comparing them. |  | There's a handful of missing values - these are MBs where the necessary covariates were not available. |  | # also see from the paper | 2.2.4. ComparisonofdifferentsatelliteNO2 estimates | We assessed whether surface NO2 estimates derived using surface-to-column | ratios from WRF-Chem lead to models with better predictive ability for ground | level NO2 than the easier to obtain estimates of tropospheric NO2 column density. | For both our annual and monthly models, we examined two alternatives; one with | surface NO2 estimates as a candidate variable (â€˜surface modelâ€™) and one with NO2 | column density estimates (â€˜column modelâ€™). All other candidate variables were the | same across the two models. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1718142723 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td> Ivan Hanigan [role: creation of publishable derived data from data provided] </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Knibbs, L. (2015), SatNO2_2006_2011, Retrieved from Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/1718142723 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+
+
+SatNO2_2006_2011_Perth
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:42 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> SatNO2_2006_2011_Perth </td> </tr>
+  <tr> <td align="right"> title </td> <td> SatNO2_2006_2011_Perth </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This is the predicted annual mean values of NO2 (ppb) on Mesh Blocks (2011) in Perth from Knibbs (see paper Knibbs et al 2015). This is the SatLUR data predicted on MB 2011.  |  | Note from Luke: Please note that there are 2 predictions for each year - one with 'SURF' and one with 'COL' - these refer to the model used to generate them. The two models give very similar results but COL has slightly better predictive ability. This might be the best place to start but we could also think about comparing them. There's a handful of missing values - these are MBs where the necessary covariates were not available.  |  | # also see from the paper 2.2.4. ComparisonofdifferentsatelliteNO2 estimates We assessed whether surface NO2 estimates derived using surface-to-column ratios from WRF-Chem lead to models with better predictive ability for ground level NO2 than the easier to obtain estimates of tropospheric NO2 column density. For both our annual and monthly models, we examined two alternatives; one with surface NO2 estimates as a candidate variable (â€˜surface modelâ€™) and one with NO2 column density estimates (â€˜column modelâ€™). All other candidate variables were the same across the two models. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2510239129 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td> Ivan Hanigan [role: creation of publishable data] </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Knibbs, L. (2016), SatNO2_2006_2011_Perth. Retrieved from Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/2510239129 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+
+
+SatNO2_45andUp
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:42 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> SatNO2_45andUp </td> </tr>
+  <tr> <td align="right"> title </td> <td> SatNO2_45andUp </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Luke Knibbs and Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This dataset aims to use the prediction equation from the SatLUR to predict NO2 at street addresses. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2510243959 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Knibbs, L. (2017), SatNO2_45andUp, Retrieved from Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/2510243959 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

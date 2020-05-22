@@ -1,0 +1,34 @@
+Power_Stations_GA
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:24 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Power_Stations_GA </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Geoscience Australia </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Location of power stations </td> </tr>
+   </table>
+
+
+
+Power_Stations_GA_National
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:24 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Power_Stations_GA_National </td> </tr>
+  <tr> <td align="right"> title </td> <td> Power_Stations_GA_National </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Geoscience Australia </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Spatial point locations of major power stations along with descriptors (e.g. primary fuel) and map with distances to nearest coal-fired and gas-fired power stations. Used by Luke to develop the automated Satellite and Landuse regression models. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Geoscience Australia, NA, Power_Stations_GA_National, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

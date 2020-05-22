@@ -1,0 +1,34 @@
+Australian_Mortality_RBDM
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:30 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Australian_Mortality_RBDM </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> For the COD URF each jurisdictional State/Chief Coroner, as represented by the National Coronial Information System (NCIS), and the Registrars of each jurisdictional Registry of Births, Deaths and Marriages are the collective data custodians as they each contribute data to the national COD URF data set. These agencies collect the data from individuals under their respective legislation. </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> The Queensland Registry of Births, Deaths and Marriages (RBDM) is the ACR for COD URF where data at the unit record level is required. The ACR coordinates the approval and release of COD URF files on behalf of the data custodians – Australian Registrars of Births, Deaths and Marriages (RBDM), State/Chief Coroners and the National Coronial Information System (NCIS).   |  | If aggregate or summary Cause of Death data is required, please contact one of our partner agencies: |  | •	Australian Institute of Health and Welfare (AIHW) | The AIHW maintains the National Mortality Database (NMD) and the National Death Index (NDI). The NMD is used for statistical reporting on causes of death and the NDI enables data linkage activity for health and medical research relating to mortality. If you are interested in obtaining more information about the data available in the NDI and eligibility requirements, please check the AIHW website for more information at www.aihw.gov.au/deaths/ or contact the AIHW at deaths@aihw.gov.au. |  | •	Australian Bureau of Statistics (ABS) | ABS National Information and Referral Service on 1300 135 070 or go to inquiries  |  | Please note that aggregate or summary Cause of Death data is not available from the ACR. </td> </tr>
+   </table>
+
+
+
+RBDM_National_Death_COD_URF
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:30 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> RBDM_National_Death_COD_URF </td> </tr>
+  <tr> <td align="right"> title </td> <td> RBDM_National_Death_COD_URF </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Queensland Registry of Births, Deaths and Marriages (RBDM) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> The cause of death unit record file (COD URF) is a dataset containing information relating to all deaths registered in Australia for a given reference year. The dataset does not contain names but has a number of attributes of an individual including the International Classification of Disease (currently version 10) codes relating to the causes of death, which are added by the Australian Bureau of Statistics (ABS). |  | The national dataset is a compilation of death records from each of the State and Territory Registries of Births, Deaths and Marriages (RBDMs) and from State and Chief Coroners through the National Coronial Information System (NCIS). Subsets of the national data will be available by individual or multiple jurisdictions. |  | The COD URF is used for demographic and health purposes. Research from this data provides significant information for the formulation and monitoring of health and other social policies. For a full list of the data items included in the COD URF refer to: “What data items are included in the COD URF?” |  | Note: The data available is coded to ICD-10, not ICD-10-AM. |  | These data require an extensive application process including ethics approval and involve heavy fees. Additionally, each project requires its own application. For projects where aggregate or summary data are required, it is easier to obtain data through the AIHW or ABS. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/NOT AVAILABLE FOR PUBLICATION" target = "_blank">/home/public_share_data/ResearchData_CAR/NOT AVAILABLE FOR PUBLICATION</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Queensland Registry of Births, Deaths and Marriages (2006+) National Cause of Death Unit Record Files (COD URF). </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

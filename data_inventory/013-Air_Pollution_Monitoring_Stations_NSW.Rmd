@@ -1,0 +1,276 @@
+Air_Pollution_Monitoring_Stations_NSW
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_NSW </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Geoff Morgan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> The NSW Office of Environment and Heritage (OEH) monitors concentrations of air pollutants at sites across the Sydney Metropolitan area. Concentrations are measured using standard methods for regulatory compliance. The measurements undergo basic quality assurance procedures within the government department. </td> </tr>
+   </table>
+
+
+
+Air_Pollution_Monitoring_Stations_NSW_Other_Years
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Air_Pollution_Monitoring_Stations_NSW_Other_Years </td> </tr>
+  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_NSW_Other_Years </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NSW OEH </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Placeholder for further air pollution monitoring data in NSW </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW OEH, NA, Air_Pollution_Monitoring_Stations_NSW_Other_Years, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_NSW_2014_2015
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_NSW_2014_2015 </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_NSW_2014_2015 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan, based on NSW OEH data </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Cleaned and standardised air pollution monitoring data for Sydney, Newcastle and Wollongong for input to biomass smoke database. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_2014_2015/ " target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_2014_2015/ </a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, based on NSW OEH data, NA, AP_monitor_NSW_2014_2015, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_NSW_all_pollutants_1994_2018_hourly
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_NSW_all_pollutants_1994_2018_hourly </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_NSW_all_pollutants_1994_2018_hourly </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NSW DPIE / OEH </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Hourly averages for various pollutants and conditions at sites across NSW </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_all_pollutants_1994_2018_hourly" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_all_pollutants_1994_2018_hourly</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4272595695 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Office of Environment and Heritage, 2019. Hourly site average pollutant concentration data for 1994-2018. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4272595695 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+DEPRECATED AP_monitor_NSW_PM25_1994_2013_hourly
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_NSW_PM25_1994_2013_hourly </td> </tr>
+  <tr> <td align="right"> title </td> <td> DEPRECATED AP_monitor_NSW_PM25_1994_2013_hourly </td> </tr>
+  <tr> <td align="right"> creator </td> <td> OEH </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Hourly averages for various pollutants and conditions at sites across NSW </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_1994_2013_hourly" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_1994_2013_hourly</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4241594067 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Office of Environment and Heritage, 2014. Hourly site average pollutant concentration data for 1994-2013. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4241594067 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_NSW_PM25_1994_2019_daily
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_NSW_PM25_1994_2019_daily </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_NSW_PM25_1994_2019_daily </td> </tr>
+  <tr> <td align="right"> creator </td> <td> DPIE </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Daily monitoring data by region, pollutant and year. Downloaded from dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_1994_2019_daily" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_1994_2019_daily</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4243910469 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Department of Planning, Industry & Environment, 2019. Daily site average pollutant concentration data. Available from https://www.dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4243910469 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_NSW_PM25_1994_2019_max_daily
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_NSW_PM25_1994_2019_max_daily </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_NSW_PM25_1994_2019_max_daily </td> </tr>
+  <tr> <td align="right"> creator </td> <td> DPIE </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Daily maximum PM2.5 monitoring data by region, pollutant and year. Downloaded from dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_1994_2019_max_daily" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_1994_2019_max_daily</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4244046981 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Department of Planning, Industry & Environment, 2019. Daily site average pollutant concentration data. Available from https://www.dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4244046981 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_NSW_PM25_2014_2019_hourly
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_NSW_PM25_2014_2019_hourly </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_NSW_PM25_2014_2019_hourly </td> </tr>
+  <tr> <td align="right"> creator </td> <td> DPIE </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Hourly monitoring data by region, pollutant and year. Downloaded from dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data |  |  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_2014_2019_hourly" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_NSW_PM25_2014_2019_hourly</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4018498749 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Department of Planning, Industry & Environment, 2019. Hourly site average pollutant concentration data. Available from https://www.dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4018498749 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+AP_monitor_stations_NSW
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> AP_monitor_stations_NSW </td> </tr>
+  <tr> <td align="right"> title </td> <td> AP_monitor_stations_NSW </td> </tr>
+  <tr> <td align="right"> creator </td> <td> DPIE </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> GPS locality data for AP monitoring stations in NSW.  | http://www.environment.nsw.gov.au/AQMS/sitesyd.htm on 2015-08-22. This website has the table of site locations.  |  | Spatial data converted to a shapefile by Ivan Hanigan. |  | More information on data from these stations can be found here dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_stations_NSW" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/AP_monitor_stations_NSW</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4018506899 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Department of Planning, Industry & Environment, 2019. Spatial data for air pollution monitoring sites in NSW. Associated data available from https://www.dpie.nsw.gov.au/air-quality/search-for-and-download-air-quality-data. Downloaded from the Centre for Air pollution, energy and health Research  https://cloudstor.aarnet.edu.au/plus/f/4018506899 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+OEH_monitor_1994_2011
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> OEH_monitor_1994_2011 </td> </tr>
+  <tr> <td align="right"> title </td> <td> OEH_monitor_1994_2011 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> OEH NSW </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Air pollution monitoring data for NSW for selected pollutants. Consists of NO2 daily averages and maximums for 1994-2011, O2 1hr and 4hr maximums for 1994-2011, PM2.5 24hr average for 2002-2011, PM10 24hr for 1994-2011. Downloaded by TN(?). |  | TODO This stuff has been worked on in Excel and produced some summary statistics. I recommend this be archived for history but new work use recommended data sources. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> OEH NSW, NA, OEH_monitor_1994_2011, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+OEH_monitor_NSW_2014_2018
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> OEH_monitor_NSW_2014_2018 </td> </tr>
+  <tr> <td align="right"> title </td> <td> OEH_monitor_NSW_2014_2018 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Office of Environment and Heritage (OEH NSW) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Hourly monitoring data at all sites across NSW for 2014-2018. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Office of Environment and Heritage (OEH NSW), NA, OEH_monitor_NSW_2014_2018, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+OEH_monitor_Sydney_2007_2014
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> OEH_monitor_Sydney_2007_2014 </td> </tr>
+  <tr> <td align="right"> title </td> <td> OEH_monitor_Sydney_2007_2014 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan, Based on data from the NSW OEH </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> NSW Office of Environment and Heritage (http://www.environment.nsw.gov.au/AQMS/search.htm accessed 22/8/2015) | NB Hazard Reduction Burning nearby to the Sydney Basin, is expected to continue until further notice. | It is anticipated that during this period, visibility and air quality alerts may be raised.  | For more information go to Current Fires and Incidentsexternal link on the NSW Rural Fire Service web site. |   |  | site avs, daily | 1/1/07-22/8/15 | all sydney regions | all polls | load data |  | download link XLS-file: Daily Averages Time Range: 01/01/2007 00:00 to 23/08/2015 00:00  | http://airquality.environment.nsw.gov.au/aquisnetnswphp/tmp/tmp_table_13793_1440195230.xls |  | NB Disclaimer: Historical data (ie data prior to the current year) used as the basis for this search facility are fully validated.  However, data from the current year have undergone only preliminary quality assurance checks and these data may require modification during final stages of validation as a result of calibration changes, power failures, instrument failures etc. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/OEH_monitor_Sydney_2007_2014" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/OEH_monitor_Sydney_2007_2014</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1748710993 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td> NSW OEH </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td> Public access </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, Based on data from the NSW OEH, 2017-11-21, OEH_monitor_Sydney_2007_2014, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+
+
+OEH_monitor_Sydney_PM25_1996_2014
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:05 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> OEH_monitor_Sydney_PM25_1996_2014 </td> </tr>
+  <tr> <td align="right"> title </td> <td> OEH_monitor_Sydney_PM25_1996_2014 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan, Based on data from the NSW OEH </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> http://www.environment.nsw.gov.au/AQMS/search.htm | 26/8/15 | site avs, daily | 01/05/1996 (I know this is the starting month from prior work)-26/8/15 (today) |  sites <- "'Richmond', 'Liverpool', 'Earlwood', 'Chullora'" | PM2.5 | load data |  | Then also went back to get pm25_av_syd_1996_2015_with_camden_tmp_table_23283_1441001164.xls |  | This was downloaded by Ivan in August 2015 to extend the Biomass Smoke Database.   | It is noteworthy that the PM2.5 provided to the Biomass project in 2008 was revised and adjusted downward.  This dataset should be used instead of the Biomass Smoke database for pm2.5. |  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/OEH_monitor_Sydney_PM25_1996_2014" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_NSW/OEH_monitor_Sydney_PM25_1996_2014</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2449131949 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, Based on data from the NSW OEH, 2018-10-25, OEH_monitor_Sydney_PM25_1996_2014, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+

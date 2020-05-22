@@ -1,0 +1,56 @@
+CC_NSW_NARCliM
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:40 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> CC_NSW_NARCliM </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> NSW &amp; ACT Governments, Climate Change Research Centre (UNSW) </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> NSW and ACT Regional Climate Modelling (NARCliM) Project is a collaboration between multiple NSW and ACt government agencies and Climate Change Research Centre (UNSW). See https://climatechange.environment.nsw.gov.au/Climate-projections-for-NSW/About-NARCliM </td> </tr>
+   </table>
+
+
+
+CC_NSW_NARCliM_1_0
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:40 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> CC_NSW_NARCliM_1_0 </td> </tr>
+  <tr> <td align="right"> title </td> <td> CC_NSW_NARCliM_1_0 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NSW & ACT Governments, Climate Change Research Centre (UNSW) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> https://climatechange.environment.nsw.gov.au/Climate-projections-for-NSW/About-NARCliM </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW & ACT Governments, Climate Change Research Centre (UNSW), NA, CC_NSW_NARCliM_1_0, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+CC_NSW_NARCliM_1_5
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:40 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> CC_NSW_NARCliM_1_5 </td> </tr>
+  <tr> <td align="right"> title </td> <td> CC_NSW_NARCliM_1_5 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> NSW & ACT Governments, Climate Change Research Centre (UNSW) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> https://climatechange.environment.nsw.gov.au/Climate-projections-for-NSW/About-NARCliM | NARCliM 1.5 is expected to be released early 2020 to the public. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW & ACT Governments, Climate Change Research Centre (UNSW), NA, CC_NSW_NARCliM_1_5, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

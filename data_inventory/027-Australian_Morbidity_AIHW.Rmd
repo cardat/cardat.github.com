@@ -1,0 +1,34 @@
+Australian_Morbidity_AIHW
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:24 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Australian_Morbidity_AIHW </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Morbidity data from AIHW </td> </tr>
+   </table>
+
+
+
+Allergic_rhinitis_2001_2018
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:25 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Allergic_rhinitis_2001_2018 </td> </tr>
+  <tr> <td align="right"> title </td> <td> Allergic_rhinitis_2001_2018 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Australian Institute of Health and Welfare (AIWH) </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Allergic rhinitis data from the AIWH website https://www.aihw.gov.au/reports/chronic-respiratory-conditions/allergic-rhinitis-hay-fever/data. 	 | Allergic rhinitis can occur seasonally (commonly referred to as 'hay fever') or throughout the year. Allergic rhinitis is triggered by an allergic reaction. The symptoms may include a runny or blocked nose and/or sneezing and watery eyes. Common triggers include house dust, animal fur, pollens, fungal spores, air pollutants and occupational triggers such as latex, breads and cereals or small animals. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Australian_Morbidity_AIHW/Allergic_rhinitis_2001_2018" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Australian_Morbidity_AIHW/Allergic_rhinitis_2001_2018</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3949399265 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> AIHW (Australian Institute of Health and Welfare) 2019. Data tables: Allergic rhinitis, 2001â€“2019. Cat. no: PHE 257. Canberra: AIHW. Available from https://www.aihw.gov.au/reports/chronic-respiratory-conditions/allergic-rhinitis-hay-fever/data [accessed: 2019-11-07] Downloaded from the Centre for Air pollution, energy and health Research, https://cloudstor.aarnet.edu.au/plus/f/3949399265 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

@@ -1,0 +1,56 @@
+OpenStreetMap_data
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:20 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> OpenStreetMap_data </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> OpenStreetMap </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Maps built by a community of mappers </td> </tr>
+   </table>
+
+
+
+OpenStreetMap_Lines_Australia_2017
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:20 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> OpenStreetMap_Lines_Australia_2017 </td> </tr>
+  <tr> <td align="right"> title </td> <td> OpenStreetMap_Lines_Australia_2017 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> OpenStreetMap </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> A polyline dataset extracted from OpenStreetMap across the geographic area of Australia, pruned to only those features deemed publicly traversable (walkability). Available from the AURIN portal - OpenStreetMap - Lines (Australia) 2017 (https://data.aurin.org.au/dataset/osm-osm-lines-2017-na).  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> OpenStreetMap, NA, OpenStreetMap_Lines_Australia_2017, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
+
+OpenStreetMap_Lines_Australia_2018
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:20 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> OpenStreetMap_Lines_Australia_2018 </td> </tr>
+  <tr> <td align="right"> title </td> <td> OpenStreetMap_Lines_Australia_2018 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> OpenStreetMap </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> A polyline dataset extracted from OpenStreetMap across the geographic area of Australia, pruned to only those features deemed publicly traversable (walkability). Available from the AURIN portal - OpenStreetMap - Lines (Australia) 2018 (https://data.aurin.org.au/dataset/osm-osm-lines-2018-na).  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> OpenStreetMap, NA, OpenStreetMap_Lines_Australia_2018, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+

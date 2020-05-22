@@ -1,0 +1,56 @@
+Traffic_counts_Sydney
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:17:03 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Traffic_counts_Sydney </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Christine Cowie </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td> Traffic counts for Sydney area </td> </tr>
+   </table>
+
+
+
+traffic_data_council_and_rms
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:17:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> traffic_data_council_and_rms </td> </tr>
+  <tr> <td align="right"> title </td> <td> traffic_data_council_and_rms </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Traffic counts for Bankstown area. Notes from Ed:  |  | Traffic control departments of LGAs monitor traffic on local roads.  | Councils only count for high-ish load roads â€“ not complete. |  | Each LGA conducts their traffic data collections independently. Each  | of the LGAs in the region was approached and out of the 15 LGAs, only 5  | responded positively by sending through their data.  |  | Some LGAs stated that they werenâ€™t able to extract the data the way  | we required (en masse). All of the LGAs which responded currently use  | Metro Count to collect and extract traffic count data. This is a company |  which provides the hardware and software to compile the data into  | reports. Metro Count gave us a copy of their software so that we could  | extract the data ourselves if the LGA was willing to give us the raw  | files. LGA traffic counts did not seem to be conducted consistently  | between areas; time periods, types of road, presentation of data  | differed.  |  | Only some provided geocoding. As with RMS data, counts were available |  only for limited roads and assumptions would need to be made for all  | other roads. If we had received all the traffic data from LGAs, the  | process of compiling the data may have taken some weeks and due to the  | inconsistency between councils, may not have been highly reliable. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2984420060 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Ivan Hanigan, NA, traffic_data_council_and_rms, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+
+
+traffic_zenith
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:17:04 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> traffic_zenith </td> </tr>
+  <tr> <td align="right"> title </td> <td> traffic_zenith </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Christine Cowie </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> Modelled traffic count data for  | Doco is crap.  Good description in 2006 update folder / Past correspondence.pdf |  | In summary First dataset provided was just Annandale (sample of GMR region). | Subsequent was syd, woll, new metro regions.  with v1, v2, - v6 (2017). |  | For noise model we need to distinguish heavy vehicles. In this dataset they are called commv (commercial?). |  | the v6 (2017) layer is also uploaded to the post gis server. |  </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/2984419878 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td> Any researchers who are collaborating on air quality - health projects under the CAR banner are licenced to use the data during the term 1 Aug 2015 to 1 Aug 2018. </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Christine Cowie, NA, traffic_zenith, NA </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
+   </table>
+
+

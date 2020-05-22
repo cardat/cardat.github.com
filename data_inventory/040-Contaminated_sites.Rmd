@@ -1,0 +1,34 @@
+Contaminated_sites
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:44 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Contaminated_sites </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Ivan Hanigan </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td>  </td> </tr>
+   </table>
+
+
+
+PFAS_sites_EPA_NSW_2019
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:14:44 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> PFAS_sites_EPA_NSW_2019 </td> </tr>
+  <tr> <td align="right"> title </td> <td> PFAS_sites_EPA_NSW_2019 </td> </tr>
+  <tr> <td align="right"> creator </td> <td> EPA NSW </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> These data represent sites where it is likely that large quantities of PFAS have been used. The EPA is currently investigating PFAS at these sites. |  | The EPA is leading an investigation program to assess the legacy of PFAS use across NSW. With the assistance of the NSW PFAS Taskforce, which includes NSW Health, Department of Primary Industries and the Office of Environment and Heritage, we provide impacted residents with tailored, precautionary dietary advice to help them reduce any exposure to PFAS. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Contaminated_sites/PFAS_sites_EPA_NSW_2019" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Contaminated_sites/PFAS_sites_EPA_NSW_2019</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3937206105 </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> NSW Environmental Protection Agency, 2019. The NSW Government PFAS Investigation Program: PFAS Investigation Sites. Data available from: https://www.epa.nsw.gov.au/your-environment/contaminated-land/pfas-investigation-program [accessed 2019-10-31]. Data retrieved from Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/3937206105 </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
+   </table>
+
+

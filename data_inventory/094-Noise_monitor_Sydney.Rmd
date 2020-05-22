@@ -1,0 +1,34 @@
+Noise_monitor_Sydney
+===
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:14 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> title </td> <td> Noise_monitor_Sydney </td> </tr>
+  <tr> <td align="right"> personnel_data_owner </td> <td> Guy Marks, HIGHLY RESTRICTED </td> </tr>
+  <tr> <td align="right"> project_abstract </td> <td>  </td> </tr>
+   </table>
+
+
+
+
+---
+<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
+<!-- Fri May 22 19:16:14 2020 -->
+<table border=1>
+<tr> <th>  </th> <th> metadata_field </th>  </tr>
+  <tr> <td align="right"> shortname </td> <td> Noise_monitor_Sydney_2019 </td> </tr>
+  <tr> <td align="right"> title </td> <td>  </td> </tr>
+  <tr> <td align="right"> creator </td> <td> Christine Cowie </td> </tr>
+  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
+  <tr> <td align="right"> abstract </td> <td> This was collected under the APMMA NHMRC project grant.  With additional funds from Geoff Morgan.  The files were supplied to Ivan Hanigan via Dropbox/APMMA/Noise on 2020-02-12. </td> </tr>
+  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/CAR_staging_area/Noise_monitor_Sydney/Noise_monitor_Sydney_2019" target = "_blank">/home/public_share_data/ResearchData_CAR/CAR_staging_area/Noise_monitor_Sydney/Noise_monitor_Sydney_2019</a> </td> </tr>
+  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
+  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
+  <tr> <td align="right"> access_rules </td> <td> HIGHLY RESTRICTED, ONLY FOR NOISE COLLABORATION, AND THE SYDNEY TEAM ONLY FOR FIRST INSTANCE </td> </tr>
+  <tr> <td align="right"> Recommended Citation </td> <td> Christine Cowie, NA, , Data retrieved from Centre for Air pollution, energy and health Research. </td> </tr>
+  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
+  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
+   </table>
+
+
