@@ -1,100 +1,0 @@
-CTM_CSIRO
-===
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:46 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> title </td> <td> CTM_CSIRO </td> </tr>
-  <tr> <td align="right"> personnel_data_owner </td> <td> Martin Cope, CSIRO </td> </tr>
-  <tr> <td align="right"> project_abstract </td> <td> Air_pollution_modelling Chemical Transport Modelling (CTM) by CSIRO.  A variety of data as provided and also derived from data processing after CSIRO have provided the data. | The chemical transport model CTM from CSIRO will be used for the Neighbourhood Exposures study (both blended and unblended) |  | (1)	Martin Cope, Sunhee Lee, Bill Physick, Debbie Abbs, Kim C Nguyen and John  | McGregor, A Methodology for Determining the Impact of Climate Change on Ozone  | Levels in an Urban Area, CSIRO report Nov. 2008, Department of the Environment,  | Water, Heritage and the Arts through the Clean Air Research Program | (2)	Martin Cope, Sunhee Lee, Exploring the co-benefit of electric vehicle uptake and  | ozone pollution reduction in Sydney - Final report, Feb. 2011, The Centre for  | Australian Weather and Climate Research | (3)	William L Physick, Martin E Cope, Sunhee Lee and Peter J Hurley, An approach for  | estimating exposure to ambient concentrations, Journal of Exposure Science &amp;  | Environmental Epidemiology (2007) 17, 76–83. | (4)	William Physick, Jennifer Powell, Martin Cope, Kate Boast, Sunhee Lee,  | Measurements of personal exposure to NO2 and modelling using ambient  | concentrations and activity data, Atmospheric Environment, Vol. 45, 12, April 2011,  | pp. 2095–2102 </td> </tr>
-   </table>
-
-
-
-CTM_CSIRO_Shipping_NO2_Sydney_2010_2011
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:46 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> CTM_CSIRO_Shipping_NO2_Sydney_2010_2011 </td> </tr>
-  <tr> <td align="right"> title </td> <td> CTM_CSIRO_Shipping_NO2_Sydney_2010_2011 </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Martin Cope </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> This is CSIRO Chemical Transport Model (CTM) of nitrogen dioxide (NO2) monthly averages 2010-2011 for Sydney Greater Metro Region, and aggregations of these to long term averages. | Received from Martin Cope on 13th April 2016. </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1718142683 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td> Ivan Hanigan [role: creation of publishable derived data from data provided] </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td> Available on request </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Martin Cope, 2017-12-11, CTM_CSIRO_Shipping_NO2_Sydney_2010_2011, NA </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
-   </table>
-
-
-
-CTM_CSIRO_Shipping_PM25_Sydney_2010_2011
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:46 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> CTM_CSIRO_Shipping_PM25_Sydney_2010_2011 </td> </tr>
-  <tr> <td align="right"> title </td> <td> CTM_CSIRO_Shipping_PM25_Sydney_2010_2011 </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Martin Cope </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> PM2.5 (ug/m3) annual average of 24h averages from CSIRO shipping data â€“ CMAQ dispersion model data provided for financial year 2010/11: 1km2 grid cell data blended with monitor data. |  | Provided by Richard Broome richard.broome@nsw.health.gov (from Martin Cope original data) |  |  </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/1718142673 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td> Richard Broome [role: creation of publishable derived data from data provided] | Ivan Hanigan [role: creation of publishable derived data from data provided] </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td> Available on request. Email to ivan.hanigan@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Martin Cope, 2018-03-02, CTM_CSIRO_Shipping_PM25_Sydney_2010_2011, NA </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
-   </table>
-
-
-
-CTM_NT
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:46 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> CTM_NT </td> </tr>
-  <tr> <td align="right"> title </td> <td> CTM_NT </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Martin Cope </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> CTM applied to air pollution in NT </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Martin Cope, NA, CTM_NT, NA </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
-   </table>
-
-
-
-CTM_Perth
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:46 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> CTM_Perth </td> </tr>
-  <tr> <td align="right"> title </td> <td> CTM_Perth </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Martin Cope </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> CTM applied to air pollution in Perth </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> NOT YET PUBLISHED </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td>  </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Martin Cope, NA, CTM_Perth, NA </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
-   </table>
-
-

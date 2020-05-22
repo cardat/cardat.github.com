@@ -1,56 +1,0 @@
-DROUGHT-AWAP-GRIDS
-===
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:53 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> title </td> <td> DROUGHT-AWAP-GRIDS </td> </tr>
-  <tr> <td align="right"> personnel_data_owner </td> <td> Ivan Hanigan </td> </tr>
-  <tr> <td align="right"> project_abstract </td> <td> To understand the drought indices review the technical appendix from the following paper:  | https://github.com/ivanhanigan/DrynessAndMentalHealth/blob/master/OBrien2014EnvRes_SI.pdf in which the count and sums drought indices are explained in detail (note that the newer count2 and sums2 indices were something Mike Hutchinson created for a PNAS paper and uses a different threshold level to break the drought than the original version), also check out the O'Brien paper which has some good ideas about re-expressions of the indices to capture things like re-occurring cycles of drought and long dry spells vs recent dry periods.  |  | Note that the sums index gets more negative the worse the drought is. Counts become more larger (positive) numbers as droughts continue.  The count index a measure of duration whereas the sums index is a measure of severity. |  | For the drought index please cite the original 1992 paper by Hutchinson as: | 1. Smith, D. I, Hutchinson, M. F, &amp; McArthur, R. J. (1992) Climatic and |    Agricultural Drought: Payments and Policy. (Centre for Resource and Environmental |    Studies, Australian National University, Canberra, Australia).   |    http://fennerschool-research.anu.edu.au/spatio-temporal/publications/cres_paper1992.pdf |  | and my software repository as: | 2. Hanigan, IC. 2012. The Hutchinson Drought Index Algorithm [Computer Software].  |    https://github.com/ivanhanigan/HutchinsonDroughtIndex |  |  | For the input rainfall data I would recommend citing like this: |  | We utilized the gridded meteorological datasets for Australia from the Australian Water Availability Project (AWAP), a partnership of the Australian Bureau of Meteorology, Bureau of Rural Sciences, and CSIRO. These data are estimated for each pixel of a grid with a resolution of 0.05 x 0.05 decimal degrees (approximately five x five kilometres) using a spatial model (Jones et al 2009, Australian Water Availability Project n.d). We used an open source R package to download and format the AWAP grids  (Hanigan et al 2016) and rescaled the rainfall data to localities by averaging the pixels over the locality polygons, based on spatial data from the Public Sector Mapping Agency (PMSA). </td> </tr>
-   </table>
-
-
-
-Drought_and_ABS_SA2_16
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:53 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> Drought_and_ABS_SA2_16 </td> </tr>
-  <tr> <td align="right"> title </td> <td> Drought_and_ABS_SA2_16 </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Ivan Hanigan </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> Drought index data combined with ABS SA2 regions. </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/DROUGHT-AWAP-GRIDS/Drought_and_ABS_SA2_16" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/DROUGHT-AWAP-GRIDS/Drought_and_ABS_SA2_16</a> </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3665651600 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Hanigan, I. (2019) Drought_and_ABS_SA2_16. Data derived from ABS SA2, AWAP data, and the Hutchinson Drought Index. Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/3665651600 </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
-   </table>
-
-
-
-Drought_and_LGAs_2016
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:53 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> Drought_and_LGAs_2016 </td> </tr>
-  <tr> <td align="right"> title </td> <td> Drought_and_LGAs_2016 </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Ivan Hanigan (derived from ABS and AWAP data) </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> Drought data - both Hutchinson Drought Severity Index (HDSI), and Standardised Precipitation Index (SPI) derived from Australian Water Availability Project (AWAP) data, combined with ABS 2016 Local Government Areas. |  | This is also published publically here https://osf.io/5wq3f/ as part of the DROUGHT-AWAP-GRIDS project (https://osf.io/2xz65/). </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/DROUGHT-AWAP-GRIDS/Drought_and_LGA_2016" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/DROUGHT-AWAP-GRIDS/Drought_and_LGA_2016</a> </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/3711709620 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td> Christy Geromboux (data scripting) </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Hanigan, I.C. (2019) Drought by 2016 Local Government Areas. Derived from ABS 2016 LGA data, and AWAP grid rainfall data. Centre for Air pollution, energy and health Research. https://cloudstor.aarnet.edu.au/plus/f/3711709620 and https://osf.io/5wq3f/ </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> CCBY </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td> Public </td> </tr>
-   </table>
-
-

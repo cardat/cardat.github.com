@@ -1,56 +1,0 @@
-Air_Pollution_Monitoring_Stations_TAS
-===
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:11 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> title </td> <td> Air_Pollution_Monitoring_Stations_TAS </td> </tr>
-  <tr> <td align="right"> personnel_data_owner </td> <td> EPA Tasmania </td> </tr>
-  <tr> <td align="right"> project_abstract </td> <td> Air pollution monitoring data for Tasmania </td> </tr>
-   </table>
-
-
-
-BLANkET_air_pollution_monitoring_stations_TAS
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:11 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> BLANkET_air_pollution_monitoring_stations_TAS </td> </tr>
-  <tr> <td align="right"> title </td> <td> BLANkET_air_pollution_monitoring_stations_TAS </td> </tr>
-  <tr> <td align="right"> creator </td> <td> EPA Tasmania </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> BLANkET air pollution monitoring stations data for Tasmania. The data is available from: https://epa.tas.gov.au/air/live/particle_data.txt </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_TAS/BLANkET_air_pollution_monitoring_stations_TAS" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_TAS/BLANkET_air_pollution_monitoring_stations_TAS</a> </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4318459290 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Environmental Protection Agency, Tasmania, 2020.  Base Line Air Network of EPA Tasmania(BLANkET) station location data published at https://epa.tas.gov.au/air/live/particle_data.txt. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4318459290 </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> CCBY </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td> CAR </td> </tr>
-   </table>
-
-
-
-BLANkET_daily_average_pm25_2010_2019
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:11 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> BLANkET_daily_average_pm25_2010_2019 </td> </tr>
-  <tr> <td align="right"> title </td> <td> BLANkET_daily_average_pm25_2010_2019 </td> </tr>
-  <tr> <td align="right"> creator </td> <td> EPA Tas </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> John.Innis@epa.tas.gov.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> The Base Line Air Network of EPA Tasmania (BLANkET) is a network of small air quality stations reporting near real-time indicative particle concentration data (e.g. from smoke or dust) to EPA Tasmania's public web pages. The stations also collect and report meteorological data (air temperature, wind speed, etc.). |  | The purpose is to obtain air quality data in Tasmania away from the major air stations at Hobart, Launceston, Devonport, and George Town. It monitors the spatial extent of smoke events produced by planned burns each autumn, wood smoke produced in winter by domestic heaters, bushfire smoke in summer, and provides a general measure of air quality at other times. |  | The most recent data is available in realtime from https://epa.tas.gov.au/air/live/particle_data.txt. Indicative PM2.5 and PM10 measures are given in units of micrograms/m^3. Time is in AEST.   |  | More information can be found here: https://epa.tas.gov.au/epa/air/monitoring-air-pollution/real-time-air-quality-data-for-tasmania/interpreting-blanket-data </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> <a href = "/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_TAS/BLANkET_average_daily_PM25_2010_2019" target = "_blank">/home/public_share_data/ResearchData_CAR/Environment_General/Air_Pollution_Monitoring_Stations_TAS/BLANkET_average_daily_PM25_2010_2019</a> </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4214943333 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Environmental Protection Agency, Tasmania, 2020. Base Line Air Network of EPA Tasmania (BLANkET) data 2010-2019. Downloaded from the Centre for Air pollution, energy and health Research https://cloudstor.aarnet.edu.au/plus/f/4214943333 </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> No licence </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td>  </td> </tr>
-   </table>
-
-

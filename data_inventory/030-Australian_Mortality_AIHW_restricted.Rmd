@@ -1,34 +1,0 @@
-Australian_Mortality_AIHW_restricted
-===
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:28 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> title </td> <td> Australian_Mortality_AIHW_restricted </td> </tr>
-  <tr> <td align="right"> personnel_data_owner </td> <td> AIHW </td> </tr>
-  <tr> <td align="right"> project_abstract </td> <td> These data are restricted, summary data of COD URF (Cause of Death Unit Record Files) which is collected by all the states and managed by the QLD Registry of Births Deaths and Marriages.  These data are then shared with AIHW who  provide a service where records can be summarised.  </td> </tr>
-   </table>
-
-
-
-AIHW_Summarised_COD_URF_2006_2018
----
-<!-- html table generated in R 3.6.0 by xtable 1.8-4 package -->
-<!-- Fri May 22 19:14:28 2020 -->
-<table border=1>
-<tr> <th>  </th> <th> metadata_field </th>  </tr>
-  <tr> <td align="right"> shortname </td> <td> AIHW_Summarised_COD_URF_2006_2018 </td> </tr>
-  <tr> <td align="right"> title </td> <td> AIHW_Summarised_COD_URF_2006_2018 </td> </tr>
-  <tr> <td align="right"> creator </td> <td> Australian Institute of Health and Welfare (AIWH) </td> </tr>
-  <tr> <td align="right"> contact_email </td> <td> car.data@sydney.edu.au </td> </tr>
-  <tr> <td align="right"> abstract </td> <td> Summarised COD URF data by | •	State of usual residence | •	Year of death | •	Month of death | •	Sex | •	Age groups (0-9, 10-29, 30-54, 55-64 , 65-74, 75-84, 85plus),  | •	Underlying cause of death in the groups Respiratory diseases (ICD10 codes J00-J99), Cardiovascular diseases (G45-G46, I00-I99, R00), Renal diseases (N00-N99), suicide (X60–X84.9, Y87.0) and All-causes.  |  </td> </tr>
-  <tr> <td align="right"> additional_metadata </td> <td> Access is restricted </td> </tr>
-  <tr> <td align="right"> alternate_identifier </td> <td> https://cloudstor.aarnet.edu.au/plus/f/4183932438 </td> </tr>
-  <tr> <td align="right"> associated_party </td> <td>  </td> </tr>
-  <tr> <td align="right"> access_rules </td> <td>  </td> </tr>
-  <tr> <td align="right"> Recommended Citation </td> <td> Australian Institute of Health and Welfare (2020). Summarised COD URF data by state, year, month, sex, age group and ICD10 code for 2006-2018. Data derived from RBDM National Death Data. Retrieved from the Centre for Air pollution, energy, and health Research. https://cloudstor.aarnet.edu.au/plus/f/4183932438 </td> </tr>
-  <tr> <td align="right"> licence_code </td> <td> other </td> </tr>
-  <tr> <td align="right"> accessibility </td> <td> Restricted </td> </tr>
-   </table>
-
-
