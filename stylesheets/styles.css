@@ -189,7 +189,7 @@ hr {
 footer {
   width:270px;
   position:absolute;
-  bottom:15px;
+  bottom:20px;
 }
 
 @media print, screen and (max-width: 960px) {
