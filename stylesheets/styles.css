@@ -188,8 +188,8 @@ hr {
 
 footer {
   width:270px;
-  text-align: center;
-  position:static;
+  float: left;
+  position:relative;
   bottom:50px;
 }
 
