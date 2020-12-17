@@ -80,10 +80,10 @@ des_monitor_qld_2020
 des_monitor_qld_other
 air_pollution_monitoring_stations_sa
 epa_monitor_pb_sa_2009_2020
+epa_monitor_sa_2002_2020
 epa_monitor_sa_2013_2018
 epa_monitor_sa_2019
 epa_monitor_sa_2020
-epa_monitor_sa_pre_2013
 epa_monitor_station_locations_sa_2013_2020
 air_pollution_monitoring_stations_tas
 blanket_air_pollution_monitoring_stations_tas
@@ -392,6 +392,8 @@ svtm_nsw
 svtm_nsw-1
 synthetic_populations
 synthetic_populations-1
+temis_tropospheric_emission
+o3_multi_sensor_reanalysis_msr2
 topography_global_map_australia_1m_2001
 topography_global_map_australia_1m_2001-1
 traffic_act
