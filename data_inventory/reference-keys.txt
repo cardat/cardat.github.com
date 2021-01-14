@@ -36,6 +36,9 @@ surface-pm2.5-global-estimates-v4.gl.02
 globalgwr_pm25_v4gl02_1998_2009
 air_pollution_modelled_surfaces
 pm25_sydney_gmr_2010_2020
+air_pollution_modelling_apmma
+gis_predictors_from_cardat
+gis_predictors_from_luke_knibbs
 air_pollution_monitoring_stations_act
 air_pollution_monitoring_station_locations_act_2020
 air_pollution_monitoring_stations_act-1
@@ -428,6 +431,7 @@ psma_data
 psma_roads
 us_navy_research_laboratory
 naaps_pm25_smoke_forecast_2000_2020
+naaps_reanalysis_aod_2003_2019
 uvr_solar_bom
 avg_solar_uv_australia_grid_1979_2007
 vegetation_perth
