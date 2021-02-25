@@ -40,6 +40,9 @@ pm25_sydney_gmr_2010_2020
 air_pollution_modelling_apmma
 gis_predictors_from_cardat
 gis_predictors_from_luke_knibbs
+air_pollution_modelling_lur_lct
+lur_lct_passive_samplers_2006_2008
+lur_lct_passive_samplers_2006_2008_lk
 air_pollution_monitoring_stations_act
 air_pollution_monitoring_station_locations_act_2020
 air_pollution_monitoring_stations_act-1
@@ -262,8 +265,6 @@ vegetation_continuous_fields_modis_2000_2010
 landuse_nsw
 landuse_nsw_2013
 lep_nsw_2010
-lur_lane_cove_tunnel
-lur_no2_lane_cove_tunnel
 lur_perth
 lur_perth_no2_rasters
 lur_perth_nox_rasters
