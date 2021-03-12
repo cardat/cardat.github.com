@@ -151,6 +151,8 @@ awap_grids_2016
 awap_grids_2017
 awap_grids_2018
 awap_grids_2019
+awap_grids_monthly_rainfall_1900_2020
+awap_grids_monthly_temperature_1986_2019
 awap_grids_scripted_workflows
 biomass_smoke_validated_events
 biomass_smoke_validated_events-1
@@ -197,6 +199,8 @@ drought-awap-grids
 drought_and_abs_sa2_16
 drought_and_lgas_2016
 gridded-drought-data-1900-2015
+drought-awap-grids-restricted
+drought_and_apmma_locations_2005_2019
 drought_bom_grids
 drought_bom_grids_1890_2008
 dust_event_database
@@ -385,6 +389,7 @@ satellite_no2_lur
 satno2_1990_2005
 satno2_2006_2011
 satno2_2006_2011_perth
+satno2_2012_2015
 satno2_45andup
 satellite_omi_no2
 sat_omi_no2_lk_2005_2016
