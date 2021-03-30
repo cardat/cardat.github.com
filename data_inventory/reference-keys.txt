@@ -84,6 +84,7 @@ epa_monitor_nt_2020
 epa_monitor_nt_hr_avg_2011_2018
 air_pollution_monitoring_stations_qld
 des_monitor_locations_qld_2020
+des_monitor_qld_2006_2011
 des_monitor_qld_2010_2018
 des_monitor_qld_2019
 des_monitor_qld_2020
@@ -154,6 +155,7 @@ awap_grids_2019
 awap_grids_monthly_rainfall_1900_2020
 awap_grids_monthly_temperature_1986_2019
 awap_grids_scripted_workflows
+awap_ndvi
 biomass_smoke_validated_events
 biomass_smoke_validated_events-1
 biosmoke_extended_van_buskirk_2020
@@ -198,6 +200,7 @@ srtm_1sec_smooth_dem_national
 drought-awap-grids
 drought_and_abs_sa2_16
 drought_and_lgas_2016
+drought_national_grids_1950_2020
 gridded-drought-data-1900-2015
 drought-awap-grids-restricted
 drought_and_apmma_locations_2005_2019
@@ -229,6 +232,7 @@ ei_victoria_future_2030
 emissions_inventory_epa_wa
 emissions_inventory_epa_wa-1
 exposure_simulation_studies
+exposim_synthetic_population_nsw
 exposure_simulation_study_sydney_no2
 fire_modis
 fire_modis_active_fire
@@ -357,6 +361,23 @@ air_pollution_monitors_change_log
 ap_monitor_apmma
 ap_monitor_ogawa_cc
 cnossos_au_wa
+ctm_csiro-1
+digital_elev_model
+geoscape_2019-1
+impervious_surfaces
+npi
+public
+roads_psma
+roads_streetpro
+sat_omi_no2
+sat_omi_no2_lk
+study_regions_syd_gmr
+temis_tropospheric_emissions
+topology
+traffic_load
+traffic_zenith
+walkability
+weather_bom
 power_stations_ga
 power_stations_ga_national
 project_exposures
@@ -364,6 +385,7 @@ melb_o3_by_mb11_1996_2014
 narclim_weather_exposure
 satlur_by_postcode
 satlur_by_sa2
+satlur_by_sa3
 seef_exposures
 rbdm_national_death
 rbdm_national_death_codurf_1968
@@ -429,11 +451,11 @@ traffic_act
 traffic_flow_act
 traffic_counts_sydney
 traffic_data_council_and_rms
-traffic_zenith
+traffic_zenith-1
 traffic_flow_zenith
 traffic_flow_zenith_2018
 traffic_flow_zenith_gmr_2012_2016
-traffic_load
+traffic_load-1
 traffic_load_ap_stations_10km_buffer_nsw_2018
 traffic_load_nsw_2018
 traffic_nsw
@@ -462,7 +484,7 @@ vegetation_perth
 vegetation_perth_2018
 vegetation_victoria
 vegetation_victoria_tree_density_1991_2001
-walkability
+walkability-1
 walkability_mayne
 water_bodies_ga
 surface_hydrology_ga_2019
