@@ -366,6 +366,7 @@ digital_elev_model
 geoscape_2019-1
 impervious_surfaces
 npi
+oceans
 public
 roads_psma
 roads_streetpro
@@ -376,8 +377,10 @@ temis_tropospheric_emissions
 topology
 traffic_load
 traffic_zenith
+tree_cover
 walkability
 weather_bom
+wood_heaters
 power_stations_ga
 power_stations_ga_national
 project_exposures
