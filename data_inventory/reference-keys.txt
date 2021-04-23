@@ -102,6 +102,7 @@ blanket_daily_average_pm25_2010_2019
 air_pollution_monitoring_stations_vic
 epa_vic_monitor_1979_1989
 epa_vic_monitor_1990_2014
+epa_vic_monitor_2000_2013
 epa_vic_monitor_2015_2018
 epa_vic_monitor_2019
 epa_vic_monitor_selected_2003_2015
@@ -433,6 +434,7 @@ smoke_plumes
 smoke_plumes_2003_2020
 streetpro
 streetpro_navigation_2012
+streetpro_roads_2013
 study_regions
 abs_sd06_nsw_grouped
 exposure_simulation_study_sydney
