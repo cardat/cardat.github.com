@@ -76,7 +76,7 @@ oeh_monitor_1994_2011
 oeh_monitor_nsw_2014_2018
 oeh_monitor_sydney_2007_2014
 oeh_monitor_sydney_pm25_1996_2014
-rural_aqmu_network_2000_2020
+rural_aqmu_network_2005_2020
 air_pollution_monitoring_stations_nt
 epa_monitor_nt_2012_2017
 epa_monitor_nt_2018_2019
@@ -236,8 +236,8 @@ exposure_simulation_studies
 exposim_synthetic_population_nsw
 exposure_simulation_study_sydney_no2
 fire_modis
-fire_modis_active_fire
-fire_modis_burned_area
+fire_modis_active_fires_2016_2019
+nasa_modis_burnt_area_2005_2019
 gbd_ghdx
 gbd_australia_2016
 geoscape
@@ -479,7 +479,7 @@ traffic_wa
 traffic_flow_wa
 transport_topography_psma
 psma_data
-psma_roads
+psma_roads_fr_lk_2013_2019
 us_navy_research_laboratory
 naaps_pm25_smoke_forecast_2000_2020
 naaps_reanalysis_aod_2003_2019
