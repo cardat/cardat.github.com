@@ -61,6 +61,8 @@ air_pollution_monitoring_stations_national_pm25_2016_2018
 ap_monitor_altitude_from_dem
 ap_monitor_national_database
 ap_monitor_o3_from_luke_knibbs
+air_pollution_monitoring_stations_national_restricted
+nat_ap_monitor_db_doco
 air_pollution_monitoring_stations_nsw
 air_pollution_monitoring_stations_nsw_other_years
 ap_monitor_nsw_2014_2015
@@ -190,6 +192,8 @@ collaboration_noise
 noise_and_health_collaboration
 contaminated_sites
 pfas_sites_epa_nsw_2019
+copernicus_climate_change_service
+era5_avg_daily_wind_1950_2020
 ctm_csiro
 csiro_blend_2005
 ctm_csiro_pm_sources_nsw_2010_11
@@ -200,6 +204,8 @@ ctm_perth
 tapm_2002_no2_sydney
 ctm_nsw_government
 ctm_nsw_2006_2019
+ctm_nsw_2008
+ctm_nsw_2016
 ctm_source_specific_bushfires_2000_2020
 cvrn_built_environment_exposures
 cvrn_built_environment_exposures-1
@@ -445,6 +451,7 @@ satpm10_2006_2011
 satellite_pm25_lur
 satpm25_2000_2015
 satpm25_2015_2018
+satpm25_2016
 sentinel-5p
 sentinel-5p_atmospheric_chemistry
 sentinel-5p_radiance_irradiance
