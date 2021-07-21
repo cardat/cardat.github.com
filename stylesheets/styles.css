@@ -279,6 +279,19 @@ footer {
   padding-bottom:15px;
   width:70%;
 }
+.background-white {
+  background-color: #fff;
+  opacity:0.85;
+  border:10px;
+  border-color: black;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 15%;
+  width: 65%;
+  text-align: center;
+  padding: 30px;
+}
 hr.car-red {
   border-top: 1px solid #952738;
 }
@@ -288,4 +301,16 @@ div.padding-top-bottom {
 }
 div.padding-top {
   padding-top: 0.7px;
+}
+body.car-banner {
+	background-image: url("../images/car_banner.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 85%;
+}
+p.car-banner {
+	background-image: url("../images/car_banner.png");
+	width: 65%;
+	height: 220px;
+	margin-left:17.5%;
 }

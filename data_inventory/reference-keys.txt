@@ -261,8 +261,9 @@ exposure_simulation_studies
 exposim_synthetic_population_nsw
 exposure_simulation_study_sydney_no2
 fire_modis
+nasa_modis_active_fires_2005_2015
 nasa_modis_active_fires_2016_2019
-nasa_modis_burnt_area_2005_2019
+nasa_modis_burnt_area_2005_2009
 gbd_ghdx
 gbd_australia_2016
 geoscape
@@ -393,6 +394,7 @@ ctm_csiro-1
 digital_elev_model
 geoscape_2019-1
 impervious_surfaces
+nasa_modis
 npi
 oceans
 public
@@ -494,6 +496,7 @@ traffic_flow_zenith_2018
 traffic_flow_zenith_gmr_2012_2016
 traffic_load-1
 traffic_load_ap_stations_10km_buffer_nsw_2018
+traffic_load_australia_2018
 traffic_load_nsw_2018
 traffic_nsw
 traffic_flow_nsw
