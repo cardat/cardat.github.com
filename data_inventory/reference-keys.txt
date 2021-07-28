@@ -355,6 +355,8 @@ noise_monitor_sydney
 npi_2010_2013
 npinox_from_knibbs
 npi_pm25_from_knibbs
+nrde_project
+nrde_cba
 nsw_dept_of_health
 cancer_institute_nsw_melanoma_statistics
 cryptosporidiosis_notifications
@@ -442,6 +444,8 @@ road_surface_properties_vic
 road_surface_properties_vic-1
 road_surface_properties_wa
 road_surface_properties_wa-1
+ross_river_virus
+rrv_leschenault_estuary_wa_1995_1996
 satellite_aod_modis
 modis_aerosol_optical_thickness_2002_2020
 satellite_no2_lur
