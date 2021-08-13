@@ -320,6 +320,8 @@ nasa_firms_201509_aust
 nasa_firms_2015_jul_dec_aust
 nasa_firms_201601_aust
 nasa_firms_201605_aust
+nasa_gmao
+merra-2_2000_2020
 ndvi_greenness_national
 ndvi_greenness_national_3_monthly_average
 ndvi_greenness_national_6_monthly_average
