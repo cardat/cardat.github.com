@@ -114,6 +114,7 @@ epa_vic_monitor_1990_2014
 epa_vic_monitor_2000_2013
 epa_vic_monitor_2015_2018
 epa_vic_monitor_2019
+epa_vic_monitor_2020
 epa_vic_monitor_selected_2003_2015
 air_pollution_monitoring_stations_wa
 air_pollution_monitoring_stations_wa-1
