@@ -51,7 +51,8 @@ a small {
 }
 
 .wrapper {
-  width:870px;
+/*  width:870px;*/
+  width: 75%;
   margin:0 auto;
 }
 
@@ -291,6 +292,11 @@ footer {
   padding: 30px;
   border:5px solid black;
 }
+a.main-menu {
+  color: #191978; 
+  font-weight: 510;	
+}
+
 hr.car-red {
   border-top: 1px solid #952738;
 }
@@ -306,6 +312,7 @@ div.clear-all {
 }
 img.car-banner{
 	width:99%;
+	border: 2px solid black;
 }
 img.icon-list{
 	width: 80px;
