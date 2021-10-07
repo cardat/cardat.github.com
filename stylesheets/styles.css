@@ -294,7 +294,8 @@ footer {
 }
 a.main-menu {
   color: #191978; 
-  font-weight: 510;	
+  font-weight: 500;	
+  font-size: 16px;
 }
 
 hr.car-red {
