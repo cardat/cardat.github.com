@@ -1,5 +1,8 @@
 introduction
 datasets-overview
+abs_customised_for_apmma
+abs_sei_2006_2016
+apmma_abs_mb
 abs_data
 abs1x1km_aus_pop_grid_2006_2020
 abs1x1km_aus_pop_grid_2011
@@ -208,6 +211,7 @@ copernicus_climate_change_service
 era5_avg_daily_wind_1950_2020
 ctm_csiro
 csiro_blend_2005
+ctm_csiro_nrde_australia_2015
 ctm_csiro_pm_sources_nsw_2010_11
 ctm_csiro_shipping_no2_sydney_2010_2011
 ctm_csiro_shipping_pm25_sydney_2010_2011
@@ -279,6 +283,7 @@ geoscape
 buildings
 geoscape_2019
 geoscape_2019_noise_collaboration
+geoscape-residential-land
 geovision_pitney_bowes
 geovision_pitney_bowes_australia_2017
 gis_regression_sydney
@@ -335,6 +340,8 @@ ndvi_greenness_national
 ndvi_greenness_national_3_monthly_average
 ndvi_greenness_national_6_monthly_average
 ndvi_greenness_national_monthly_average
+ndvi_modis
+mod13a3_006_terra_ndvi_2000_2020
 neighbourhood_exposures
 bayesian-maximum-entropy-tools
 neighbourhood_exposures_bme_no2_sydney_2011
@@ -375,6 +382,7 @@ drinking_water_quality_and_incidents
 health_stats_arbovirus_notifications_lhd_2008_2017
 health_stats_cancer
 health_stats_circulatory_disease_deaths_lhd
+health_stats_circulatory_disease_hospitalisations_lhd_2001_2019
 health_stats_deaths_by_age_sex_cause_year_1999_2018
 health_stats_lead_broken_hill_2000_2017
 health_stats_physical_activity
