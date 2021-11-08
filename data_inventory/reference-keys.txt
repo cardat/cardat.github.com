@@ -67,7 +67,7 @@ ap_monitor_altitude_from_dem
 ap_monitor_o3_from_luke_knibbs
 air_pollution_monitoring_stations_national_restricted
 air_pollution_monitoring_stations_national_pm25_2000_2015
-ap_monitor_national_database
+cars_national_air_pollution_database
 nat_ap_monitor_db_doco
 pm25_and_pm10_daily_averages_2000_2020
 air_pollution_monitoring_stations_nsw
@@ -159,6 +159,7 @@ aihw_mort_2010_2014
 aihw_mort_2011_2015
 aihw_mort_2012_2016
 australian_mortality_aihw_restricted
+aihw_factofdeath_2010_2021
 aihw_summarised_cod_urf_2006_2018
 australian_mortality_rbdm
 rbdm_national_death_cod_urf
@@ -185,6 +186,7 @@ bushfire_life_and_house_loss_national_1901_2011
 bushfire_progression
 bushfire_progression_2019_2020
 bushfire_smoke_pm_exposures
+bushfire_pm25_predictors_australia_2000_2021
 bushfire_specific_pm25_syd_gmr_2006_2020_v1_1
 cadastral_nsw
 cadastral_nsw_2018
@@ -371,8 +373,9 @@ noise_exposure_sydney
 noise_exposure_sydney-1
 noise_monitor_sydney
 npi_2010_2013
+npi_nox_australia_2017_2018
 npinox_from_knibbs
-npi_pm25_from_knibbs
+npi_pm25_australia_2010_2011
 nrde_project
 nrde_cba
 nsw_dept_of_health
@@ -574,3 +577,5 @@ wind_speed_2004_2008
 weighted_road_density
 road_density_75m_raster
 road_density_ccd06
+woodfire_heaters
+household_woodfire_heaters_australia_2012
