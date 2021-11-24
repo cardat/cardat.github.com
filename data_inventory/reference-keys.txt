@@ -160,6 +160,7 @@ aihw_mort_2011_2015
 aihw_mort_2012_2016
 australian_mortality_aihw_restricted
 aihw_factofdeath_2010_2021
+aihw_summarised_cod_urf_2000_2019_disaggregated
 aihw_summarised_cod_urf_2006_2018
 australian_mortality_rbdm
 rbdm_national_death_cod_urf
@@ -336,6 +337,7 @@ nasa_firms_201509_aust
 nasa_firms_2015_jul_dec_aust
 nasa_firms_201601_aust
 nasa_firms_201605_aust
+nasa_firms_2019_2021_aust
 nasa_gmao
 merra-2_2000_2020
 ndvi_greenness_national
@@ -485,6 +487,8 @@ satellite_pm25_lur
 satpm25_2000_2015
 satpm25_2015_2018
 satpm25_2016
+satpm25_case_study_perth_2000_2015
+satpm25_case_study_west_syd_2000_2015
 sentinel-5p
 sentinel-5p_atmospheric_chemistry
 sentinel-5p_radiance_irradiance
