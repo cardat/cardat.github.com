@@ -1,0 +1,7 @@
+a {
+	overflow-wrap: anywhere;
+}
+
+h1 > span, h2 > span {
+	overflow-wrap: break-word;
+}

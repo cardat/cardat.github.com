@@ -224,6 +224,7 @@ tapm_2002_no2_sydney
 ctm_nsw_government
 ctm_nsw_2006_2019
 ctm_nsw_2008
+ctm_nsw_2013
 ctm_nsw_2016
 ctm_source_specific_bushfires_2000_2020
 ctm_ukceh
@@ -374,6 +375,9 @@ noise_exposure_perth-1
 noise_exposure_sydney
 noise_exposure_sydney-1
 noise_monitor_sydney
+tba
+npi
+npi_1998_2017
 npi_2010_2013
 npi_nox_australia_2017_2018
 npinox_from_knibbs
@@ -421,7 +425,7 @@ digital_elev_model
 geoscape_2019-1
 impervious_surfaces
 nasa_modis
-npi
+npi-1
 oceans
 public
 roads_psma
@@ -475,6 +479,7 @@ modis_aerosol_optical_thickness_2002_2020
 satellite_no2_lur
 satno2_1990_2005
 satno2_2006_2011
+also-see-from-the-paper
 satno2_2006_2011_perth
 satno2_2012_2015
 satno2_45andup
