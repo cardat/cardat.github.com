@@ -188,6 +188,7 @@ bushfire_progression
 bushfire_progression_2019_2020
 bushfire_smoke_pm_exposures
 bushfire_pm25_predictors_australia_2000_2021
+bushfire_smoke_for_car_project
 bushfire_specific_pm25_syd_gmr_2006_2020_v1_1
 cadastral_nsw
 cadastral_nsw_2018
@@ -588,3 +589,5 @@ road_density_75m_raster
 road_density_ccd06
 woodfire_heaters
 household_woodfire_heaters_australia_2012
+workshops_car_restricted
+hia_worshop_2021
