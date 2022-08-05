@@ -148,6 +148,8 @@ aptema
 aptema_air_pollution_and_traffic
 aq_koala_sensor_gold_coast
 aq_koala_sensor_gold_coast-1
+ardc_bridges_and_platform
+air-health-gis-extract-tools-using-arcpy
 atmospheric_composition_analysis_group
 annual_surface_pm25_concentrations_1998_2018
 annual_surface_pm25_concentrations_2005_2018
@@ -182,13 +184,13 @@ awap_grids_monthly_temperature_1986_2019
 awap_grids_scripted_workflows
 awap_ndvi
 daily_awap_2001_2020_rds
+baynnd_air_pollution_model
+bayesian-neural-network-downscaled-monthly-surface-o3-for-australia-1990-2019-version-1.0
 biomass_smoke_validated_events
 biomass_smoke_validated_events-1
 biosmoke_extended_van_buskirk_2020
 biosmoke_pollution_locations
 biosmoke_spatial
-bnn_air_pollution_model
-bnn_monthly_o3_australia_1990_2019
 bushfire_life_and_house_loss
 bushfire_life_and_house_loss_national_1901_2011
 bushfire_progression
@@ -238,6 +240,7 @@ ctm_nsw_2016
 ctm_source_specific_bushfires_2000_2020
 ctm_ukceh
 ctm_mean_pollutants_hourly_global_2018
+ctm_ukceh_daily_global_emepwrf_run_2019_2020
 cvrn_built_environment_exposures
 cvrn_built_environment_exposures-1
 digital_elevation_model_anuclim
@@ -293,9 +296,12 @@ exposim_synthetic_population_nsw
 exposim_synthetic_population_questionnaire_dummy_data_aptema
 exposure_simulation_study_sydney_no2
 fire_modis
+nasa_modis_active_fires_2000_2020
 nasa_modis_active_fires_2005_2015
 nasa_modis_active_fires_2016_2019
-nasa_modis_burnt_area_2005_2009
+nasa_modis_burnt_area_2000_2004
+nasa_modis_burnt_area_2005_2019
+nasa_modis_burnt_area_2020
 gbd_ghdx
 gbd_australia_2016
 geoscape
@@ -402,6 +408,7 @@ noise_monitor_sydney
 tba
 npi
 npi_1998_2017
+npi_1998_2020
 npi_2010_2013
 npi_nox_australia_2017_2018
 npinox_from_knibbs
@@ -527,6 +534,7 @@ smoke_plume_hotspots_ml_jfsp
 smoke_plume_hotspots_ml_jfsp-1
 smoke_plumes
 smoke_plumes_2003_2020
+smoke_plumes_perth_2015_2017
 streetpro
 streetpro_navigation_2012
 streetpro_roads_2013
@@ -573,6 +581,8 @@ traffic_vic
 traffic_flow_vic
 traffic_wa
 traffic_flow_wa
+train_datascience
+mlm_workshop
 transport_topography_psma
 psma_data
 psma_roads_fr_lk_2013_2019
@@ -590,6 +600,7 @@ walkability_mayne
 walkability_2006
 water_bodies_ga
 australian_maritime_boundaries_2014
+euclidean_distance_coastline_australia_2011
 surface_hydrology_ga_2019
 weather_anu_fenner
 weather_anu_fenner-1
