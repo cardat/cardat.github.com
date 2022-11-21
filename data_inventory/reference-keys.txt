@@ -41,6 +41,7 @@ air_pollution_model_global_from_gbd-1
 air_pollution_model_globalgwr_pm25
 surface-pm2.5-global-estimates-v4.gl.02
 globalgwr_pm25_v4gl02_1998_2009
+surface-pm2.5-global-estimates-v5.gl.02
 air_pollution_modelled_surfaces
 pm25_daily_means_by_sa2_2016_aust_2012_2020
 pm25_sydney_gmr_2010_2020
@@ -50,6 +51,8 @@ gis-predictors-for-use-in-the-air-pollution-and-mortality-and-morbidity-in-adult
 air_pollution_modelling_lur_lct
 lur_lct_passive_samplers_2006_2008
 lur_lct_passive_samplers_2006_2008_lk
+air_pollution_monitoring_aqfx_pm25
+aqfx_pm25_hourly_data_from_apis
 air_pollution_monitoring_stations_act
 air_pollution_monitoring_station_locations_act_2020
 air_pollution_monitoring_stations_act-1
@@ -182,6 +185,7 @@ awap_grids_2019
 awap_grids_monthly_rainfall_1900_2020
 awap_grids_monthly_temperature_1986_2019
 awap_grids_scripted_workflows
+awap_grids_solar_exposure_1990_2021
 awap_ndvi
 daily_awap_2001_2020_rds
 baynnd_air_pollution_model
@@ -222,6 +226,7 @@ contaminated_sites
 pfas_sites_epa_nsw_2019
 copernicus_climate_change_service
 era5_avg_daily_wind_1950_2020
+era5_hourly_wind_1999_2020
 ctm_csiro
 csiro_blend_2005
 ctm_csiro_apmma_2006_2013_2016
