@@ -169,6 +169,7 @@ aihw_mort_2011_2015
 aihw_mort_2012_2016
 australian_mortality_aihw_restricted
 aihw_factofdeath_2010_2021
+aihw_mort_2000_2019
 aihw_summarised_cod_urf_2000_2019_disaggregated
 aihw_summarised_cod_urf_2006_2018
 deaths_daily_expected_by_age_sydney_australia_2006_2018_from_aihw_and_abs_data
@@ -201,7 +202,12 @@ bushfire_progression
 bushfire_progression_2019_2020
 bushfire_smoke_pm_exposures
 bushfire_smoke_for_car_project
+bushfire_smoke_pm25_gibson
+bushfire_specific_pm25_aus_2001_2020_predictions_v1_3_v2_1
 bushfire_specific_pm25_aus_2001_2020_v1_2
+bushfire_specific_pm25_aus_2001_2020_v1_3
+bushfire_specific_pm25_aus_2001_2020_v2_0
+bushfire_specific_pm25_aus_2001_2020_v2_1
 bushfire_specific_pm25_syd_gmr_2006_2020_v1_1
 cadastral_nsw
 cadastral_nsw_2018
@@ -227,6 +233,9 @@ pfas_sites_epa_nsw_2019
 copernicus_climate_change_service
 era5_avg_daily_wind_1950_2020
 era5_hourly_wind_1999_2020
+csiro_aqfx
+aqfx_warping
+bushfire_aqfx_blending
 ctm_csiro
 csiro_blend_2005
 ctm_csiro_apmma_2006_2013_2016
@@ -264,6 +273,8 @@ drought-awap-grids-restricted
 drought_and_apmma_locations_2005_2019
 drought_bom_grids
 drought_bom_grids_1890_2008
+drought-spei-global-drought-monitor-restricted
+drought-spei-indicator-for-tlrh-wpc-2023
 dust_event_database
 dust_event_database_1960_2019
 ecoregions_climate_zones_bom
@@ -271,6 +282,7 @@ rainfallzones
 temperaturezones
 ehindicators_nsw
 ehi_fire_smoke_and_mortality_australia
+ehi_fire_smoke_and_mortality_nsw
 ehindicators_heat_and_suicide
 ehindicators_nsw_2018
 ehindicators_nsw_v2
@@ -295,6 +307,8 @@ ei_victoria_2006
 ei_victoria_future_2030
 emissions_inventory_epa_wa
 emissions_inventory_epa_wa-1
+environment_general
+environment_general_cloudstor
 exposure_simulation_studies
 exposim_synthetic_population_aptema
 exposim_synthetic_population_nsw
@@ -326,6 +340,8 @@ hazelwood
 hazelwood-1
 hia_health_impact_assessments
 hia_aus_pm25_2010_2016
+hia_aus_pm25_landscape_fire_smoke_mortality
+hia_aus_pm25_under_who_guidelines
 himaqs
 himaqs_ctm_perth
 himaqs_lur_perth
@@ -385,6 +401,7 @@ myd13a3_006_aqua_ndvi_2002_2020
 neighbourhood_exposures
 bayesian-maximum-entropy-tools
 neighbourhood_exposures_bme_no2_sydney_2011
+nrt_exposure_assessment_app_google_proj
 nmmaps
 nmmaps_us_1987_2000
 noise_epa_vic
@@ -493,6 +510,8 @@ pm25_no2_exposure_by_poa_2000_2015
 pm25_no2_exposure_by_poa_2002_2003
 satlur_by_sa2
 satlur_by_sa3
+researchdata_epa_vic
+researchdata_epa_vic-cloudstor
 road_surface_properties_act
 road_surface_properties_act-1
 road_surface_properties_nsw
@@ -540,6 +559,8 @@ smoke_plume_hotspots_ml_jfsp-1
 smoke_plumes
 smoke_plumes_2003_2020
 smoke_plumes_perth_2015_2017
+sources_project
+ctm_pm25_absolute_magnitude
 streetpro
 streetpro_navigation_2012
 streetpro_roads_2013
