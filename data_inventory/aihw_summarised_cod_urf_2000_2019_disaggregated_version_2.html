@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>108.1 Bayesian Maximum Entropy tools | Data Audit Results (Last edited on 2023-05-15)</title>
-  <meta name="description" content="108.1 Bayesian Maximum Entropy tools | Data Audit Results (Last edited on 2023-05-15)" />
+  <title>40.3 AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2 | Data Audit Results (Last edited on 2023-05-15)</title>
+  <meta name="description" content="40.3 AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2 | Data Audit Results (Last edited on 2023-05-15)" />
   <meta name="generator" content="bookdown 0.29 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="108.1 Bayesian Maximum Entropy tools | Data Audit Results (Last edited on 2023-05-15)" />
+  <meta property="og:title" content="40.3 AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2 | Data Audit Results (Last edited on 2023-05-15)" />
   <meta property="og:type" content="book" />
   
   
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="108.1 Bayesian Maximum Entropy tools | Data Audit Results (Last edited on 2023-05-15)" />
+  <meta name="twitter:title" content="40.3 AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2 | Data Audit Results (Last edited on 2023-05-15)" />
   
   
   
@@ -28,8 +28,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="neighbourhood_exposures.html"/>
-<link rel="next" href="neighbourhood_exposures_bme_no2_sydney_2011.html"/>
+<link rel="prev" href="aihw_summarised_cod_urf_2000_2019_disaggregated.html"/>
+<link rel="next" href="aihw_summarised_cod_urf_2006_2018.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -1175,10 +1175,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="bayesian-maximum-entropy-tools" class="section level2 hasAnchor" number="108.1">
-<h2><span class="header-section-number">108.1</span> Bayesian Maximum Entropy tools<a href="bayesian-maximum-entropy-tools.html#bayesian-maximum-entropy-tools" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="aihw_summarised_cod_urf_2000_2019_disaggregated_version_2" class="section level2 hasAnchor" number="40.3">
+<h2><span class="header-section-number">40.3</span> AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2<a href="aihw_summarised_cod_urf_2000_2019_disaggregated_version_2.html#aihw_summarised_cod_urf_2000_2019_disaggregated_version_2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <!-- html table generated in R 4.2.2 by xtable 1.8-4 package -->
-<!-- Mon May 15 16:56:27 2023 -->
+<!-- Mon May 15 16:56:25 2023 -->
 <table border="1">
 <tr>
 <th>
@@ -1192,7 +1192,7 @@ metadata_field
 shortname
 </td>
 <td>
-bmetools
+AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2
 </td>
 </tr>
 <tr>
@@ -1200,7 +1200,7 @@ bmetools
 title
 </td>
 <td>
-Bayesian Maximum Entropy tools
+AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2
 </td>
 </tr>
 <tr>
@@ -1208,7 +1208,7 @@ Bayesian Maximum Entropy tools
 creator
 </td>
 <td>
-Ivan Hanigan
+AIHW
 </td>
 </tr>
 <tr>
@@ -1224,10 +1224,13 @@ contact_email
 abstract
 </td>
 <td>
-These tools are primarily intended to allow R users to develop a project that can run the BME matlab tool.
-We have developed a process in R to create the input datasets and estimate a PDF for the soft data
-using a triangular PDF with the function â€œpdf4bme_triangular.Râ€ available at the Bitbucket open
-source code repository (<a href="https://bitbucket.org/ivanhanigan/bmetools" class="uri">https://bitbucket.org/ivanhanigan/bmetools</a>).
+<p>Monthly respiratory deaths and daily deaths for all-cause and non-trauma:
+1. Monthly deaths for respiratory conditions (state, GCC, SA4, LGA) – note that LGA is split into 2 files – one for 2000–2008, and one for 2009–2019
+2. Daily deaths for All-cause and Non-trauma by GCC and
+3. Daily deaths for respiratory, cardiovascular, renal by GCC.
+Please read the explanatory notes attached.</p>
+<p>As the LGA and SA4 files are quite large, the rows with zero deaths are removed. The State and GCC files contain all rows of data (including the rows with zero deaths).</p>
+Deaths are counted according to death occurrence, note that some deaths are not registered in the same year that it occurred particularly in November and December (e.g. due to late registration or coronial investigation). Hence, deaths in 2019 are underestimated.
 </td>
 </tr>
 <tr>
@@ -1235,7 +1238,7 @@ source code repository (<a href="https://bitbucket.org/ivanhanigan/bmetools" cla
 additional_metadata
 </td>
 <td>
-<a href = "/home/public_share_data/ResearchData_CAR/projects/Neighbourhood_Exposures/bmetools" target = "_blank">/home/public_share_data/ResearchData_CAR/projects/Neighbourhood_Exposures/bmetools</a>
+<a href = "/home/public_share_data/ResearchData_CAR/Shared/ResearchProjects_CAR/Australian_Mortality_AIHW_RESTRICTED/AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2" target = "_blank">/home/public_share_data/ResearchData_CAR/Shared/ResearchProjects_CAR/Australian_Mortality_AIHW_RESTRICTED/AIHW_Summarised_COD_URF_2000_2019_disaggregated_version_2</a>
 </td>
 </tr>
 <tr>
@@ -1243,7 +1246,7 @@ additional_metadata
 alternate_identifier
 </td>
 <td>
-<a href="https://bitbucket.org/ivanhanigan/bmetools" class="uri">https://bitbucket.org/ivanhanigan/bmetools</a>
+<a href="https://cloudstor.aarnet.edu.au/plus/f/6774692810" class="uri">https://cloudstor.aarnet.edu.au/plus/f/6774692810</a>
 </td>
 </tr>
 <tr>
@@ -1258,6 +1261,8 @@ associated_party
 access_rules
 </td>
 <td>
+HIGHLY RESTRICTED
+Note that the underlying results are not permissible for publication. Explicit approval has been provided by the data custodian for these results be used as inputs for modelling only. In cases where tables for publication are directly produced from the deaths data provided, the AIHW should be contacted to review the tables for any attribute disclosure.
 </td>
 </tr>
 <tr>
@@ -1265,6 +1270,7 @@ access_rules
 Recommended Citation
 </td>
 <td>
+Australian Institute of Health and Welfare (2023). Summarised monthly or daily COD URF data by SA4/LGA/greater capital city aggregations, state, year, month, sex, age group and ICD10 code for 2000-2019. Data derived from RBDM National Death Data. Deaths data are provided by the AIHW from the National Mortality Database (unpublished). Cause of Death Unit Record File data are provided to the AIHW by the Registries of Births, Deaths and Marriages and the National Coronial Information System (managed by the Victorian Department of Justice) and include cause of death coded by the Australian Bureau of Statistics (ABS). The data are maintained by the AIHW in the National Mortality Database. Retrieved from the Centre for Air pollution, energy, and health Research. <a href="https://cloudstor.aarnet.edu.au/plus/f/5986300012" class="uri">https://cloudstor.aarnet.edu.au/plus/f/5986300012</a>
 </td>
 </tr>
 <tr>
@@ -1272,7 +1278,7 @@ Recommended Citation
 licence_code
 </td>
 <td>
-CCBY
+No licence
 </td>
 </tr>
 <tr>
@@ -1280,7 +1286,6 @@ CCBY
 accessibility
 </td>
 <td>
-CAR
 </td>
 </tr>
 </table>
@@ -1290,8 +1295,8 @@ CAR
           </div>
         </div>
       </div>
-<a href="neighbourhood_exposures.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="neighbourhood_exposures_bme_no2_sydney_2011.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="aihw_summarised_cod_urf_2000_2019_disaggregated.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="aihw_summarised_cod_urf_2006_2018.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
