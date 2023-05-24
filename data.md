@@ -1,57 +1,13 @@
- <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>CARDAT Data</title>
+---
+name: data
+layout: default
+title: Data Science Tips
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-  <img src="images/car_banner_v2.webp" title="CAR banner" alt="CAR banner" class="car-banner" />
-    <div class="wrapper">
-      <header>
-
-		<p><a href="https://www.car-cre.org.au/"><img src="images/CAR_logo_tag_cmyk_jpg_resized.png" title="CAR logo" alt="CAR logo" class="logo-image" /></a></p>
-        <strong id="blog-title">
-          <h1>CARDAT</h1>
-        </strong>
-        
-       <div class="padding-top"><a class="main-menu" href="index.html">Home →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="why_use_cardat.html">Why use CARDAT? →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="infrastructure.html">CARDAT infrastructure →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="access.html">Who can use CARDAT? →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="data.html">Data →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="data_inventory/index.html">Data inventory →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="examples.html">Examples →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="getting_help.html">Getting help →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="acknowledgements.html">Acknowledgements →</a></div><br />
-	   <div class="padding-top"><a class="main-menu" href="papers_and_reports_using_cardat.html">Papers and reports using CARDAT →</a></div><br />
-       <div class="padding-top"><a class="main-menu" href="mailto:car.data@sydney.edu.au">Email us →</a></div><br />
-       <div class="padding-top"></div><br/>
-       <div class="padding-top"></div><br/>
-        <p></p>
-        <div>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/ivanhanigan">ivanhanigan</a><br />
-			<small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        <!--<p><small><a href="/indexlocal.html">Ivan's temporary local version for debugging</a></small></p>-->
-
-      </footer>
-        </div>
-
-      </header>	  
-      <section>
-
-       <h2><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> data</h2>
-       <hr class="car-red" />
-       <p><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> stores
-        a wide array of population, health and environmental datasets. There are three types of data:</p>
+<h2><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> data</h2>
+<hr class="car-red" />
+<p><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> stores
+a wide array of population, health and environmental datasets. There are three types of data:</p>
 <ul>
 <li><strong>Open data</strong> - data that has been published on both CloudStor and in the public domain. These data don't require any special access requirements.</li>
 <li><strong>General data</strong> - data that is published to CloudStor and is available to all <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> users.</li>
@@ -60,9 +16,9 @@
 <p>A catalogue of these datasets, including metadata in Ecological Metadata Language (EML) format is kept in the 
 <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> data inventory. These records are published 
 <a href="book_down/index.html">here</a>.</p>
-       <p> Access to <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> data is 
-        administered by the <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> data management team 
-        (<a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>).</p>
+<p> Access to <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> data is 
+administered by the <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> data management team 
+(<a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>).</p>
 <h2>Data cleaning</h2>
 <p>It is inevitable that the data we work has imperfections. As part of storing data in CARDAT or EHI we often take steps to clean the data. When this is done, we always:</p>
 <ul>
@@ -118,10 +74,4 @@
 <li>on your local version delete the branch: git branch -D working_joe</li>
 <li>and delete the remote link branch: git fetch origin --prune</li>
 </ul>	      
-	      
-<!--<p>This was generated by Github's automatic webpage generator.</p>-->
-   
-      </section>
-    </div>
-  </body>
-</html>
+
