@@ -7,7 +7,7 @@ title: CAR's Data and Analysis Technology (CARDAT)
 <h2>Welcome to <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr></h2>
 <hr class="car-red" />
 <p>
-Centre for Air pollution, energy and health Research (CAR) Data Analysis Technology (DAT) is a collection of IT infrastructure
+The Centre for Air pollution, energy and health Research (CAR) Data Analysis Technology (DAT) is a collection of IT infrastructure
 that enables easy data sharing and reuse, and reproducible data analysis.
 It is an online research platform that collates a wide array of population, health and environmental datasets
 with a collection of analysis tools and methodology resources. The data in <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr>
