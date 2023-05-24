@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Air-Health-Data-Bridges</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+  <img src="images/car_banner_v2.webp" title="CAR banner" alt="CAR banner" class="car-banner" />
+
+
+    
+    <div class="wrapper">
+      <header>
+        <strong id="blog-title">
+          <a href="index.html" rel="home"><h1>CARDAT's AirHealth Data Bridges</h1></a>
+        </strong>
+
+              <a class="National Air Pollution Monitor Database" href="napmd.html">National Air Pollution Monitor Database</a>
+       <p></p>
+              <a class="GIS predictors for air quality models" href="gis-predictors-for-air-quality-models/index.html">GIS predictors for air quality models</a>
+       <p></p>        
+       <a class="Mortality data for air quality studies" href="aihw-mort-disaggregated.html">Mortality data for air quality studies</a>
+       <p></p> 
+              <a class="Contact us" href="mailto:ivan.hanigan@gmail.com">Contact us</a>
+       <p></p>
+
+      </header>
+      <section>
+        <h3>{{ page.title }}</h3>
+
+        <p>
+          {{ content }}
+        </p>
+    </section>
+
+      </p>
+
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/ivanhanigan">ivanhanigan</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+
+
+      </footer>
+    </div>
+
+    <script src="javascripts/scale.fix.js"></script>    
+  </body>
+</html>

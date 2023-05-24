@@ -16,8 +16,7 @@
   <img src="images/car_banner_v2.webp" title="CAR banner" alt="CAR banner" class="car-banner" />
     <div class="wrapper">
       <header>
-
-		<p><a href="https://www.car-cre.org.au/"><img src="images/CAR_logo_tag_cmyk_jpg_resized.png" title="CAR logo" alt="CAR logo" class="logo-image" /></a></p>
+	<p><a href="https://www.car-cre.org.au/"><img src="images/CAR_logo_tag_cmyk_jpg_resized.png" title="CAR logo" alt="CAR logo" class="logo-image" /></a></p>
         <strong id="blog-title">
           <h1>CARDAT</h1>
         </strong>
