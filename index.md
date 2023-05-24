@@ -24,3 +24,22 @@ to inform policy though research and analysis of air pollution, energy and healt
 <img src="images/CARDAT_infrastructure_overview.PNG" title="CARDAT infrastructure overview" alt="CARDAT infrastructure overview" width="95%"/>
 <figcaption>Figure 1: CARDAT infrastructure components</figcaption>
 </figure>
+
+<h4>Metadata, data discovery and reporting tools</h4>
+<p><img src="images/CAR_data_inventory.png" class="icon-list" alt="CAR Data Inventory Catalogue" title="CAR Data Inventory Catalogue" /><strong>The <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> Data Inventory:</strong> a catalogue of available datasets and their associated metadata records).</p>
+<div class="clear-all" />
+<p><img src="images/reports.png" class="icon-list" alt="CARDAT reports" title="CARDAT reports" /><strong><abbr title="Centre for Air pollution, energy and health Research Data and Analysis Technology">CARDAT</abbr> reports:</strong> the <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> Data Inventory tracks user access and data sharing for reporting to data owners on usage.</p>
+<div class="clear-all" />
+<h4>Secure data storage</h4>  
+<p><img src="images/cloudstor_data.png" class="icon-list" alt="CloudStor data cloud" title="CloudStor data cloud" /><a href="https://cloudstor.aarnet.edu.au/"><strong>CloudStor:</strong></a> A cloud based file store which enables shared access to datasets, and the ability to sync data automatically, and</p>
+<div class="clear-all" />
+<p><img src="images/PostGIS_CAR_DB.png" class="icon-list" alt="PostGIS CAR database" title="PostGIS CAR database" /><strong>PostGIS CAR DB:</strong> A PostGres database with PostGIS spatial extention that contains a range of air pollution, land use, population, satellite and climate data.</p>
+<div class="clear-all" />
+<p><img src="images/nat_ap_mon_db.png" class="icon-list" alt="National Air Pollution Monitoring Database" title="National Air Pollution Monitoring Database" /><strong>National Air Pollution Monitoring Database:</strong> A spatial database containing standardised regulatory air pollution monitoring data from state and territory governments across Australia. This database is stored in the PostGIS CAR Database.</p>
+<div class="clear-all" />
+<h4>Virtual desktop environments</h4> 
+<p><img src="images/CoESRA_desktops.png" class="icon-list" alt="CoESRA desktops" title="CoESRA desktops" /><a href="https://coesra.tern.org.au/#/tern-landingpage><abbr title="Collaborative Environment for Scholarly Research and Analysis"><strong>CoESRA</strong></abbr></a><strong>:</strong> A configuarble online platform for data analysis. 
+which provides a secure environment for reproducible, collaborative data analysis. Data from CloudStor and the PostGIS CAR DB can be accessed from <abbr title="Collaborative Environment for Scholarly Research and Analysis">CoESRA</abbr> desktops.</p>
+<div class="clear-all" />
+<h4>Data access and analysis tools</h4> 
+<p><img src="images/cardatdbtools.png" class="icon-list" alt="CARDAT Github repository of tools for accessing the PostGIS CAR DB" title="CARDAT Github repository of tools for accessing the PostGIS CAR DB" /><strong>Cardatdbtools GitHub repository:</strong> A public repository of R functions for interacting with PostGIS CAR and the National Air Pollution Monitor Database.</p>
