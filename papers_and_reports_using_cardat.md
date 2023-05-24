@@ -10,8 +10,9 @@ This research was undertaken with the assistance of data resources from the Cent
 
 <h3>Papers using CARDAT</h3>
 
-- A really cool paper
-- Another really cool paper
+### 2022 Papers
+
+- Chaston TB, Broome R, Cooper N, Duck G, Geromboux C, Guo Y, Ji F, Perkins-Kirkpatrick S, Zhang Y, Dissanayake GS, Morgan GG, Hanigan IC. Mortality burden of heatwaves in Sydney Australia is exacerbated by the urban heat island and climate change: can tree cover help mitigate the health impacts? Atmosphere 2022, 13(5), 714; https://doi.org/10.3390/atmos13050714
 
 ### 2021 Papers
 <ul>
