@@ -13,7 +13,9 @@ title: News
 ### <a name="2023-03-29"></a>2023-03-29: great new resource for Satellite data and Health research
 
 Check out this Flowchart of Resources and Data Products for Health and Air Quality Applications with an Emphasis on Satellite Data is intended to be a resource for users that are interested in using satellite data but are new to the data products and their capabilities. This document contains a flowchart that will guide users from a general question or need to a specific resource
-https://haqast.org/data-and-tools/#flowchart
+[https://haqast.org/data-and-tools/#flowchart](https://haqast.org/data-and-tools/#flowchart)
+
+There are some really amazing things coming out of the new satellite data available for example this tweet showing the JAXA japanese meteorological sensors [https://twitter.com/wxnb_/status/1662219288848261120?s=42&t=DsJziYF0RW0L_MTRoDtvZw](https://twitter.com/wxnb_/status/1662219288848261120?s=42&t=DsJziYF0RW0L_MTRoDtvZw)
 
 ### <a name="2021-11-12"></a>2021-11-12: launching CAR's National Air Pollution Monitor Database (NAPMD)
 
