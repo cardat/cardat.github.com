@@ -10,14 +10,14 @@ title: News
 1. [2021-11-12: launching CAR's National Air Pollution Monitor Database (NAPMD)](#2021-11-12)
 1. [2021-03-12: Workshop with NATAG and AirHealth Bridges project team](#2021-03-12)
 
-### <a name="2023-03-29"></a>2023-03-29: great new resource for Satellite data and Health research
+### <a name="2023-03-29"></a>2023-03-29: Great new resource for Satellite data and Health research
 
 Check out this Flowchart of Resources and Data Products for Health and Air Quality Applications with an Emphasis on Satellite Data is intended to be a resource for users that are interested in using satellite data but are new to the data products and their capabilities. This document contains a flowchart that will guide users from a general question or need to a specific resource
 [https://haqast.org/data-and-tools/#flowchart](https://haqast.org/data-and-tools/#flowchart)
 
 There are some really amazing things coming out of the new satellite data available for example this tweet showing the JAXA japanese meteorological sensors [https://twitter.com/wxnb_/status/1662219288848261120?s=42&t=DsJziYF0RW0L_MTRoDtvZw](https://twitter.com/wxnb_/status/1662219288848261120?s=42&t=DsJziYF0RW0L_MTRoDtvZw)
 
-### <a name="2021-11-12"></a>2021-11-12: launching CAR's National Air Pollution Monitor Database (NAPMD)
+### <a name="2021-11-12"></a>2021-11-12: Launching CAR's National Air Pollution Monitor Database (NAPMD)
 
 
 
@@ -31,11 +31,11 @@ The Centre for Air pollution, energy and health Research (CAR) National Air Poll
 
 It is with great excitement that the CARDAT data team can announce that Australia’s first standardised National Air Pollution Monitor Database (NAPMD) is ready to be shared with researchers. The CAR NAPMD was derived from state and territory government departments monitor data from NSW DPIE, Vic EPA, Qld DES, SA EPA, WA DEWR, Tas EPA, NT EPA, and ACT Health. For more information see the database home webpage https://dx.doi.org/10.17605/OSF.IO/JXD98. 
  
-For access please contact the CARDAT team at car.data@....
+For access please contact the CARDAT team at car.data@sydney.edu.au.
 
 #### What is it?
 
-The NAPMD is a spatial database containing standardised quality assured government air pollution monitoring site data (hourly and daily observations) from across Australia, including the earliest measurements (going back as far as 1979) to the most recent published data from 2020. The database will be updated each year into the future funded by the NH&MRC CAR (https://www.car-cre.org.au/) and National ARDC Data Commons (https://ardc.edu.au/project/air-health-data/).  The database was compiled by CAR's data scientists working hand in hand with state and territory government departments that operate the air pollution monitoring networks, and their help has been instrumental in obtaining and standardising the data, much of which was not readily available.
+The NAPMD is a spatial database containing standardised quality assured government air pollution monitoring site data (hourly and daily observations) from across Australia, including the earliest measurements (going back as far as 1979) to the most recent published data from 2020. The database will be updated each year into the future funded by the NH&MRC CAR (https://www.car-cre.org.au/) and National ARDC Data Commons (https://ardc.edu.au/project/air-health-data/). The database was compiled by CAR's data scientists working hand in hand with state and territory government departments that operate the air pollution monitoring networks, and their help has been instrumental in obtaining and standardising the data, much of which was not readily available.
 
  
 
@@ -54,7 +54,7 @@ This is a fantastic resource for researchers wishing to map and model air pollut
 
 #### How do we access it?
 
-Access to the database will be granted to individual on request to the CARDAT team at car.data@.... At this point it will only be made available for research and not-for-profit use.
+Access to the database will be granted to individual on request to the CARDAT team at car.data@sydney.edu.au. At this point it will only be made available for research and not-for-profit use.
 
 Individuals with access will be able to connect to the database (via SQL editors or scripts) and download data as needed. There are how to guides and examples as well as metadata available on the NAPMD landing page https://dx.doi.org/10.17605/OSF.IO/JXD98.
 
