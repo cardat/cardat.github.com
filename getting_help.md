@@ -11,7 +11,7 @@ title: Getting help
 <li><a href="mailto:car.data@sydney.edu.au">CAR Data Team</a> &mdash; this email should be used for any questions about getting started, help with examples, advice on data, requests or general feedback.
 Please note that the email box is monitored regularly several times per week, but it may take a day or two to respond to your email.</li>
 <li>Issues with CoESRA - these should be reported via the CoESRA website feedback form found on the right hand side of the screen.
-![CoESRA feedback link](images/CoESRA_feedback_link.PNG)
+<img src="images/CoESRA_feedback_link.PNG" alt="CoESRA feedback link" />
 <li>Issues with CloudStor - these should be reported via the CloudStor Contact us webpage <a href="https://www.aarnet.edu.au/contact-us">https://www.aarnet.edu.au/contact-us</a></li>
 </ul>
 <h3>Known issues and workarounds</h3>
