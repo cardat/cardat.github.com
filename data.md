@@ -66,7 +66,7 @@ administered by the <abbr title="Centre for Air pollution, energy and health Res
 
 <p>Campbell, J. L., Rustad, L. E., Porter, J. H., Taylor, J. R., Dereszynski, E. W., Shanley, J. B., Gries, C., Henshaw, D. L., Martin, M. E., Sheldon, W. M., and Boose, E. R. 2013. Quantity is Nothing without Quality: Automated QA/QC for Streaming Environmental Sensor Data. <em>BioScience</em>, <strong>63</strong>, 574-585. http://dx.doi.org/10.1525/bio.2013.63.7.10</p>
 
-<h3>Workiong with Github Branches</h3>
+<h3>Working with Github Branches</h3>
 <ul>
 <li>create a branch using: git checkout -b working_joe</li>
 <li>work on stuff</li>
