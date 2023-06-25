@@ -119,3 +119,5 @@ This command will mount the CloudStor drive to the Z: drive letter.
 3. Follow the on-screen instructions to configure Rclone.
 4. When prompted for the WebDav URL, enter "https://cloudstor.aarnet.edu.au/plus/webdav/" and press Enter.
 5. When prompted for the username and password, enter your CloudStor login credentials.
+
+More information and instructions to set up automatic syncing is [https://linuxnewbieguide.org/rclone/](https://linuxnewbieguide.org/rclone/)
