@@ -46,13 +46,12 @@ air_pollution_modelled_surfaces
 pm25_daily_means_by_sa2_2016_aust_2012_2020
 pm25_sydney_gmr_2010_2020
 air_pollution_modelling_apmma
+ap_monitor_locations
 gis_predictors_from_cardat
 gis-predictors-for-use-in-the-air-pollution-and-mortality-and-morbidity-in-adult-australians-apmma-project.
 air_pollution_modelling_lur_lct
 lur_lct_passive_samplers_2006_2008
 lur_lct_passive_samplers_2006_2008_lk
-air_pollution_monitoring_aqfx_pm25
-aqfx_pm25_hourly_data_from_apis
 air_pollution_monitoring_stations_act
 air_pollution_monitoring_station_locations_act_2020
 air_pollution_monitoring_stations_act-1
@@ -169,8 +168,8 @@ aihw_mort_2011_2015
 aihw_mort_2012_2016
 australian_mortality_aihw_restricted
 aihw_factofdeath_2010_2021
+aihw_summarised_cause_of_death_2000_2019_disaggregated_version_2
 aihw_summarised_cod_urf_2000_2019_disaggregated
-aihw_summarised_cod_urf_2000_2019_disaggregated_version_2
 aihw_summarised_cod_urf_2006_2018
 deaths_daily_expected_by_age_sydney_australia_2006_2018_from_aihw_and_abs_data
 australian_mortality_rbdm
@@ -188,6 +187,7 @@ awap_grids_monthly_temperature_1986_2019
 awap_grids_scripted_workflows
 awap_grids_solar_exposure_1990_2021
 awap_ndvi
+awap_thredds_historical_extreme_weather_events_australia
 daily_awap_2001_2020_rds
 baynnd_air_pollution_model
 bayesian-neural-network-downscaled-monthly-surface-o3-for-australia-1990-2019-version-1.0
@@ -209,6 +209,8 @@ bushfire_specific_pm25_aus_2001_2020_v1_3
 bushfire_specific_pm25_aus_2001_2020_v2_0
 bushfire_specific_pm25_aus_2001_2020_v2_1
 bushfire_specific_pm25_syd_gmr_2006_2020_v1_1
+datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3
+resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019
 cadastral_nsw
 cadastral_nsw_2018
 cc_ap_projection_csiro
@@ -235,6 +237,7 @@ era5_avg_daily_wind_1950_2020
 era5_hourly_wind_1999_2020
 csiro_aqfx
 aqfx_warping
+aqvx_pm25_hourly_data_from_apis
 bushfire_aqfx_blending
 ctm_csiro
 csiro_blend_2005
@@ -271,6 +274,7 @@ drought_national_grids_1950_2020
 gridded-drought-data-1900-2015
 drought-awap-grids-restricted
 drought_and_apmma_locations_2005_2019
+drought_national_grids_1950_2022_restricted
 drought_bom_grids
 drought_bom_grids_1890_2008
 drought-spei-global-drought-monitor-restricted
@@ -383,6 +387,7 @@ cc_countdown_ap_2019
 cc_countdown_ap_2020
 cc_countdown_ap_2021
 cc_countdown_drought_2021
+resprj_mja_lancet_countdown_2023_codes
 nasa_firms_fire_and_smoke
 nasa_firms_201509_aust
 nasa_firms_2015_jul_dec_aust
@@ -565,6 +570,7 @@ streetpro
 streetpro_navigation_2012
 streetpro_roads_2013
 study_regions
+abs_sa4_and_gcc_2016_grouped
 abs_sd06_nsw_grouped
 exposure_simulation_study_sydney
 greater_syd_metro_reg_2006
