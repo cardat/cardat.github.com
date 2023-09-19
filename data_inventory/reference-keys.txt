@@ -258,6 +258,7 @@ ctm_source_specific_bushfires_2000_2020
 ctm_ukceh
 ctm_mean_pollutants_hourly_global_2018
 ctm_ukceh_daily_global_emepwrf_run_2019_2020
+datshr_ctm_ukceh_daily_global_emepwrf_run_2019_2020
 cvrn_built_environment_exposures
 cvrn_built_environment_exposures-1
 digital_elevation_model_anuclim
@@ -432,7 +433,7 @@ noise_exposure_perth-1
 noise_exposure_sydney
 noise_exposure_sydney-1
 noise_monitor_sydney
-tba
+noise_monitor_sydney_2019
 npi
 npi_1998_2017
 npi_1998_2020
