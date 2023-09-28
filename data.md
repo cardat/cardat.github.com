@@ -81,9 +81,9 @@ author: "Lucas Hertzog" & "Anh Han"
 date: "2023-04-12"
 output: html_document
 
-CloudStor WebDav is a service provided by AARNet that allows you to access and manage your files stored in the CloudStor platform using the WebDav protocol. Rclone is a command-line tool that allows you to interact with CloudStor WebDav and perform various operations such as syncing, copying, and moving files.
+Cloud.car-dat.org WebDav is a service provided by NextCloud that allows you to access and manage your files stored in the NextCloud platform using the WebDav protocol. Rclone is a command-line tool that allows you to interact with Clould.car-dat.org WebDav and perform various operations such as syncing, copying, and moving files.
 
-In this guide, we will show you how to set up CloudStor WebDav using Rclone on Windows, Mac, and Linux.
+In this guide, we will show you how to set up NextCloud WebDav using Rclone on Windows, Mac, and Linux.
 
 ## Windows
 
@@ -93,32 +93,32 @@ In this guide, we will show you how to set up CloudStor WebDav using Rclone on W
 
 - Open a command prompt and run the command "rclone config".
 - Follow the on-screen instructions to configure Rclone.
-- When prompted for the WebDav URL, enter "https://cloudstor.aarnet.edu.au/plus/webdav/" and press Enter.
-- When prompted for the username and password, enter your CloudStor login credentials.
+- When prompted for the WebDav URL, enter "https://cloud.car-dat.org/" and press Enter.
+- When prompted for the username and password, enter your NextCloud Files login credentials.
 
 Optionally, you can create a .bat file named "mountrclone.bat" with the following content to automatically mount the drive:
 
 >@echo off
 >
->start c:\rclone\rclone mount --vfs-cache-mode full CloudStor:/ z:
+>start c:\rclone\rclone mount --vfs-cache-mode full Cloud.car-dat.org:/ z:
 
-This command will mount the CloudStor drive to the Z: drive letter.
+This command will mount the Cloud.car-dat.org drive to the Z: drive letter.
 
 ## MacOS
 
 1. Install Rclone by running the command "brew install rclone" in Terminal.
 2. Configure Rclone by running the command "rclone config" in Terminal.
 3. Follow the on-screen instructions to configure Rclone.
-4. When prompted for the WebDav URL, enter "https://cloudstor.aarnet.edu.au/plus/webdav/" and press Enter.
-5. When prompted for the username and password, enter your CloudStor login credentials.
+4. When prompted for the WebDav URL, enter "https://cloud.car-dat.org/" and press Enter.
+5. When prompted for the username and password, enter your NextCloud Files login credentials.
 
 ## Linux
 
 1. Install Rclone by running the command "sudo apt-get install rclone" in Terminal.
 2. Configure Rclone by running the command "rclone config" in Terminal.
 3. Follow the on-screen instructions to configure Rclone.
-4. When prompted for the WebDav URL, enter "https://cloudstor.aarnet.edu.au/plus/webdav/" and press Enter.
-5. When prompted for the username and password, enter your CloudStor login credentials.
+4. When prompted for the WebDav URL, enter "https://cloud.car-dat.org/" and press Enter.
+5. When prompted for the username and password, enter your NextCloud Files login credentials.
 
 More information and instructions to set up automatic syncing is [https://linuxnewbieguide.org/rclone/](https://linuxnewbieguide.org/rclone/)
 
