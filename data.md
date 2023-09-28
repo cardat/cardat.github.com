@@ -76,8 +76,8 @@ administered by the <abbr title="Centre for Air pollution, energy and health Res
 </ul>	      
 
 
-## "Setting up CloudStor WebDav using Rclone"
-author: "Lucas Hertzog"
+## "Setting up Cloud.car-dat.org WebDav using Rclone"
+author: "Lucas Hertzog" & "Anh Han"
 date: "2023-04-12"
 output: html_document
 
@@ -121,3 +121,6 @@ This command will mount the CloudStor drive to the Z: drive letter.
 5. When prompted for the username and password, enter your CloudStor login credentials.
 
 More information and instructions to set up automatic syncing is [https://linuxnewbieguide.org/rclone/](https://linuxnewbieguide.org/rclone/)
+
+## Using Cloud.car-dat.org user guide
+
