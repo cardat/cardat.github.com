@@ -246,6 +246,9 @@ csiro_aqfx
 aqfx_warping
 aqvx_pm25_hourly_data_from_apis
 bushfire_aqfx_blending
+csiro_gridded_jaxa_arp
+jaxa-arp
+na
 ctm_csiro
 csiro_blend_2005
 ctm_csiro_apmma_2006_2013_2016
@@ -266,6 +269,11 @@ ctm_ukceh
 ctm_mean_pollutants_hourly_global_2018
 ctm_ukceh_daily_global_emepwrf_run_2019_2020
 datshr_ctm_ukceh_daily_global_emepwrf_run_2019_2020
+curatedaot-csiro-cardat
+curated-csiro-hourly
+jaxa-arp-1
+modis-db
+viirs-db
 cvrn_built_environment_exposures
 cvrn_built_environment_exposures-1
 digital_elevation_model_anuclim
@@ -335,6 +343,10 @@ nasa_modis_burnt_area_2005_2019
 nasa_modis_burnt_area_2020
 gbd_ghdx
 gbd_australia_2016
+geo_hotspot
+ahi-test
+ga-hotspots
+jaxa-wlf
 geoscape
 buildings
 geoscape_2019
@@ -396,6 +408,9 @@ cc_countdown_ap_2020
 cc_countdown_ap_2021
 cc_countdown_drought_2021
 resprj_mja_lancet_countdown_2023_codes
+nasa_aeronet_australia_550nm
+aeronet-data
+description-of-location-data
 nasa_firms_fire_and_smoke
 nasa_firms_201509_aust
 nasa_firms_2015_jul_dec_aust
