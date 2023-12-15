@@ -76,7 +76,7 @@ administered by the <abbr title="Centre for Air pollution, energy and health Res
 </ul>	      
 
 
-## "Setting up Cloud.car-dat.org WebDav using Rclone"
+## Setup Cloud.car-dat.org WebDav using Rclone
 author: "Lucas Hertzog" & "Anh Han"
 date: "2023-04-12"
 output: html_document
@@ -122,5 +122,16 @@ This command will mount the Cloud.car-dat.org drive to the Z: drive letter.
 
 More information and instructions to set up automatic syncing is [https://linuxnewbieguide.org/rclone/](https://linuxnewbieguide.org/rclone/)
 
-## Using Cloud.car-dat.org user guide
+## Setup local Cloud.car-dat.org Desktop Synchronization 
+author: "Anh Han"
+date: "2023-12-15"
 
+1. Download NextCloud Desktop Client for Windows, MacOS and Linux from https://nextcloud.com/install/.
+2. Install the downloaded setup application.
+3. Reboost your operating system for the NextCloud configuration changes to take effect.
+4. Launch NextCloud desktop.
+5. When prompted for the Nextcloud account, select "Log in" option.
+6. When prompted for the Server address, enter "https://cloud.car-dat.org/" and press Enter.
+7. NextCloud automatically switches to Cloud Cardat Server web interface for account login. When prompted for the username and password, enter your Cloud Cardat login credentials and press "Grant access".
+8. Configure the Sync Folder by accessing "Settings" and pressing "Add Folder Sync Connection" in NextCloud desktop.  
+9. Change directory of NextCloud synchronised local folder on your computer. 
