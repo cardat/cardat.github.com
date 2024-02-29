@@ -20,3 +20,4 @@ title: Access to CARDAT Data
 
 <h3>Restricted datasets</h3>
 <p>Access to restricted datasets is given on a case-by-case basis, subject to the conditions and licensing imposed by the data owner. Submit a data access request using <b><a href="data_access_request_form.html">the Data Access Request form</a></b> and the CARDAT data management team will respond within a few days.</p>
+
