@@ -1,19 +1,22 @@
 ---
 name: access
 layout: default
-title: Who can use CARDAT
+title: Access to CARDAT Data
 ---
 
-<h2>Who can use <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr>?</h2>
+<h2>Access to <abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> Data</h2>
 <hr class="car-red" />      
-<p><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> is open to all CAR members. Those outside of CAR can be granted access:</p>
-<ul>
-<li>if requested by a <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> Chief Investigator (CI) / Assistant Investigator (AI), or </li> 
-<li>with approval from the <abbr title="Centre for Air pollution, energy and health Research Exposures Subcommittee">CARES</abbr> subcommittee.</li> 
-</ul>
-<p>For access to the National Air Pollution Monitor Database (NAPMD) see the <a href="https://osf.io/jxd98/">NAMD landing page</a></p>
-Access to <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> is 
-administered by the <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> data management team 
-(<a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>).
+<p><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> holds data at varying levels of restriction and access. Access is administered by the CARDAT data management team - contact <a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a> for assistance with any of the below.
 
-We are testing out an online form which can be accessed via <a href="data_access_request_form.html">this page</a>. 
+<h3>Environment_General</h3>
+<p>This subset of CARDAT datasets does not require particular permission from the data owner for access and is open to all <abbr title="Centre for Safe Air">CSA</abbr> members. Those outside of CSA may be granted access:</p>
+<ul>
+<li>if requested by a CSA Chief Investigator (CI) / Assistant Investigator (AI), or </li> 
+<li>with approval from the <abbr title="Centre for Safe Air Exposure Subcommittee ">CARES</abbr> subcommittee.</li> 
+</ul>
+
+<h3>National Air Pollution Monitor Database (NAPMD)</h3>
+<p>NAPMD is a collation of air pollution monitoring data from all Australian state and territory government agencies. See the <a href="https://osf.io/jxd98/">NAPMD landing page</a> for more information about the database and how to access it.</p>
+
+<h3>Restricted datasets</h3>
+<p>Access to restricted datasets is given on a case-by-case basis, subject to the conditions and licensing imposed by the data owner. Submit a data access request using <a href="data_access_request_form.html">this form</a> and the CARDAT data management team will respond within a few days.</p>
