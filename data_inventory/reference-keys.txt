@@ -70,6 +70,7 @@ ap_monitor_altitude_from_dem
 ap_monitor_o3_from_luke_knibbs
 air_pollution_monitoring_stations_national_restricted
 air_pollution_monitoring_stations_national_pm25_2000_2015
+api_for_accessing_napmd_national_air_pollution_monitor_database
 cars_national_air_pollution_database
 nat_ap_monitor_db_doco
 pm25_and_pm10_daily_averages_2000_2020
@@ -216,6 +217,7 @@ bushfire_specific_pm25_aus_2001_2020_v2_1
 bushfire_specific_pm25_syd_gmr_2006_2020_v1_1
 datsci_bushfire_specific_pm25_for_lga_2021_2001_2020_v1_3
 datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3
+datsci_bushfire_specific_pm25_v1_3_jt_locations
 resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019
 resprj_bushfire_pm25_v1_3_biomass_smoke_events_db_validation
 cadastral_nsw
@@ -248,7 +250,7 @@ aqvx_pm25_hourly_data_from_apis
 bushfire_aqfx_blending
 csiro_gridded_jaxa_arp
 jaxa-arp
-na
+jaxa_arp-csiro_hourly
 ctm_csiro
 csiro_blend_2005
 ctm_csiro_apmma_2006_2013_2016
@@ -269,13 +271,15 @@ ctm_ukceh
 ctm_mean_pollutants_hourly_global_2018
 ctm_ukceh_daily_global_emepwrf_run_2019_2020
 datshr_ctm_ukceh_daily_global_emepwrf_run_2019_2020
-curatedaot-csiro-cardat
-curated-csiro-hourly
-jaxa-arp-1
-modis-db
-viirs-db
+curated_aot_csiro_cardat
+curated_csiro_hourly
+jaxa_arp
+modis_db
+viirs_db
 cvrn_built_environment_exposures
 cvrn_built_environment_exposures-1
+declared_disasters_australia
+declared_disasters_australia_200603_202311
 digital_elevation_model_anuclim
 digital_elevation_model_anuclim_1970_2012
 digital_elevation_model_ga
@@ -294,7 +298,8 @@ drought_national_grids_1950_2022_restricted
 drought_bom_grids
 drought_bom_grids_1890_2008
 drought-spei-global-drought-monitor-restricted
-drought-spei-indicator-for-tlrh-wpc-2023
+resprj-drought-spei-indicator-for-global-study
+resprj-drought-spei-indicator-for-tlrh-wpc-2023
 dust_event_database
 dust_event_database_1960_2019
 ecoregions_climate_zones_bom
@@ -329,6 +334,7 @@ emissions_inventory_epa_wa
 emissions_inventory_epa_wa-1
 environment_general
 environment_general_cloudstor
+environment-general-coesra
 exposure_simulation_studies
 exposim_synthetic_population_aptema
 exposim_synthetic_population_nsw
@@ -344,9 +350,9 @@ nasa_modis_burnt_area_2020
 gbd_ghdx
 gbd_australia_2016
 geo_hotspot
-ahi-test
-ga-hotspots
-jaxa-wlf
+ahi_test
+ga_hotspots
+jaxa_wlf
 geoscape
 buildings
 geoscape_2019
@@ -397,7 +403,7 @@ malaysia
 malaysia-1
 meteorology_barra
 meteorology_barra-ph_2007_2016
-meteorology_barra-r
+meteorology_barra-r_2003-2016
 meteorology_barra-sy_2007_2015
 meteorology_barra-ta_2007_2016
 meteorology_barra_wind_2005_2019
@@ -409,8 +415,8 @@ cc_countdown_ap_2021
 cc_countdown_drought_2021
 resprj_mja_lancet_countdown_2023_codes
 nasa_aeronet_australia_550nm
-aeronet-data
-description-of-location-data
+aeronet_data
+location_descriptions
 nasa_firms_fire_and_smoke
 nasa_firms_201509_aust
 nasa_firms_2015_jul_dec_aust
