@@ -33,6 +33,11 @@ ahi_cloud_masks
 ahi_cloud_masks_jfsp_ml_smoke_usa
 ahi_satellite_aod
 ahi_satellite_aod-1
+aihw_health_data_for_env_analysis
+aihw_sa4_hospital_emergency_department_presentations_2014_2022
+aihw_sa4_hospitalisations_2002_2021
+aihw_sa4_mbs_serviceclaims_2002_2022
+aihw_sa4_pbs_rpbs_2002_2022
 air_health_modelling_apmma
 aptema_all_cause_mortality
 mortality_and_ozone
@@ -134,6 +139,7 @@ air_pollution_monitors_apmma
 ap_monitor_apmma_site_type
 harvard_impactor_pm_for_apmma
 ogawa_no2_for_apmma
+pm_ec_tba
 air_pollution_monitors_ogawa
 ogawa_passive_samplers_western_sydney_adjusted
 air_pollution_sydney_fr_wb
@@ -153,6 +159,7 @@ aq_koala_sensor_gold_coast
 aq_koala_sensor_gold_coast-1
 ardc_bridges_and_platform
 air-health-gis-extract-tools-using-arcpy
+datsci_air-health-sws-wadoh
 atmospheric_composition_analysis_group
 annual_surface_pm25_concentrations_1998_2018
 annual_surface_pm25_concentrations_2005_2018
@@ -261,6 +268,8 @@ ctm_csiro_shipping_pm25_sydney_2010_2011
 ctm_nt
 ctm_perth
 tapm_2002_no2_sydney
+ctm_geos-chem
+ctm_geos-chem_wildfire_pm25_australia_2000_2019
 ctm_nsw_government
 ctm_nsw_2006_2019
 ctm_nsw_2008
@@ -414,6 +423,8 @@ cc_countdown_ap_2020
 cc_countdown_ap_2021
 cc_countdown_drought_2021
 resprj_mja_lancet_countdown_2023_codes
+mongolian_nso_health_data
+mongolian_nso_mortality_2016_2024
 nasa_aeronet_australia_550nm
 aeronet_data
 location_descriptions
