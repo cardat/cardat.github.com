@@ -8,6 +8,8 @@ title: Acknowledgements
 
 ### AirHealth Data Bridges
 
+Please include the acknowledgements such as: This research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (https://cardat.github.io). CARDAT was supported by The Centre for Safe Air (https://safeair.org.au/) which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022)
+
 During 2021-2023 we have had a project to expand CARDAT datasets and tools (https://doi.org/10.47486/PS022) and we received co-investment support from the ARDC.
 
 The AirHealth Data Bridges project built a new Integrated National Air Pollution and Health Data platform. The data platform builds on the successful collaborations between many Australian academics who are working together as part of the Centre for Air pollution, energy and health Research (CAR; https://www.car-cre.org.au/) and the the HEAL (Healthy Environments And Lives) National Research Network, which both received funding from the National Health and Medical Research Council. The data platform extends the CAR Data and Analysis Technology (CARDAT; https://cardat.github.io) project. Partners include Curtin University, the NSW Department of Planning and Environment, EPA Victoria, the Australian Institute of Health and Welfare (AIHW), Monash University, the University of Queensland and the University of Sydney.
