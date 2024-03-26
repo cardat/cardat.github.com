@@ -38,7 +38,7 @@ to inform policy though research and analysis of air pollution, energy and healt
 <p><img src="images/nat_ap_mon_db.png" class="icon-list" alt="National Air Pollution Monitoring Database" title="National Air Pollution Monitoring Database" /><strong>National Air Pollution Monitoring Database:</strong> A spatial database containing standardised regulatory air pollution monitoring data from state and territory governments across Australia. This database is stored in the PostGIS CAR Database.</p>
 <div class="clear-all" />
 <h4>Virtual desktop environments</h4> 
-<p><img src="images/CoESRA_desktops.png" class="icon-list" alt="CoESRA desktops" title="CoESRA desktops" /><a> href="https://coesra.tern.org.au/#/tern-landingpage><abbr title="Collaborative Environment for Scholarly Research and Analysis"><strong>CoESRA</strong></abbr></a><strong>:</strong> A configuarble online platform for data analysis. 
+<p><img src="images/CoESRA_desktops.png" class="icon-list" alt="CoESRA desktops" title="CoESRA desktops" /><a href="https://coesra.tern.org.au/#/tern-landingpage><strong>CoESRA:</strong></a><abbr title="Collaborative Environment for Scholarly Research and Analysis"><strong>CoESRA</strong></abbr></a><strong>:</strong> A configuarble online platform for data analysis. 
 which provides a secure environment for reproducible, collaborative data analysis. Data from CloudStor and the PostGIS CAR DB can be accessed from <abbr title="Collaborative Environment for Scholarly Research and Analysis">CoESRA</abbr> desktops.</p>
 <div class="clear-all" />
 <h4>Data access and analysis tools</h4> 
