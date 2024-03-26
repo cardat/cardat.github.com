@@ -4,7 +4,7 @@ layout: default
 title: Why use CARDAT
 ---
 
-<h2>Why use <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr>?</h2>
+<h2>Why use <abbr title="Clean Air and health Research Data Analysis Technology">CARDAT</abbr>?</h2>
 <hr class="car-red" />
 <p>There are several advantages to using <abbr title="Collaborative Environment for Scholarly Research and Analysis">CoESRA</abbr> and Cloud CARDAT</p>
 <ul>
