@@ -3,10 +3,10 @@ name: papers_and_reports_using_cardat
 layout: default
 title: Papers and Reports using CARDAT
 ---
-<h2><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> - Papers and Reports</h2>
+<h2><abbr title="Clean Air Research Data Analysis Technology">CARDAT</abbr> - Papers and Reports</h2>
 <hr class="car-red" />
 
-This research was undertaken with the assistance of data resources from the Centre for Air pollution, energy and health Research (CAR) data platform (https://cardat.github.io)
+This research was undertaken with the assistance of data resources from the Centre for Safe Air (CAR) data platform (https://cardat.github.io)
 
 <h3>Papers using CARDAT</h3>
 
