@@ -4,20 +4,20 @@ layout: default
 title: Data Science Tips
 ---
 
-<h2><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> data</h2>
+<h2><abbr title="Clean Air Research Data Analysis Technology">CARDAT</abbr> data</h2>
 <hr class="car-red" />
-<p><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> stores
+<p><abbr title="Clean Air Research Data Analysis Technology">CARDAT</abbr> stores
 a wide array of population, health and environmental datasets. There are three types of data:</p>
 <ul>
-<li><strong>Open data</strong> - data that has been published on both CloudStor and in the public domain. These data don't require any special access requirements.</li>
-<li><strong>General data</strong> - data that is published to CloudStor and is available to all <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> users.</li>
-<li><strong>Restricted data</strong> - data that is published to CloudStor, but require permission from the Data Owner before access can be granted.</li>
+<li><strong>Open data</strong> - data that has been published on both Cloud CARDAT and in the public domain. These data don't require any special access requirements.</li>
+<li><strong>General data</strong> - data that is published to Cloud CARDAT and is available to all <abbr title="Clean Air Research Data Analysis Technology">CARDAT</abbr> users.</li>
+<li><strong>Restricted data</strong> - data that is published to Cloud CARDAT, but require permission from the Data Owner before access can be granted.</li>
 </ul>
 <p>A catalogue of these datasets, including metadata in Ecological Metadata Language (EML) format is kept in the 
-<abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> data inventory. These records are published 
-<a href="book_down/index.html">here</a>.</p>
-<p> Access to <abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> data is 
-administered by the <abbr title="Centre for Air pollution, energy and health Research">CAR</abbr> data management team 
+<abbr title="Centre for Safe Air">CAR</abbr> data inventory. These records are published 
+<a href="https://cardat.github.io/data_inventory/index.html">here</a>.</p>
+<p> Access to <abbr title="Clean Air Research Data Analysis Technology">CARDAT</abbr> data is 
+administered by the <abbr title="Centre for Safe Air">CAR</abbr> data management team 
 (<a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>).</p>
 <h2>Data cleaning</h2>
 <p>It is inevitable that the data we work has imperfections. As part of storing data in CARDAT or EHI we often take steps to clean the data. When this is done, we always:</p>
