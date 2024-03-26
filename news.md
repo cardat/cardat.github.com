@@ -21,13 +21,13 @@ There are some really amazing things coming out of the new satellite data availa
 
 
 
-The Centre for Air pollution, energy and health Research (CAR) is proud to announce the launch today of the National Air Pollution Monitor Database (NAPMD), for research and non-commercial use.
+The Centre for Safe Air (CAR) is proud to announce the launch today of the National Air Pollution Monitor Database (NAPMD), for research and non-commercial use.
 
 We invite you to share details of the NAPMD widely amongst your professional networks and mention it in your newsletters as you see appropriate.
 
 Here are the details:
 
-The Centre for Air pollution, energy and health Research (CAR) National Air Pollution Monitor Database (NAPMD)
+The Centre for Safe Air (CAR) National Air Pollution Monitor Database (NAPMD)
 
 It is with great excitement that the CARDAT data team can announce that Australia’s first standardised National Air Pollution Monitor Database (NAPMD) is ready to be shared with researchers. The CAR NAPMD was derived from state and territory government departments monitor data from NSW DPIE, Vic EPA, Qld DES, SA EPA, WA DEWR, Tas EPA, NT EPA, and ACT Health. For more information see the database home webpage https://dx.doi.org/10.17605/OSF.IO/JXD98. 
  
@@ -35,7 +35,7 @@ For access please contact the CARDAT team at car.data@sydney.edu.au.
 
 #### What is it?
 
-The NAPMD is a spatial database containing standardised quality assured government air pollution monitoring site data (hourly and daily observations) from across Australia, including the earliest measurements (going back as far as 1979) to the most recent published data from 2020. The database will be updated each year into the future funded by the NH&MRC CAR (https://www.car-cre.org.au/) and National ARDC Data Commons (https://ardc.edu.au/project/air-health-data/). The database was compiled by CAR's data scientists working hand in hand with state and territory government departments that operate the air pollution monitoring networks, and their help has been instrumental in obtaining and standardising the data, much of which was not readily available.
+The NAPMD is a spatial database containing standardised quality assured government air pollution monitoring site data (hourly and daily observations) from across Australia, including the earliest measurements (going back as far as 1979) to the most recent published data from 2020. The database will be updated each year into the future funded by the NHMRC CAR (https://www.car-cre.org.au/) and National ARDC Data Commons (https://ardc.edu.au/project/air-health-data/). The database was compiled by CAR's data scientists working hand in hand with state and territory government departments that operate the air pollution monitoring networks, and their help has been instrumental in obtaining and standardising the data, much of which was not readily available.
 
  
 
