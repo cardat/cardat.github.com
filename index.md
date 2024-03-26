@@ -1,7 +1,7 @@
 ---
 name: index
 layout: default
-title: - Clean Air and health Research Data and Analysis Technology (CARDAT)
+title: Clean Air and health Research Data and Analysis Technology (CARDAT)
 ---
 
 <h2>Welcome to <abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr></h2>
