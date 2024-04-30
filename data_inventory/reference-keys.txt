@@ -47,6 +47,7 @@ air_pollution_model_globalgwr_pm25
 surface-pm2.5-global-estimates-v4.gl.02
 globalgwr_pm25_v4gl02_1998_2009
 surface-pm2.5-global-estimates-v5.gl.02
+globalgwr_pm25_v5gl04_1998_2022
 air_pollution_modelled_surfaces
 pm25_daily_means_by_sa2_2016_aust_2012_2020
 pm25_sydney_gmr_2010_2020
@@ -93,6 +94,8 @@ ap_monitor_nsw_pm25_2014_2019_hourly
 ap_monitor_stations_nsw
 ap_monitor_stations_nsw_2020
 oeh_monitor_1994_2011
+oeh_monitor_2010_2011
+oeh_monitoring_stations_sydney
 oeh_monitor_nsw_2014_2018
 oeh_monitor_sydney_2007_2014
 oeh_monitor_sydney_pm25_1996_2014
@@ -193,6 +196,7 @@ awap_grids_2016
 awap_grids_2017
 awap_grids_2018
 awap_grids_2019
+awap_grids_2022
 awap_grids_monthly_rainfall_1900_2020
 awap_grids_monthly_temperature_1986_2019
 awap_grids_scripted_workflows
@@ -205,10 +209,15 @@ daily_awap_netcdf_2022
 baynnd_air_pollution_model
 bayesian-neural-network-downscaled-monthly-surface-o3-for-australia-1990-2019-version-1.0
 biomass_smoke_validated_events
+biomass_smoke_events_db_with_wa_ap_monitors
 biomass_smoke_validated_events-1
 biosmoke_extended_van_buskirk_2020
 biosmoke_pollution_locations
 biosmoke_spatial
+biosmoke_ucrh_extended_farhad_2017
+biosmoke_ucrh_extended_farhad_check_grantw
+biosmoke_ucrh_extended_farhad_june_2015
+biosmoke_ucrh_extended_van_buskirk_2020
 bushfire_life_and_house_loss
 bushfire_life_and_house_loss_national_1901_2011
 bushfire_progression
@@ -225,6 +234,7 @@ bushfire_specific_pm25_syd_gmr_2006_2020_v1_1
 datsci_bushfire_specific_pm25_for_lga_2021_2001_2020_v1_3
 datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3
 datsci_bushfire_specific_pm25_v1_3_jt_locations
+datsci_bushfire_specific_pm25_v1_3_qimr_locs
 resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019
 resprj_bushfire_pm25_v1_3_biomass_smoke_events_db_validation
 cadastral_nsw
@@ -307,6 +317,7 @@ drought_national_grids_1950_2022_restricted
 drought_bom_grids
 drought_bom_grids_1890_2008
 drought-spei-global-drought-monitor-restricted
+drought_spei_csic_global_drought_monitor_1950_2023
 resprj-drought-spei-indicator-for-global-study
 resprj-drought-spei-indicator-for-tlrh-wpc-2023
 dust_event_database
@@ -356,6 +367,8 @@ nasa_modis_active_fires_2016_2019
 nasa_modis_burnt_area_2000_2004
 nasa_modis_burnt_area_2005_2019
 nasa_modis_burnt_area_2020
+gadm_global_administrative_areas
+gadm_global_administrative_areas-1
 gbd_ghdx
 gbd_australia_2016
 geo_hotspot
@@ -369,6 +382,9 @@ geoscape_2019_noise_collaboration
 geoscape-residential-land
 geovision_pitney_bowes
 geovision_pitney_bowes_australia_2017
+ghsl_data_tools
+ghs_pop_e2020_globe_r2022a_54009_10001_v1_0
+ghs_pop_p2030_globe_r2022a_54009_1000_v1_0
 gis_regression_sydney
 gis_regression_southwest_sydney_no2
 global_fire_emissions_database
@@ -423,8 +439,18 @@ cc_countdown_ap_2020
 cc_countdown_ap_2021
 cc_countdown_drought_2021
 resprj_mja_lancet_countdown_2023_codes
-mongolian_nso_health_data
-mongolian_nso_mortality_2016_2024
+mongolian_nso_health_data_indicators
+nso_birth_related_data
+nso_cancer
+nso_communicable_disease
+nso_health_facilities
+nso_mortality_data
+monitor_sensor_records_tracking_for_reference
+dust_analysis
+environmental_sensor_from_sensorcommunity
+map_my_environment
+purpleair_real-time_air_quality_monitoring
+wa_murujuga_rock_art_monitoring_program
 nasa_aeronet_australia_550nm
 aeronet_data
 location_descriptions
@@ -658,6 +684,8 @@ mlm_workshop
 transport_topography_psma
 psma_data
 psma_roads_fr_lk_2013_2019
+un_wpp_pop_grids
+un_wpp_adjusted_population_count_v4_11
 us_navy_research_laboratory
 naaps_pm25_smoke_forecast_2000_2020
 naaps_reanalysis_aod_2003_2019
