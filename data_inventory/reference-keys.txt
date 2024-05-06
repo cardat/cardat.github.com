@@ -404,7 +404,6 @@ impervious_surface_csiro
 impervious_surface_csiro-1
 impervious_surface_noaa_satellite
 impervious_surface_noaa_satellite_2000_2001
-impervious_surface_noaa_satellite_2010
 isi-mip
 isi-mip-1
 jfsp_health
@@ -416,6 +415,8 @@ land_cover_fraccov_landsat_jrsrp_national_2000_2011
 land_cover_modis
 tree_and_water_coverage_2017_2018
 vegetation_continuous_fields_modis_2000_2010
+landsat_global_high_resolution_urban_data
+landsat_gmis_v1_australia_2010
 landuse_nsw
 landuse_nsw_2013
 lep_nsw_2010
