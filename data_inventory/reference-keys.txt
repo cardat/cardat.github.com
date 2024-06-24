@@ -1,5 +1,6 @@
 introduction
-datasets-overview
+data-inventory-model
+recently-published
 abs_customised_for_apmma
 abs_sei_2006_2016
 apmma_abs_mb
@@ -142,7 +143,8 @@ air_pollution_monitors_apmma
 ap_monitor_apmma_site_type
 harvard_impactor_pm_for_apmma
 ogawa_no2_for_apmma
-pm_ec_tba
+pmabs_apmma
+pm_ec_apmma
 air_pollution_monitors_ogawa
 ogawa_passive_samplers_western_sydney_adjusted
 air_pollution_sydney_fr_wb

@@ -5,3 +5,15 @@ a {
 h1 > span, h2 > span {
 	overflow-wrap: break-word;
 }
+
+#recently-published {
+    overflow-wrap: anywhere;
+}
+
+/* Widen main page panel of bookdown a little */
+.book .book-body .page-wrapper .page-inner {
+    max-width: 1200px !important;
+}
+.page-inner {
+    padding: 20px 30px 40px 30px !important;
+}
