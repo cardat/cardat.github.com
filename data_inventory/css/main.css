@@ -10,10 +10,10 @@ h1 > span, h2 > span {
     overflow-wrap: anywhere;
 }
 
-/* Widen main page panel of bookdown a little */
-.book .book-body .page-wrapper .page-inner {
-    max-width: 1200px !important;
+/* Fix sidebar panel width and correspondingly adjust left position of main panel*/
+.book-summary {
+  width: 450px !important;
 }
-.page-inner {
-    padding: 20px 30px 40px 30px !important;
+.book.with-summary .book-body {
+  left: 450px !important;
 }
