@@ -2,8 +2,9 @@ introduction
 data-inventory-model
 recently-published
 abs_customised_for_apmma
-abs_sei_2006_2016
-apmma_abs_mb
+abs-seifa-for-apmma-health-modelling-2006-2016
+abs-mesh-block-data-re-coded-by-for-the-apmma-gis-air-pollution-modelling-project
+apmma_area_level_confounders
 abs_data
 abs1x1km_aus_pop_grid_2006_2020
 abs1x1km_aus_pop_grid_2011
@@ -143,8 +144,8 @@ air_pollution_monitors_apmma
 ap_monitor_apmma_site_type
 harvard_impactor_pm_for_apmma
 ogawa_no2_for_apmma
-pmabs_apmma
-pm_ec_apmma
+pm-absorbance-for-apmma-project-2018-2020
+pm-elemental-composition-for-apmma-project-2018-2020
 air_pollution_monitors_ogawa
 ogawa_passive_samplers_western_sydney_adjusted
 air_pollution_sydney_fr_wb
@@ -478,6 +479,8 @@ neighbourhood_exposures_bme_no2_sydney_2011
 nrt_exposure_assessment_app_google_proj
 nmmaps
 nmmaps_us_1987_2000
+noise_cnossos_australia
+noise_cnossos_sydney_2018
 noise_epa_vic
 noise_epa_vic_melbourne_map_2014
 noise_exposure_melbourne
