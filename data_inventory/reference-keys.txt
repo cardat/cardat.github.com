@@ -330,6 +330,8 @@ dust_event_database_1960_2019
 ecoregions_climate_zones_bom
 rainfallzones
 temperaturezones
+ehia_malaysia
+air_fire_haze_mort_2015
 ehindicators_nsw
 ehi_fire_smoke_and_mortality_australia
 ehi_fire_smoke_and_mortality_nsw
@@ -430,8 +432,6 @@ lur_perth_no2_rasters
 lur_perth_nox_rasters
 lur_perth_pm10_rasters
 lur_perth_pm25_rasters
-malaysia
-malaysia-1
 meteorology_barra
 meteorology_barra-ph_2007_2016
 meteorology_barra-r_2003-2016
