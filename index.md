@@ -4,42 +4,18 @@ layout: default
 title: Clean Air and health Research Data and Analysis Technology (CARDAT)
 ---
 
-<h2>Welcome to <abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr></h2>
+<h2>Welcome to the <abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> platform</h2>
+
 <hr class="car-red" />
-<p>
-The Clean Air and health Research Data and Analysis Technology (CARDAT) is a collection of IT infrastructure
-that enables easy data sharing and reuse, and reproducible data analysis.
-It is an online research platform that collates a wide array of population, health and environmental datasets
-with a collection of analysis tools and methodology resources. The data in <abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr>
-includes air pollution, weather and built environment data in Australia and internationally. 
-This platform enables collaboration between researchers and policy makers.
-</p>
 
-<p><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr>'s mission is to provide data, methods and tools to support <abbr title="Centre for Safe Air">CAR</abbr> 
-to inform policy though research and analysis of air pollution, energy and health.</p>
+The Clean Air and health Research Data and Analysis Technology (CARDAT) platform is a collection of IT infrastructure that enables easy data sharing and reuse, and supports reproducible data analysis. This online research platform collates a wide array of population, health and environmental datasets alongside a collection of analysis tools and methodology resources.
 
-<h3><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> Infrastructure</h3>
-<p><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> is a group of online technologies and data management tools for storing, accessing, and analysing datasets that are useful for epidemiology. The major components can be seen in figure 1 below.</p>
-<figure>
-<img src="images/CARDAT_infrastructure_overview.PNG" title="CARDAT infrastructure overview" alt="CARDAT infrastructure overview" width="95%"/>
-<figcaption>Figure 1: CARDAT infrastructure components</figcaption>
-</figure>
+CARDAT is overseen by the [Centre for Safe Air](https://safeair.org.au/) (CSA) and [WHO Collaborating Centre for Climate Change and Health Impact Assessment](https://research.curtin.edu.au/whocc-cchia/) (WHOCC-CCHIA). Its mission is to provide data, methods and tools to support research and analysis in the fields of air pollution, energy and health.
 
-<h4>Metadata, data discovery and reporting tools</h4>
-<p><img src="images/CAR_data_inventory.png" class="icon-list" alt="CAR Data Inventory Catalogue" title="CAR Data Inventory Catalogue" /><strong>The <abbr title="Centre for Safe Air">CAR</abbr> Data Inventory:</strong> a catalogue of available datasets and their associated metadata records.</p>
-<div class="clear-all" />
-<p><img src="images/reports.png" class="icon-list" alt="CARDAT reports" title="CARDAT reports" /><strong><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> reports:</strong> the <abbr title="Centre for Safe Air">CAR</abbr> Data Inventory tracks user access and data sharing for reporting to data owners on usage.</p>
-<div class="clear-all" />
-<h4>Secure data storage</h4>  
-<p><img src="images/cloudstor_data.png" class="icon-list" alt="CARDAT data cloud" title="CARDAT data cloud" /><a href="https://cloud.car-dat.org/"><strong>Cloud CARDAT:</strong></a> A cloud based file store which enables shared access to datasets, and the ability to sync data automatically, and</p>
-<div class="clear-all" />
-<p><img src="images/PostGIS_CAR_DB.png" class="icon-list" alt="PostGIS CAR database" title="PostGIS CAR database" /><strong>PostGIS CAR DB:</strong> A PostGres database with PostGIS spatial extention that contains a range of air pollution, land use, population, satellite and climate data.</p>
-<div class="clear-all" />
-<p><img src="images/nat_ap_mon_db.png" class="icon-list" alt="National Air Pollution Monitoring Database" title="National Air Pollution Monitoring Database" /><strong>National Air Pollution Monitoring Database:</strong> A spatial database containing standardised regulatory air pollution monitoring data from state and territory governments across Australia. This database is stored in the PostGIS CAR Database.</p>
-<div class="clear-all" />
-<h4>Virtual desktop environments</h4> 
-<p><img src="images/CoESRA_desktops.png" class="icon-list" alt="CoESRA desktops" title="CoESRA desktops" /><a href="https://coesra.tern.org.au/#/tern-landingpage"><strong><abbr title= "Collaborative Environment for Scholarly Research and Analysis">CoESRA</abbr>:</strong></a> A configuarble online platform for data analysis, 
-which provides a secure environment for reproducible, collaborative data analysis. Data from Cloud CARDAT and the PostGIS CAR DB can be accessed from <abbr title="Collaborative Environment for Scholarly Research and Analysis">CoESRA</abbr> desktops.</p>
-<div class="clear-all" />
-<h4>Data access and analysis tools</h4> 
-<p><img src="images/cardatdbtools.png" class="icon-list" alt="CARDAT Github repository of tools for accessing the PostGIS CAR DB" title="CARDAT Github repository of tools for accessing the PostGIS CAR DB" /><strong>Cardatdbtools GitHub repository:</strong> A public repository of R functions for interacting with PostGIS CAR and the National Air Pollution Monitor Database.</p>
+<h3>Key areas</h3>
+
+<strong>Data sharing</strong>: The CARDAT data repository, which contains datasets from a variety of sources (commercial, governmental, academic). Depending on the individual dataset licence and restrictions, these may be shared with researchers.
+
+<strong>Data tools and workflows</strong>: CARDAT maintains a code repository to aid reproducible research and development of new workflows.
+
+<strong>Data science support</strong>: CARDAT provides data science support to the Centre for Safe Air and WHO Collaborating Centre for Climate Change and Health Impact Assessment projects. Additionally, CARDAT supports training events with materials and workflows as needed.
