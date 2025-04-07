@@ -14,8 +14,8 @@ CARDAT is overseen by the [Centre for Safe Air](https://safeair.org.au/) (CSA) a
 
 <h3>Key areas</h3>
 
-<strong>Data sharing</strong>: The CARDAT data repository, which contains datasets from a variety of sources (commercial, governmental, academic). Depending on the individual dataset licence and restrictions, these may be shared with researchers.
+<strong>Data sharing</strong>: The CARDAT data repository, which contains datasets from a variety of sources (commercial, governmental, academic). This is coupled with the CARDAT data inventory, which documents datasets in the repository and existence of other datasets with relevance to our key focus areas.
 
 <strong>Data tools and workflows</strong>: CARDAT maintains a code repository to aid reproducible research and development of new workflows.
 
-<strong>Data science support</strong>: CARDAT provides data science support to the Centre for Safe Air and WHO Collaborating Centre for Climate Change and Health Impact Assessment projects. Additionally, CARDAT supports training events with materials and workflows as needed.
+<strong>Data science support</strong>: CARDAT provides data science support to the Centre for Safe Air and WHO Collaborating Centre for Climate Change and Health Impact Assessment projects. Additionally, CARDAT supports training events with creation of training materials, workflows and tutorials.
