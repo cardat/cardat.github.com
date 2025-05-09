@@ -1,3 +1,18 @@
+/* General styling */
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+	font-size: 1.75em;
+}
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+	font-size: 1.5em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal hr {
+	background-color: #105ba2;
+	height: 3px;
+}
+
+
+/* General allowance of text-wrapping to cope with long URL and directory path names*/
 a {
 	overflow-wrap: anywhere;
 }
@@ -10,10 +25,41 @@ h1 > span, h2 > span {
     overflow-wrap: anywhere;
 }
 
-/* Fix sidebar panel width and correspondingly adjust left position of main panel*/
-.book-summary {
-  width: 450px !important;
+/* allow wrapping for second column of metadata table */
+.book .book-body .page-wrapper .page-inner section.normal table td:nth-child(2) {
+	overflow-wrap: anywhere;
 }
-.book.with-summary .book-body {
-  left: 450px !important;
+
+/* stronger sidebar highlight */
+li.chapter.active > a {
+	font-weight: bolder;
+}
+
+/* Widen sidebar panel and correspondingly adjust left position of main panel*/
+/* add x scroll bar to sidebar */
+.book .book-summary {
+	left: -450px;
+}
+@media (min-width: 600px) {
+	.book-summary {
+  	    width: 450px !important;
+		overflow-x: scroll;
+	}
+	.book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
+		word-break: break-all;
+		white-space: wrap;
+	}
+	
+	.book.with-summary .book-body {
+		left: 450px !important;
+	}
+    .book.with-summary .book-header.fixed {
+		left: 450px !important;
+	}
+}
+
+/* Style table with accessibility details */
+table.dset-accessibility {
+	outline: 5px double #105ba2;
+	
 }
