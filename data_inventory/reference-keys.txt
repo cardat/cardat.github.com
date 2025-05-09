@@ -2,8 +2,8 @@ introduction
 data-inventory-model
 recently-published
 abs_customised_for_apmma
-abs-seifa-for-apmma-health-modelling-2006-2016
-abs-mesh-block-data-re-coded-by-for-the-apmma-gis-air-pollution-modelling-project
+abs_sei_2006_2016
+apmma_abs_mb
 abs_data
 abs1x1km_aus_pop_grid_2006_2020
 abs1x1km_aus_pop_grid_2011
@@ -46,14 +46,14 @@ mortality_and_ozone
 air_pollution_model_global_from_gbd
 air_pollution_model_global_from_gbd-1
 air_pollution_model_globalgwr_pm25
-surface-pm2.5-global-estimates-v4.gl.02
+globalgwr_pm25_v4gl02
 globalgwr_pm25_v4gl02_1998_2009
-surface-pm2.5-global-estimates-v5.gl.02
+globalgwr_pm25_v5gl02_1998_2020
 globalgwr_pm25_v5gl04_1998_2022
 air_pollution_modelling_apmma
 ap_monitor_locations
 gis_predictors_from_cardat
-gis-predictors-for-use-in-the-air-pollution-and-mortality-and-morbidity-in-adult-australians-apmma-project.
+gis_predictors_from_luke_knibbs
 air_pollution_modelling_lur_lct
 lur_lct_passive_samplers_2006_2008
 lur_lct_passive_samplers_2006_2008_lk
@@ -72,7 +72,7 @@ air_pollution_monitoring_stations_national_pm10_2006_2011
 air_pollution_monitoring_stations_national_pm25_2016_2018
 ap_monitor_altitude_from_dem
 ap_monitor_o3_from_luke_knibbs
-national-air-pollution-monitor-database
+national_air_pollution_monitor_database
 air_pollution_monitoring_stations_national_restricted
 air_pollution_monitoring_stations_national_pm25_2000_2015
 api_for_accessing_napmd_national_air_pollution_monitor_database
@@ -152,8 +152,8 @@ air_pollution_monitors_apmma
 ap_monitor_apmma_site_type
 harvard_impactor_pm_for_apmma
 ogawa_no2_for_apmma
-pm-absorbance-for-apmma-project-2018-2020
-pm-elemental-composition-for-apmma-project-2018-2020
+pmabs_apmma
+pm_ec_apmma
 air_pollution_monitors_ogawa
 ogawa_passive_samplers_western_sydney_adjusted
 air_quality_study_sydney
@@ -169,7 +169,7 @@ aptema_air_pollution_and_traffic
 aq_koala_sensor_gold_coast
 aq_koala_sensor_gold_coast-1
 ardc_bridges_and_platform
-air-health-gis-extract-tools-using-arcpy
+air_health_gis_arcpy
 datsci_air-health-sws-wadoh
 atmospheric_composition_analysis_group
 annual_surface_pm25_concentrations_1998_2018
@@ -211,7 +211,7 @@ daily_awap_2001_2020_rds
 daily_awap_netcdf_1961_2021
 daily_awap_netcdf_2022
 baynnd_air_pollution_model
-bayesian-neural-network-downscaled-monthly-surface-o3-for-australia-1990-2019-version-1.0
+baynnd_v1-0_monthly_o3_australia_1990_2019
 biomass_smoke_validated_events
 biomass_smoke_events_db_with_wa_ap_monitors
 biomass_smoke_validated_events-1
@@ -268,7 +268,7 @@ aqfx_warping
 aqvx_pm25_hourly_data_from_apis
 bushfire_aqfx_blending
 csiro_gridded_jaxa_arp
-jaxa-arp
+jaxa_arp
 jaxa_arp-csiro_hourly
 ctm_csiro
 csiro_blend_2005
@@ -292,7 +292,7 @@ ctm_ukceh_daily_global_emepwrf_run_2019_2020
 datshr_ctm_ukceh_daily_global_emepwrf_run_2019_2020
 curated_aot_csiro_cardat
 curated_csiro_hourly
-jaxa_arp
+jaxa_arp-1
 modis_db
 viirs_db
 declared_disasters_australia
@@ -312,7 +312,7 @@ gridded-drought-data-1900-2015
 drought-awap-grids-restricted
 drought_and_apmma_locations_2005_2019
 drought_national_grids_1950_2022_restricted
-drought-and-extreme-rainfall-using-standardised-precipitation-evapotranspiration-index-spei-1950-2023
+drought_national_grids_1950_2023_restricted
 drought_national_grids_1950_2024_restricted
 drought_bom_grids
 drought_bom_grids_1890_2008
@@ -390,7 +390,7 @@ hia_aus_pm25_under_who_guidelines
 impervious_surface_noaa_satellite
 impervious_surface_noaa_satellite_2000_2001
 isi-mip
-isi-mip-1
+isi-mip_fast_track
 land_cover_fraccov_guerschman
 land_cover_fraccov_guerschman-1
 land_cover_fraccov_landsat_jrsrp
@@ -440,7 +440,7 @@ nasa_gmao
 merra-2_2000_2020
 merra-2_2021_2023
 nasa_sedac
-global-1-km-downscaled-population-base-year-and-projection-grids-based-on-the-ssps-v1.01-2000-2100
+nasa_sedac_projected_population_1km_global_2000_2100
 national_bushfire_intelligence_capability
 historical_bushfire_boundaries_v2
 ndvi_greenness_national
@@ -451,7 +451,7 @@ ndvi_modis
 mod13a3_006_terra_ndvi_2000_2020
 myd13a3_006_aqua_ndvi_2002_2020
 neighbourhood_exposures
-bayesian-maximum-entropy-tools
+bmetools
 neighbourhood_exposures_bme_no2_sydney_2011
 nrt_exposure_assessment_app_google_proj
 nmmaps
@@ -489,7 +489,7 @@ health_stats_pop_by_lhd
 lhd_spatial_data_2010
 nsw_government_seed
 existing_green_assets_2016
-fire_nextent_and_severity_mapping_2019_2020
+fire_extent_and_severity_mapping_2019_2020
 heat_vulnerability_index_to_abs_sa1_2016
 npws_fire_history_wildfires_prescribed_burns_1920_2020
 urban_heat_island_to_mod_meshblock_2016
@@ -581,8 +581,8 @@ transport_topography_psma
 psma_data
 psma_roads_fr_lk_2013_2019
 uk_biobank_gasparrini_analysis
-synthetic-datasets-of-the-uk-biobank-cohort
-an-analysis-of-long-term-mortality-risks-of-air-pollution-in-the-uk-biobank
+uk_biobank_synthetic_dataset
+ukb-pm25deathlong
 un_wpp_pop_grids
 un_wpp_adjusted_population_count_v4_11
 us_navy_research_laboratory
@@ -620,8 +620,8 @@ wind_speed_2004_2008
 weighted_road_density
 road_density_75m_raster
 wittgenstein_centre_human_capital
-population_and_human_capital_projections_v13_2020_2100
+population-and-human-capital-projections---2023
 woodfire_heaters
 household_woodfire_heaters_australia_2012
 workshops_car_restricted
-hia_worshop_2021
+hia_workshop_2021
