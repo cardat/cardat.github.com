@@ -6,9 +6,11 @@ title: Acknowledgements
 <h2><abbr title="Centre for Air pollution, energy and health Research Data Analysis Technology">CARDAT</abbr> - Acknowledgements</h2>
 <hr class="car-red" />
 
-### AirHealth Data Bridges
+Please include an acknowledgement statement such as: 
 
-Please include the acknowledgements such as: This research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (https://cardat.github.io). CARDAT is supported by The Centre for Safe Air (https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment.
+>This research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (https://cardat.github.io). CARDAT is supported by The Centre for Safe Air (https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment.
+
+### AirHealth Data Bridges
 
 During 2021-2023 we have had a project to expand CARDAT datasets and tools (https://doi.org/10.47486/PS022) and we received co-investment support from the ARDC.
 
