@@ -285,7 +285,11 @@ nav.main-menu {
   color: #105ba2; 
   font-weight: 520;	
   font-size: 16px;
+  div {
+    color: #105ba2;
+  }
 }
+
 a.current {
   color: #FFFFFF; 
   font-weight: 700;	
