@@ -626,6 +626,9 @@ temp_annual_mean_daily_ave_1960_1991
 wind_speed_2004_2008
 weighted_road_density
 road_density_75m_raster
+who_air_quality_database
+who_air_quality_database_v5
+who_air_quality_database_v6
 wittgenstein_centre_human_capital
 population-and-human-capital-projections---2023
 woodfire_heaters
