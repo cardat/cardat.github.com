@@ -6,7 +6,7 @@ title: Access to CARDAT Data
 
 <h2>Access to <abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> Data</h2>
 <hr class="car-red" />      
-<p><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> holds data at varying levels of restriction and access. Access is administered by the CARDAT data management team - contact <a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a> for assistance with any of the below.
+<p><abbr title="Clean Air and health Research Data and Analysis Technology">CARDAT</abbr> holds data at varying levels of restriction and access. Access is administered by the CARDAT data management team - contact <a href="mailto:car.data@curtin.edu.au">car.data@curtin.edu.au</a> for assistance with any of the below.
 
 <h3>Environment_General</h3>
 <p>This subset of CARDAT datasets does not require particular permission from the data owner for access and is open to all <abbr title="Centre for Safe Air">CSA</abbr> members. Those outside of CSA may be granted access:</p>

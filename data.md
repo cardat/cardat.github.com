@@ -18,7 +18,7 @@ a wide array of population, health and environmental datasets. There are three t
 <a href="https://cardat.github.io/data_inventory/index.html">here</a>.</p>
 <p> Access to <abbr title="Clean Air Research Data Analysis Technology">CARDAT</abbr> data is 
 administered by the <abbr title="Centre for Safe Air">CAR</abbr> data management team 
-(<a href="mailto:car.data@sydney.edu.au">car.data@sydney.edu.au</a>).</p>
+(<a href="mailto:car.data@curtin.edu.au">car.data@curtin.edu.au</a>).</p>
 <h2>Data cleaning</h2>
 <p>It is inevitable that the data we work has imperfections. As part of storing data in CARDAT or EHI we often take steps to clean the data. When this is done, we always:</p>
 <ul>

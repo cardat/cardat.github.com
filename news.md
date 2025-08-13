@@ -31,7 +31,7 @@ The Centre for Safe Air (CAR) National Air Pollution Monitor Database (NAPMD)
 
 It is with great excitement that the CARDAT data team can announce that Australia’s first standardised National Air Pollution Monitor Database (NAPMD) is ready to be shared with researchers. The CAR NAPMD was derived from state and territory government departments monitor data from NSW DPIE, Vic EPA, Qld DES, SA EPA, WA DEWR, Tas EPA, NT EPA, and ACT Health. For more information see the database home webpage https://dx.doi.org/10.17605/OSF.IO/JXD98. 
  
-For access please contact the CARDAT team at car.data@sydney.edu.au.
+For access please contact the CARDAT team at car.data@curtin.edu.au.
 
 #### What is it?
 
@@ -54,7 +54,7 @@ This is a fantastic resource for researchers wishing to map and model air pollut
 
 #### How do we access it?
 
-Access to the database will be granted to individual on request to the CARDAT team at car.data@sydney.edu.au. At this point it will only be made available for research and not-for-profit use.
+Access to the database will be granted to individual on request to the CARDAT team at car.data@curtin.edu.au. At this point it will only be made available for research and not-for-profit use.
 
 Individuals with access will be able to connect to the database (via SQL editors or scripts) and download data as needed. There are how to guides and examples as well as metadata available on the NAPMD landing page https://dx.doi.org/10.17605/OSF.IO/JXD98.
 

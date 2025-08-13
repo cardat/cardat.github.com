@@ -21,5 +21,5 @@ members and their nominated affiliated.</p>
 <p>An overview of the <abbr title="Clean Air and health Research Data Analysis Technology">CARDAT</abbr>
 IT infrasturcture can be seen in the attached <a href="files/IT_infrastructure_overview.pdf">overview document</a>.
 </p>
-<p>Access to these systems is administered through the <a href="mailto:car.data@sydney.edu.au">
+<p>Access to these systems is administered through the <a href="mailto:car.data@curtin.edu.au">
 <abbr title="Centre for Safe Air">CAR</abbr> Data management team</a>.</p>

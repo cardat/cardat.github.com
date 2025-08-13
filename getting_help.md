@@ -8,7 +8,7 @@ title: Getting help
 <h3>Reporting issues and getting help</h3>
 <p>For help please use the following emails - please be sure to include as much relevant information as you can when reporting issues or asking questions.</p>
 <ul>
-<li><a href="mailto:car.data@sydney.edu.au">CAR Data Team</a> &mdash; this email should be used for any questions about getting started, help with examples, advice on data, requests or general feedback.
+<li><a href="mailto:car.data@curtin.edu.au">CAR Data Team</a> &mdash; this email should be used for any questions about getting started, help with examples, advice on data, requests or general feedback.
 Please note that the email box is monitored regularly several times per week, but it may take a day or two to respond to your email.</li>
 <li>Issues with CoESRA - these should be reported via the CoESRA website feedback form found on the right hand side of the screen.
 <img src="images/CoESRA_feedback_link.PNG" alt="CoESRA feedback link" />
