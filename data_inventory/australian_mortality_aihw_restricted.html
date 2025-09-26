@@ -680,7 +680,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="83.1" data-path="geoscape.html"><a href="geoscape.html#buildings"><i class="fa fa-check"></i><b>83.1</b> buildings</a></li>
 <li class="chapter" data-level="83.2" data-path="geoscape.html"><a href="geoscape.html#geoscape_2019"><i class="fa fa-check"></i><b>83.2</b> Geoscape_2019</a></li>
 <li class="chapter" data-level="83.3" data-path="geoscape.html"><a href="geoscape.html#geoscape_2019_noise_collaboration"><i class="fa fa-check"></i><b>83.3</b> Geoscape_2019_noise_collaboration</a></li>
-<li class="chapter" data-level="83.4" data-path="geoscape.html"><a href="geoscape.html#geoscape-residential-land"><i class="fa fa-check"></i><b>83.4</b> Geoscape Residential land</a></li>
+<li class="chapter" data-level="83.4" data-path="geoscape.html"><a href="geoscape.html#geoscape_major_roads"><i class="fa fa-check"></i><b>83.4</b> Geoscape_Major_Roads</a></li>
+<li class="chapter" data-level="83.5" data-path="geoscape.html"><a href="geoscape.html#geoscape_national_roads"><i class="fa fa-check"></i><b>83.5</b> Geoscape_National_Roads</a></li>
+<li class="chapter" data-level="83.6" data-path="geoscape.html"><a href="geoscape.html#geoscape-residential-land"><i class="fa fa-check"></i><b>83.6</b> Geoscape Residential land</a></li>
 </ul></li>
 <li class="chapter" data-level="84" data-path="geovision_pitney_bowes.html"><a href="geovision_pitney_bowes.html"><i class="fa fa-check"></i><b>84</b> GeoVision_Pitney_Bowes</a>
 <ul>
@@ -1341,16 +1343,15 @@ Abstract
 </td>
 <td>
 <p>Summarised monthly and daily cause of death mortality data.</p>
-<p>This data is disaggregated by SA4/LGA/greater capital city aggregations, state, year, month or date of death, sex, age group and selected causes of death (ICD10 code) for 2000-2019.</p>
+<p>This data is disaggregated by ABS SA4 2016, greater capital city (GCC) 2016, local government areas (LGA) 2020 aggregations, state, year, month or date of death, sex, age group and selected causes of death (ICD10 code) for 2000-2019. Original metadata notes are provided in metadata/ folder. Specific contents of this datasets are as follows:</p>
 <ul>
 <li>Monthly deaths for all causes, non-trauma, suicide, cardiovascular, renal and respiratory (also for subcategories Chronic lower resp diseases, and Influenza and Acute lower resp infections) causes ; by state, GCC, SA4 or LGA, by sex and age group</li>
 <li>Daily deaths (GCC) for all-cause and non-trauma, by GCC and age group</li>
 <li>Daily deaths for respiratory, cardiovascular, and renal diseases, by GCC</li>
 </ul>
-<p>Deaths data are provided by the AIHW from the National Mortality Database (unpublished). Cause of Death Unit Record File data are provided to the AIHW by the Registries of Births, Deaths and Marriages and the National Coronial Information System (managed by the Victorian Department of Justice) and include cause of death coded by the Australian Bureau of Statistics (ABS). The data are primarily maintained by the AIHW in the National Mortality Database and aggregated data provided to the CARDAT platform for the ARDC funded Integrated National Air Pollution and Health Data of the Centre for Safe Air (CSA). See <a href="https://doi.org/10.47486/PS022" class="uri">https://doi.org/10.47486/PS022</a></p>
-<p>Please read the explanatory notes attached.</p>
+<p>Deaths data are provided by the AIHW from the National Mortality Database (unpublished) (<a href="https://www.aihw.gov.au/about-our-data/our-data-collections/national-mortality-database" class="uri">https://www.aihw.gov.au/about-our-data/our-data-collections/national-mortality-database</a>). Cause of Death Unit Record File data are provided to the AIHW by the Registries of Births, Deaths and Marriages and the National Coronial Information System (managed by the Victorian Department of Justice) and include cause of death coded by the Australian Bureau of Statistics (ABS). The data are primarily maintained by the AIHW in the National Mortality Database and aggregated data provided to the CARDAT platform for the ARDC funded Integrated National Air Pollution and Health Data of the Centre for Safe Air (CSA) (see <a href="https://doi.org/10.47486/PS022" class="uri">https://doi.org/10.47486/PS022</a>).</p>
 <p>Aggregations of sex and age group where given are categorised as follows: Sex (Males, Females, Persons); Age group (0-9, 10-29, 30-54, 55-64 , 65-74, 75-84, 85plus). Cause-specific conditions are defined by ICD10 codes: Respiratory diseases (J00-J99), Cardiovascular diseases (G45-G46, I00-I99, R00), Renal diseases (N00-N99), suicide (X60–X84.9, Y87.0)</p>
-<p>As the LGA and SA4 files are quite large, the rows with zero deaths are removed. The State and GCC files contain all rows of data (including the rows with zero deaths). Deaths from suicide are provided at State and GCC level only, with age groups 0-9 and 10-29 combined.</p>
+<p>As the LGA and SA4 files are quite large, the rows with zero deaths are removed. The State and GCC files contain all rows of data (including the rows with zero deaths). Deaths from suicide are provided at State and GCC level only, with age groups 0-9 and 10-29 combined. Note death counts may not be integer values due to the conversion between different ABS geospatial boundaries via ABS correspondence files.</p>
 <p>Deaths are counted according to death occurrence, note that some deaths are not registered in the same year that it occurred particularly in November and December (e.g. due to late registration or coronial investigation). Hence, deaths in 2019 are underestimated.</p>
 Deaths registered in 2017 and earlier are based on the final version of cause of death data; deaths registered in 2018 are based on the revised version; deaths registered in 2019 are based on the preliminary version. Revised and preliminary versions are subject to further revision by the ABS.
 </td>
@@ -1360,7 +1361,7 @@ Deaths registered in 2017 and earlier are based on the final version of cause of
 Study Extent
 </td>
 <td>
-Daily and monthly, 2000-2019, LGA, SA4, GCC and State-level, Australia.
+Daily and monthly, 2000-2019. LGA 2020, SA4 2016, GCC 2016 and State-level, Australia.
 </td>
 </tr>
 <tr>
@@ -1390,6 +1391,7 @@ Repository Link
 External Link
 </td>
 <td>
+<a href="https://doi.org/10.17605/OSF.IO/GZM5F" class="uri">https://doi.org/10.17605/OSF.IO/GZM5F</a>
 </td>
 </tr>
 <tr>
@@ -1397,7 +1399,7 @@ External Link
 Recommended Citation
 </td>
 <td>
-Australian Institute of Health and Welfare (2023): AIHW_Summarised_cause_of_death_2000_2019_disaggregated_version_2. AIHW from the Nationality Database (unpublished), Victorian Department of Justice from the Registries of Births, Deaths and Marriages and the National Coronal Information System, ABS. Downloaded from CARDAT (dataset). <a href="https://doi.org/10.47486/PS022" class="uri">https://doi.org/10.47486/PS022</a>
+Australian Institute of Health and Welfare (2023): AIHW_Summarised_cause_of_death_2000_2019_disaggregated_version_2. AIHW from the Nationality Database (unpublished), Victorian Department of Justice from the Registries of Births, Deaths and Marriages and the National Coronal Information System, ABS. Downloaded from CARDAT (dataset). <a href="https://doi.org/10.17605/OSF.IO/GZM5F" class="uri">https://doi.org/10.17605/OSF.IO/GZM5F</a>
 </td>
 </tr>
 </table>

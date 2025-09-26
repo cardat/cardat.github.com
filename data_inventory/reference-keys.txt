@@ -374,6 +374,8 @@ geoscape
 buildings
 geoscape_2019
 geoscape_2019_noise_collaboration
+geoscape_major_roads
+geoscape_national_roads
 geoscape-residential-land
 geovision_pitney_bowes
 geovision_pitney_bowes_australia_2017
