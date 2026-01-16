@@ -50,10 +50,6 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
-<script src="libs/kePrint-0.0.1/kePrint.js"></script>
-<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
-<link href="libs/bsTable-3.3.7/bootstrapTable.min.css" rel="stylesheet" />
-<script src="libs/bsTable-3.3.7/bootstrapTable.js"></script>
 
 
 <style type="text/css">
@@ -139,10 +135,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <nav role="navigation">
 
 <ul class="summary">
+<li><a href="https://cardat.github.io/">CARDAT Home</a></li>
+<li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
 <ul>
 <li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#data-inventory-model"><i class="fa fa-check"></i><b>1.1</b> Data Inventory Model</a></li>
-<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#recently-published"><i class="fa fa-check"></i><b>1.2</b> Recently Published</a></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="abs_customised_for_apmma.html"><a href="abs_customised_for_apmma.html"><i class="fa fa-check"></i><b>2</b> ABS_customised_for_APMMA</a>
 <ul>
@@ -482,8 +479,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="44.7" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#bushfire_specific_pm25_syd_gmr_2006_2020_v1_1"><i class="fa fa-check"></i><b>44.7</b> Bushfire_specific_PM25_Syd_GMR_2006_2020_v1_1</a></li>
 <li class="chapter" data-level="44.8" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_lga_2021_2001_2020_v1_3"><i class="fa fa-check"></i><b>44.8</b> DatSci_bushfire_specific_pm25_for_lga_2021_2001_2020_v1_3</a></li>
 <li class="chapter" data-level="44.9" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3"><i class="fa fa-check"></i><b>44.9</b> DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3</a></li>
-<li class="chapter" data-level="44.10" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3"><i class="fa fa-check"></i><b>44.10</b> DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3</a></li>
-<li class="chapter" data-level="44.11" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019"><i class="fa fa-check"></i><b>44.11</b> ResPrj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019</a></li>
+<li class="chapter" data-level="44.10" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working"><i class="fa fa-check"></i><b>44.10</b> DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working</a></li>
+<li class="chapter" data-level="44.11" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3"><i class="fa fa-check"></i><b>44.11</b> DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3</a></li>
+<li class="chapter" data-level="44.12" data-path="bushfire_smoke_pm_exposures.html"><a href="bushfire_smoke_pm_exposures.html#resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019"><i class="fa fa-check"></i><b>44.12</b> ResPrj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019</a></li>
 </ul></li>
 <li class="chapter" data-level="45" data-path="cadastral_nsw.html"><a href="cadastral_nsw.html"><i class="fa fa-check"></i><b>45</b> Cadastral_NSW</a>
 <ul>
@@ -2189,13 +2187,13 @@ Licence
 </tr>
 <tr>
 <td>
-<span style="color: grey;">NA</span>
+<span style="color: red;">Restricted</span>
 </td>
 <td>
 <span style="color: green;">Published</span>
 </td>
 <td>
-No licence
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 </td>
 </tr>
 </table>
@@ -2244,7 +2242,9 @@ Contact Email
 Abstract
 </td>
 <td>
-This dataset developed in collaboration with Lucas to support his GCC study. Recognizing the broader applicability of SA1 data, this dataset offers specific PM2.5 measurements for SA1 regions during the years 2001-2020. Designed to investigate the impact of bushfire smoke on air quality, this dataset provides valuable insights into fine particulate matter concentrations at a localized level.
+<p>Recognizing the broader applicability of SA1 data, this dataset offers specific PM2.5 measurements for SA1 regions during the years 2001-2020. Designed to investigate the impact of bushfire smoke on air quality, this dataset provides valuable insights into fine particulate matter concentrations at a localized level.</p>
+<p>Daily estimates from the original 5km grid predictions from Bushfire Smoke V1.3 project (Bushfire_specific_PM25_Aus_2001_2020_v1_3) has been extracted to ABS SA1 2016 polygons, identified by the full and abbreviated SA1 codes as well as GCC code. Total PM2.5 estimate and components from STL (seasonal and trend decomposition using Loess) are shown. See the original dataset for full explanation.</p>
+Note that some SA1 polygons have no PM2.5 values due to missing coastal pixels in the original dataset.
 </td>
 </tr>
 <tr>
@@ -2252,6 +2252,7 @@ This dataset developed in collaboration with Lucas to support his GCC study. Rec
 Study Extent
 </td>
 <td>
+Daily, from 2001-01-01 to 2020-06-30, ABS SA1 2016, Australia
 </td>
 </tr>
 <tr>
@@ -2266,7 +2267,6 @@ Associated Parties
 Repository Path
 </td>
 <td>
-ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3
 </td>
 </tr>
 <tr>
@@ -2289,14 +2289,22 @@ External Link
 Recommended Citation
 </td>
 <td>
-Hanigan, I. (2023): DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3. CAR. (Dataset). <a href="https://cloud.car-dat.org/index.php/apps/files?dir=/ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3" class="uri">https://cloud.car-dat.org/index.php/apps/files?dir=/ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3</a>
+Hanigan, I., Yuen, C., Gopi, K., Borchers-Arriagada, N., van Buskirk, J. &amp; Morgan, G. (2023): Bushfire specific PM2.5 output from v1.3 based on satellite and other land use and other predictors for Australia 2001-2020 produced for the CAR Bushfire Smoke Exposures project. CAR. Downloaded from CARDAT (Dataset). <a href="https://doi.org/10.17605/OSF.IO/WQK4T" class="uri">https://doi.org/10.17605/OSF.IO/WQK4T</a>
+</td>
+</tr>
+<tr>
+<td align="right">
+Path to Licence
+</td>
+<td>
+<a href="https://cardat.github.io/bushfire_pm25_v1_3_tools/dataset-licencing.html" class="uri">https://cardat.github.io/bushfire_pm25_v1_3_tools/dataset-licencing.html</a>
 </td>
 </tr>
 </table>
 <hr />
 </div>
-<div id="datsci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3" class="section level2 hasAnchor" number="44.10">
-<h2><span class="header-section-number">44.10</span> DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3<a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working" class="section level2 hasAnchor" number="44.10">
+<h2><span class="header-section-number">44.10</span> DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working<a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <table class="dset-accessibility" style="width:66%;margin-left:auto;margin-right:auto;">
 <tr>
 <th>
@@ -2314,10 +2322,131 @@ Licence
 <span style="color: grey;">NA</span>
 </td>
 <td>
-<span style="color: orange;">Provided</span>
+<span style="color: grey;">Working</span>
 </td>
 <td>
 No licence
+</td>
+</tr>
+</table>
+<table border="1">
+<tr>
+<th>
+</th>
+<th>
+Metadata fields
+</th>
+</tr>
+<tr>
+<td align="right">
+Short Name
+</td>
+<td>
+DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working
+</td>
+</tr>
+<tr>
+<td align="right">
+Title
+</td>
+<td>
+DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working
+</td>
+</tr>
+<tr>
+<td align="right">
+Creators
+</td>
+<td>
+Ivan Hanigan
+</td>
+</tr>
+<tr>
+<td align="right">
+Contact Email
+</td>
+<td>
+<a href="mailto:car.data@curtin.edu.au" class="email">car.data@curtin.edu.au</a>
+</td>
+</tr>
+<tr>
+<td align="right">
+Abstract
+</td>
+<td>
+This dataset developed in collaboration with Lucas to support his GCC study. Recognizing the broader applicability of SA1 data, this dataset offers specific PM2.5 measurements for SA1 regions during the years 2001-2020. Designed to investigate the impact of bushfire smoke on air quality, this dataset provides valuable insights into fine particulate matter concentrations at a localized level.
+</td>
+</tr>
+<tr>
+<td align="right">
+Study Extent
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td align="right">
+Associated Parties
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td align="right">
+Repository Path
+</td>
+<td>
+ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working
+</td>
+</tr>
+<tr>
+<td align="right">
+Repository Link
+</td>
+<td>
+<a href="https://cloud.car-dat.org/index.php/apps/files/?dir=/ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working" class="uri">https://cloud.car-dat.org/index.php/apps/files/?dir=/ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa1_2016_2001_2020_v1_3_working</a>
+</td>
+</tr>
+<tr>
+<td align="right">
+External Link
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td align="right">
+Recommended Citation
+</td>
+<td>
+</td>
+</tr>
+</table>
+<hr />
+</div>
+<div id="datsci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3" class="section level2 hasAnchor" number="44.11">
+<h2><span class="header-section-number">44.11</span> DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3<a href="bushfire_smoke_pm_exposures.html#datsci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<table class="dset-accessibility" style="width:66%;margin-left:auto;margin-right:auto;">
+<tr>
+<th>
+Accessibility
+</th>
+<th>
+Provision Status
+</th>
+<th>
+Licence
+</th>
+</tr>
+<tr>
+<td>
+<span style="color: red;">Restricted</span>
+</td>
+<td>
+<span style="color: green;">Published</span>
+</td>
+<td>
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 </td>
 </tr>
 </table>
@@ -2374,7 +2503,7 @@ This dataset is an extraction of Bushfire Smoke V1.3 PM2.5 predictions, STL deco
 Study Extent
 </td>
 <td>
-Australia, SA2 2016 boundaries
+Daily 2001-01-01 to 2020-06-30, SA2 2016 boundaries, Australia
 </td>
 </tr>
 <tr>
@@ -2389,7 +2518,6 @@ Associated Parties
 Repository Path
 </td>
 <td>
-ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3
 </td>
 </tr>
 <tr>
@@ -2412,14 +2540,22 @@ External Link
 Recommended Citation
 </td>
 <td>
-Hanigan, I. (2024): DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3. Centre for Safe Air. (Dataset). <a href="https://cloud.car-dat.org/index.php/apps/files?dir=/ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3" class="uri">https://cloud.car-dat.org/index.php/apps/files?dir=/ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/DatSci_bushfire_specific_pm25_for_sa2_2016_2001_2020_v1_3</a>
+Hanigan, I., Yuen, C., Gopi, K., Borchers-Arriagada, N., van Buskirk, J. &amp; Morgan, G. (2023): Bushfire specific PM2.5 output from v1.3 based on satellite and other land use and other predictors for Australia 2001-2020 produced for the CAR Bushfire Smoke Exposures project. CAR. Downloaded from CARDAT (Dataset). <a href="https://doi.org/10.17605/OSF.IO/WQK4T" class="uri">https://doi.org/10.17605/OSF.IO/WQK4T</a>
+</td>
+</tr>
+<tr>
+<td align="right">
+Path to Licence
+</td>
+<td>
+<a href="https://cardat.github.io/bushfire_pm25_v1_3_tools/dataset-licencing.html" class="uri">https://cardat.github.io/bushfire_pm25_v1_3_tools/dataset-licencing.html</a>
 </td>
 </tr>
 </table>
 <hr />
 </div>
-<div id="resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019" class="section level2 hasAnchor" number="44.11">
-<h2><span class="header-section-number">44.11</span> ResPrj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019<a href="bushfire_smoke_pm_exposures.html#resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019" class="section level2 hasAnchor" number="44.12">
+<h2><span class="header-section-number">44.12</span> ResPrj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019<a href="bushfire_smoke_pm_exposures.html#resprj_bushfire_pm25_v1_3_abs_2016_gcc_aihw_mortality_2001-2019" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <table class="dset-accessibility" style="width:66%;margin-left:auto;margin-right:auto;">
 <tr>
 <th>
