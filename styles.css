@@ -1,0 +1,4 @@
+/* css styles */
+a.nav-link.active span.menu-text {
+  font-weight: bolder;
+}

@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs # for GitHub pages
+  render:
+    - "*.qmd"
+
+website:
+  title: "CARDAT platform"
+  navbar:
+    # background: "#7c2a83"
+    # foreground: "#FDECE2"
+    left:
+        - href: index.qmd
+          text: "Home"
+        
+        - text: "About"
+          menu:
+            - href: placeholder.qmd
+              text: "What we do"
+            - href: about/infrastructure.qmd
+              text: "Infrastructure"
+          
+        - text: "Data"
+          menu:
+            - href: placeholder.qmd
+              text: "Using CARDAT"
+            - href: placeholder.qmd
+              text: "National Air Pollution Monitoring Database"
+            - href: placeholder.qmd
+              text: "Data request form"
+          
+        - text: "Tools and workflows"
+          menu:
+            - href: placeholder.qmd
+              text: "GitHub repository"
+              
+        - text: "Projects"
+          menu:
+            - href: placeholder.qmd
+              text: "AirHealth Data Bridges"
+            
+        - href: mailto:car.data@curtin.edu.au
+          text: "Contact us"
+          
+
+format:
+  html:
+    theme:
+      - cosmo
+      - main.scss
+    css: styles.css
+    toc: true
+
+
+

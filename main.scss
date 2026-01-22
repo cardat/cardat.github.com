@@ -1,0 +1,14 @@
+/* 
+Custom theming 
+See https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+*/
+
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #FEFCF2;
+$body-color: #7c2a83;
+$link-color: #75AADB;
+
+
+// Code blocks
+$code-block-bg-alpha: -.9;

@@ -1,0 +1,5 @@
+---
+title: "A Beautiful Placeholder"
+---
+
+*I'm a placeholder!*
