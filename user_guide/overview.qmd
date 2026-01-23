@@ -1,0 +1,21 @@
+---
+title: "Overview"
+---
+
+## Data repository
+
+CARDAT holds data at varying levels of restriction and access, ranging from publicly available, Creative Commons-licensed datasets to commercial datasets restricted to one or two users.
+
+Data is generally divided into the following categories.
+
+**Environment General datasets**
+
+This subset of CARDAT datasets does not require particular permission from the data owner for access and is open to all Centre for Safe Air (CSA) members. Those outside of CSA may be granted access if nominated by a Chief or Associate Investigator.
+
+**Restricted datasets**
+
+Access to restricted datasets is given on a case-by-case basis, subject to the conditions and licensing imposed by the data owner. A request may be submitted via the data access request form.
+
+**Public datasets**
+
+A small subset of datasets, including the National Air Pollution Monitor Database (NAPMD), is open to academics and students for non-commercial research purposes.

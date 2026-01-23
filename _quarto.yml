@@ -19,15 +19,25 @@ website:
               text: "What we do"
             - href: about/infrastructure.qmd
               text: "Infrastructure"
+            # - href: placeholder.qmd
+            #   text: "Contributions to research"
+        - text: "Using CARDAT"
+          menu: 
+            - href: user_guide/access.qmd
+              text: "Accessing CARDAT resources"
+            # - href: user_guide/overview.qmd
+            #   text: "Overview"
+            - href: user_guide/technical_guide.qmd
+              text: "Technical Guide"
+            - href: user_guide/data_access_request_form.qmd
+              text: "Data Access Request Form"
+            # - href: user_guide/data_science.qmd
+            #   text: "Data Science Tips"  
           
         - text: "Data"
           menu:
             - href: placeholder.qmd
-              text: "Using CARDAT"
-            - href: placeholder.qmd
               text: "National Air Pollution Monitoring Database"
-            - href: placeholder.qmd
-              text: "Data request form"
           
         - text: "Tools and workflows"
           menu:
@@ -36,7 +46,7 @@ website:
               
         - text: "Projects"
           menu:
-            - href: placeholder.qmd
+            - href: projects/airhealth.qmd
               text: "AirHealth Data Bridges"
             
         - href: mailto:car.data@curtin.edu.au

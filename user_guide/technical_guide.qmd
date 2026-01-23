@@ -1,0 +1,61 @@
+---
+title: "Technical guide"
+---
+
+## Cloud CARDAT data transfer
+
+### *via* rclone
+
+The Cloud CARDAT WebDAV is a service that allows you to access and manage your files stored on Cloud CARDAT using the WebDAV protocol. Rclone is a command-line tool that allows you to interact with <https://cloud.car-dat.org> through the WebDAV protocol and perform various operations such as syncing, copying, and moving files.
+
+This guide will demonstrate how to set up NextCloud WebDAV using rclone on Windows, Mac, and Linux.
+
+#### Windows
+1. Download and install Windows File System Proxy (WinFsp) from https://winfsp.org/.
+2. Download and install Rclone from <https://rclone.org/downloads/>.
+3. Configure Rclone by following these steps:
+    - Open a command prompt and run the command `rclone config`.
+    - Follow the on-screen instructions to configure Rclone.
+    - When prompted for the WebDav URL, enter `https://cloud.car-dat.org/` and press Enter.
+    - When prompted for the username and password, enter your Cloud CARDAT login credentials.
+
+Optionally, you can create a .bat file named `mountrclone.bat` with the following content to automatically mount the drive:
+
+```
+@echo off
+
+start c:\rclone\rclone mount –vfs-cache-mode full cloud.car-dat.org:/ z:
+```
+
+This command will mount the <cloud.car-dat.org> drive to the Z: drive letter.
+
+#### MacOS
+
+1. Install rclone by running the command `brew install rclone` in Terminal.
+2. Configure rclone by running the command `rclone config` in Terminal.
+3. Follow the on-screen instructions to configure rclone.
+4. When prompted for the WebDAV URL, enter `https://cloud.car-dat.org/` and press Enter.
+5. When prompted for the username and password, enter your Cloud CARDAT login credentials.
+
+#### Linux
+
+1. Install Rclone by running the command `sudo apt-get install rclone` in Terminal.
+2. Configure Rclone by running the command `rclone config` in Terminal.
+3. Follow the on-screen instructions to configure rclone.
+4. When prompted for the WebDAV URL, enter `https://cloud.car-dat.org/` and press Enter.
+5. When prompted for the username and password, enter your Cloud CARDAT login credentials.
+
+More information and instructions to set up automatic syncing may be found at <https://linuxnewbieguide.org/rclone/>.
+
+
+### *via* NextCloud Desktop Client
+
+1. Download the NextCloud Desktop Client for Windows, MacOS and Linux from <https://nextcloud.com/install/>.
+2. Install the downloaded setup application.
+3. Reboost your operating system for the NextCloud configuration changes to take effect.
+4. Launch NextCloud desktop.
+5. When prompted for the Nextcloud account, select "Log in" option.
+6. When prompted for the Server address, enter `https://cloud.car-dat.org/` and press Enter.
+7. NextCloud automatically switches to Cloud CARDAT Server web interface for account login. When prompted for the username and password, enter your Cloud CARDAT login credentials and press "Grant access".
+8. Configure the Sync Folder by accessing "Settings" and pressing "Add Folder Sync Connection" in NextCloud desktop.  
+9. Change directory of NextCloud synchronised local folder on your computer. 
