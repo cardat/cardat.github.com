@@ -8,14 +8,12 @@ aliases:
 
 ![](../images/about/CARDAT_infrastructure_overview_v2.png){fig-alt="CARDAT infrastructure overview"}
 
+CARDAT maintains a series of assets for air quality and health research. Where possible, data and software adheres to the [FAIR principles](https://ardc.edu.au/resource-hub/making-data-fair/) - Findable, Accessible, Interoperable and Reusable.
 
-The online data storage and analysis platform has been designed for use of Centre for Safe Air members and affiliated researchers by nomination. Access to these systems is administered through the [CARDAT Data management team][cardat-mail].
+Data files are stored on [Cloud CARDAT][cardat-data-repo], a cloud-based data storage system. A small portion of data is stored in the PostGIS CAR database. Software, such as code tools, R packages, and scientific workflows, are held in the [CARDAT GitHub repository][cardat-gh].
 
-As per the above diagram, there are four aspects of this system:
+A catalogue of data and software assets are maintained in the [CARDAT Data Inventory][cardat-data-inventory].
 
-- a cloud based data storage system [Cloud CARDAT][cardat-data-repo]
-- a catalogue of available datasets [CAR Data Inventory][cardat-data-inventory]
-- an online data analysis platform [CoESRA](https://coesra.tern.org.au/)
-- [GitHub repository][cardat-gh] of workflows and tools
+A portion of CARDAT data is copied to the [CoESRA][coesra] platform, a cloud-based virtual desktop service provided by [TERN][tern-home] where analyses may be performed.
 
 
