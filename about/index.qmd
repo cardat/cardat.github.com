@@ -18,6 +18,8 @@ CARDAT is overseen by the [Centre for Safe Air][csa-home] (CSA) and [WHO Collabo
 
 ### Funding and support
 
+CARDAT is currently funded and overseen by the [Centre for Safe Air][csa-home], an NHMRC Centre of Research Excellence (APP ID 2015584), and the [WHO Collaborating Centre for Climate Change and Health Impact Assessment][whocc-home], located at Curtin University, Perth, Australia. 
+
 ::: {layout-ncol=2}
 
 [![](/images/centre-safe-air-logo.svg){width=250 fig-align="center"}][csa-home]
@@ -26,4 +28,9 @@ CARDAT is overseen by the [Centre for Safe Air][csa-home] (CSA) and [WHO Collabo
 
 :::
 
-CARDAT is currently funded and overseen by the [Centre for Safe Air][csa-home] and [WHO Collaborating Centre for Climate Change and Health Impact Assessment][whocc-home]. 
+The development of CARDAT infrastructure and its resources has previously received support from:
+
+- Centre for Air pollution, energy and health Research (CAR), an NHMRC Centre of Research Excellence and predecessor of the Centre for Safe Air
+- Australian Research Data Commons (ARDC) [*Integrated National Air Pollution and Health Data*](https://doi.org/10.47486/PS022) project 
+
+We thank the past and on-going contributors of data, tools and infrastructure support to the platform.

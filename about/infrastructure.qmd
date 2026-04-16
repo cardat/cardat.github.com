@@ -14,7 +14,7 @@ The online data storage and analysis platform has been designed for use of Centr
 As per the above diagram, there are four aspects of this system:
 
 - a cloud based data storage system [Cloud CARDAT][cardat-data-repo]
-- a catalogue of available datasets [CAR Data Inventory](data_inventory/index.html)
+- a catalogue of available datasets [CAR Data Inventory][cardat-data-inventory]
 - an online data analysis platform [CoESRA](https://coesra.tern.org.au/)
 - [GitHub repository][cardat-gh] of workflows and tools
 
