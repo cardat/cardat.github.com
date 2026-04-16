@@ -6,6 +6,7 @@
 [cardat-mail]: mailto:car.data@curtin.edu.au
 [cardat-gh]: https://github.com/cardat/
 [cardat-data-repo]: https://cloud.car-dat.org/
+[cardat-data-inventory]: /data_inventory/index.html
 
 <!-- CARDAT repos -->
 [gh-napmdtools]: https://github.com/cardat/napmdtools

@@ -5,6 +5,7 @@ project:
     - "*.qmd"
 
 website:
+  ## ANNOUNCEMENT BAR (shows on all pages)
   # announcement:
   #   icon: info-circle-fill
   #   dismissable: false # true or false
@@ -12,15 +13,20 @@ website:
   #   type: warning # primary, secondary, success, danger, warning, info, light, dark
   #   position: below-navbar # below-navbar or above-navbar
   
-  title: "CARDAT platform"
-  margin-header: |
-    [![](/images/centre-safe-air-logo.svg){width=125 fig-align="center"}][csa-home]
+  title: "**CARDAT**"
+  page-footer: 
+    border: true
+    left: "Clean Air and health Research Data and Analysis Technology platform" 
+    right: 
+      - text: '![](/images/centre-safe-air-logo.svg){height=5em margin-bottom=0 fig-align="center"}'
+        href: https://safeair.org.au
+      - text: '![](/images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){height=5em margin-bottom=0 fig-align="center"}'
+        href: https://research.curtin.edu.au/whocc-cchia/
     
-    [![](/images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){width=200 fig-align="center"}][whocc-home]
-    
+  # top navbar, linked to sidebars
   navbar:
     search: true
-    left:
+    right:
         - text: "Home"
           href: index.qmd
         - sidebar:about
@@ -29,7 +35,7 @@ website:
         - sidebar:projects
         - text: "Contact us"
           href: mailto:car.data@curtin.edu.au
-          
+   
   sidebar:
     - id: about
       title: "About"
@@ -42,7 +48,7 @@ website:
         - user_guide/citation_and_acknowledgement.qmd
         - user_guide/data_access_request_form.qmd
         - text: "Data Inventory"
-          href: data_inventory/index.html
+          href: /data_inventory/index.html
         - user_guide/technical_guide.qmd
         # - user_guide/data_science.qmd
     - id: data-tools
@@ -73,7 +79,6 @@ format:
       - file: header.html # link font Roboto
     embed-resources: true
     theme:
-      # - cosmo
       - main.scss
     css: styles.css
     toc: true
