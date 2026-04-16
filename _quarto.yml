@@ -6,57 +6,64 @@ project:
 
 website:
   title: "CARDAT platform"
+  margin-header: |
+    ::: {layout-nrow=2 }
+    
+    [![](/images/centre-safe-air-logo.svg){width=125 fig-align="center"}][csa-home]
+    
+    [![](/images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){width=200 fig-align="center"}][whocc-home]
+    
+    :::
   navbar:
-    # background: "#7c2a83"
-    # foreground: "#FDECE2"
+    search: true
     left:
-        - href: index.qmd
-          text: "Home"
+        - text: "Home"
+          href: index.qmd
+        - sidebar:about
+        - sidebar:using-cardat
+        - sidebar:data-tools
+        - sidebar:projects
+        - text: "Contact us"
+          href: mailto:car.data@curtin.edu.au
+          
+  sidebar:
+    - id: about
+      title: "About"
+      contents:
+        - about/index.qmd
+        - about/infrastructure.qmd
+    - id: using-cardat
+      title: "Using CARDAT"
+      contents: 
+        - user_guide/citation_and_acknowledgement.qmd
+        - user_guide/data_access_request_form.qmd
+        - text: "Data Inventory"
+          href: data_inventory/index.html
+        - user_guide/technical_guide.qmd
+        # - user_guide/data_science.qmd
+    - id: data-tools
+      title: "Data and Tools"
+      contents: 
+        - text: "Overview"
+          href: data/index.qmd
+        - section: "Data"
+          contents: 
+            - placeholder.qmd
+        - text: "----"
+        - section: "Tools"
+          contents: 
+            - placeholder.qmd
+    - id: projects
+      title: "Projects"
+      contents: 
+        - projects/airhealth.qmd
+        - placeholder.qmd
         
-        - text: "About"
-          menu:
-            - href: placeholder.qmd
-              text: "What we do"
-            - href: about/infrastructure.qmd
-              text: "Infrastructure"
-            # - href: placeholder.qmd
-            #   text: "Contributions to research"
-        - text: "Using CARDAT"
-          menu: 
-            - href: user_guide/access.qmd
-              text: "Accessing CARDAT resources"
-            # - href: user_guide/overview.qmd
-            #   text: "Overview"
-            - href: user_guide/technical_guide.qmd
-              text: "Technical Guide"
-            - href: user_guide/data_access_request_form.qmd
-              text: "Data Access Request Form"
-            # - href: user_guide/data_science.qmd
-            #   text: "Data Science Tips"  
-          
-        - text: "Data"
-          menu:
-            - href: placeholder.qmd
-              text: "National Air Pollution Monitoring Database"
-          
-        - text: "Tools and workflows"
-          menu:
-            - href: placeholder.qmd
-              text: "GitHub repository"
-              
-        - text: "Projects"
-          menu:
-            - href: projects/airhealth.qmd
-              text: "AirHealth Data Bridges"
-            
-        - href: mailto:car.data@curtin.edu.au
-          text: "Contact us"
-          
-
 format:
   html:
+    embed-resources: true
     theme:
-      - cosmo
+      # - cosmo
       - main.scss
     css: styles.css
     toc: true

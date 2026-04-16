@@ -1,0 +1,22 @@
+
+<!-- Reference links -->
+
+<!-- CARDAT -->
+[cardat-home]: http://cardat.github.io/
+[cardat-mail]: mailto:car.data@curtin.edu.au
+[cardat-gh]: https://github.com/cardat/
+[cardat-data-repo]: https://cloud.car-dat.org/
+
+<!-- CARDAT repos -->
+[gh-napmdtools]: https://github.com/cardat/napmdtools
+[gh-cardatdbtools]: https://github.com/cardat/cardatdbtools
+[gh-bushfire_pm25_v1_3_tools]: https://github.com/cardat/bushfire_pm25_v1_3_tools
+
+<!-- Key orgs -->
+[whocc-home]: https://research.curtin.edu.au/whocc-cchia/
+[csa-home]: https://safeair.org.au/
+[heal-home]: https://healnetwork.org.au/
+[ardc-home]: https://ardc.edu.au/
+[tern-home]: https://www.tern.org.au/
+
+

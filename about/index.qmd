@@ -1,22 +1,12 @@
 ---
-title: "Clean Air and health Research Data and Analysis Technology platform"
+title: "About CARDAT"
 ---
 
 {{< include /_common.qmd >}}
 
 The Clean Air and health Research Data and Analysis Technology (CARDAT) platform is a collection of IT infrastructure that enables easy data sharing and reuse, and supports reproducible data analysis. This online research platform collates a wide array of population, health and environmental datasets alongside a collection of analysis tools and methodology resources.
 
-### Funding and support
-
-::: {layout-ncol=2}
-
-[![](images/centre-safe-air-logo.svg){width=250 fig-align="center"}][csa-home]
-
-[![](images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){width=350 fig-align="center"}][whocc-home]
-
-:::
-
-CARDAT is currently funded and overseen by the [Centre for Safe Air][csa-home] and [WHO Collaborating Centre for Climate Change and Health Impact Assessment][whocc-home]. 
+CARDAT is overseen by the [Centre for Safe Air][csa-home] (CSA) and [WHO Collaborating Centre for Climate Change and Health Impact Assessment][whocc-home] (WHOCC-CCHIA). Its mission is to provide data, methods and tools to support research and analysis in the fields of air pollution, energy and health.
 
 ### Key areas
 
@@ -26,3 +16,6 @@ CARDAT is currently funded and overseen by the [Centre for Safe Air][csa-home] a
 
 **Data science support**: CARDAT provides data science support to the Centre for Safe Air and WHO Collaborating Centre for Climate Change and Health Impact Assessment projects. Additionally, CARDAT supports training events with creation of training materials, workflows and tutorials.
 
+### Funding and support
+
+CARDAT is funded by the Centre for Safe Air, an NHMRC Centre of Research Excellence, and the WHO Collaborating Centre for Climate Change and Health Impact Assessment (WHOCC-CCHIA).

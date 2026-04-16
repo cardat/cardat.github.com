@@ -1,10 +1,10 @@
 ---
-title: "Accessing CARDAT resources"
+title: "Citation and Acknowledgement"
 aliases: 
     - "/acknowledgements.html"
 ---
 
-## CARDAT Platform Acknowledgement
+{{< include /_common.qmd >}}
 
 When publishing work that has used resources (datasets or tools) from the CARDAT platform, please include an acknowledgement statement such as: 
 

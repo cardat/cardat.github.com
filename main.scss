@@ -5,10 +5,29 @@ See https://quarto.org/docs/output-formats/html-themes.html#sass-variables
 
 /*-- scss:defaults --*/
 // Base document colors
-$body-bg: #FEFCF2;
-$body-color: #7c2a83;
-$link-color: #75AADB;
+$body-bg: #FEFEF2;
+$body-color: #4c0a53;
+$link-color: #6c2a83;
+//$input-bg:
+//$popover-bg:
 
+// Font size
+//$font-size-root:
+//$toc-font-size:
+
+//$h1-font-size
+//$h2-font-size
+//$h3-font-size
 
 // Code blocks
 $code-block-bg-alpha: -.9;
+
+
+// TOC properties
+//$toc-color:
+//$toc-font-size:
+//$toc-active-border: 
+//$toc-inactive-border:
+
+// Navbar
+$navbar-bg: #4c0a53;

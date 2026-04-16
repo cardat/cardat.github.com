@@ -2,6 +2,8 @@
 title: "Technical guide"
 ---
 
+{{< include /_common.qmd >}}
+
 ## Cloud CARDAT data transfer
 
 ### *via* rclone

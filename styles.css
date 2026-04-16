@@ -2,3 +2,9 @@
 a.nav-link.active span.menu-text {
   font-weight: bolder;
 }
+
+/* show submenu on navbar on hover */
+ul.navbar-nav li.dropdown:hover > ul {
+  display: block;
+  position: absolute;
+}
