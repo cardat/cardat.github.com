@@ -5,15 +5,19 @@ project:
     - "*.qmd"
 
 website:
+  # announcement:
+  #   icon: info-circle-fill
+  #   dismissable: false # true or false
+  #   content: "**Due to staff absence, response to enquiries may be delayed. Expected return in Jan 2027.**"
+  #   type: warning # primary, secondary, success, danger, warning, info, light, dark
+  #   position: below-navbar # below-navbar or above-navbar
+  
   title: "CARDAT platform"
   margin-header: |
-    ::: {layout-nrow=2 }
-    
     [![](/images/centre-safe-air-logo.svg){width=125 fig-align="center"}][csa-home]
     
     [![](/images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){width=200 fig-align="center"}][whocc-home]
     
-    :::
   navbar:
     search: true
     left:
@@ -49,18 +53,24 @@ website:
         - section: "Data"
           contents: 
             - placeholder.qmd
+            # - napmd.qmd
+            # - bushfire_smoke_v1_3.qmd
+            # - aihw_mortality.qmd ?
         - text: "----"
         - section: "Tools"
           contents: 
             - placeholder.qmd
+            - workflow-hia.qmd # https://github.com/cardat/air-health-sws-r-targets
     - id: projects
       title: "Projects"
       contents: 
         - projects/airhealth.qmd
-        - placeholder.qmd
+        # - projects/apmma.qmd ?
         
 format:
   html:
+    include-in-header:
+      - file: header.html # link font Roboto
     embed-resources: true
     theme:
       # - cosmo

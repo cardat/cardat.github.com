@@ -18,4 +18,12 @@ CARDAT is overseen by the [Centre for Safe Air][csa-home] (CSA) and [WHO Collabo
 
 ### Funding and support
 
-CARDAT is funded by the Centre for Safe Air, an NHMRC Centre of Research Excellence, and the WHO Collaborating Centre for Climate Change and Health Impact Assessment (WHOCC-CCHIA).
+::: {layout-ncol=2}
+
+[![](/images/centre-safe-air-logo.svg){width=250 fig-align="center"}][csa-home]
+
+[![](/images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){width=350 fig-align="center"}][whocc-home]
+
+:::
+
+CARDAT is currently funded and overseen by the [Centre for Safe Air][csa-home] and [WHO Collaborating Centre for Climate Change and Health Impact Assessment][whocc-home]. 

@@ -1,21 +1,21 @@
 ---
 title: "Infrastructure"
+aliases: 
+    - "/infrastructure.html"
 ---
 
 {{< include /_common.qmd >}}
 
-The online data storage and analysis platform has been designed for use of Centre for Safe Air 
-members and affiliated researchers by nomination.
-
 ![](../images/about/CARDAT_infrastructure_overview_v2.png){fig-alt="CARDAT infrastructure overview"}
 
-As per the above diagram, there are three aspects of this system:
+
+The online data storage and analysis platform has been designed for use of Centre for Safe Air members and affiliated researchers by nomination. Access to these systems is administered through the [CARDAT Data management team][cardat-mail].
+
+As per the above diagram, there are four aspects of this system:
 
 - a cloud based data storage system [Cloud CARDAT][cardat-data-repo]
 - a catalogue of available datasets [CAR Data Inventory](data_inventory/index.html)
 - an online data analysis platform [CoESRA](https://coesra.tern.org.au/)
 - [GitHub repository][cardat-gh] of workflows and tools
 
-<!-- An overview of the CARDAT IT infrastructure can be seen in the [attached](files/IT_infrastructure_overview.pdf) overview document. -->
 
-Access to these systems is administered through the [CARDAT Data management team][cardat-mail].
