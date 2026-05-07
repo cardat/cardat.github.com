@@ -31,8 +31,8 @@ website:
           href: index.qmd
         - sidebar:about
         - sidebar:using-cardat
-        - sidebar:data-tools
-        - sidebar:projects
+        - href: data_and_tools/index.qmd
+        - href: projects/index.qmd
         - text: "Contact us"
           href: mailto:car.data@curtin.edu.au
    
@@ -45,34 +45,19 @@ website:
     - id: using-cardat
       title: "Using CARDAT"
       contents: 
-        - using_cardat/citation_and_acknowledgement.qmd
+        - using_cardat/index.qmd
         - using_cardat/data_access_request_form.qmd
         - text: "Data Inventory"
           href: /data_inventory/index.html
         - using_cardat/user_guide.qmd
-        # - user_guide/data_science.qmd
-    - id: data-tools
-      title: "Data and Tools"
-      contents: 
-        - text: "Overview"
-          href: data/index.qmd
-        - section: "Data"
-          contents: 
-            - placeholder.qmd
-            # - napmd.qmd
-            # - bushfire_smoke_v1_3.qmd
-            # - aihw_mortality.qmd ?
-        - text: "----"
-        - section: "Tools"
-          contents: 
-            - placeholder.qmd
-            - workflow-hia.qmd # https://github.com/cardat/air-health-sws-r-targets
-    - id: projects
-      title: "Projects"
-      contents: 
-        - projects/airhealth.qmd
-        # - projects/apmma.qmd ?
-        
+    # - id: data-tools
+    #   title: "Data and Tools"
+    #   contents: 
+    #     - data_and_tools/index.qmd
+    # - id: projects
+    #   title: "Projects"
+    #   contents: 
+    #     - projects/index.qmd
 format:
   html:
     include-in-header:

@@ -1,8 +1,0 @@
----
-title: "A Beautiful Placeholder"
----
-
-{{< include /_common.qmd >}}
-
-*I'm a placeholder!*
-french poodle

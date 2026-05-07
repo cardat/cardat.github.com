@@ -10,7 +10,7 @@ CARDAT is overseen by the [Centre for Safe Air][csa-home] (CSA) and [WHO Collabo
 
 ### Key areas
 
-**Data sharing**: The CARDAT data repository, which contains datasets from a variety of sources (commercial, governmental, academic). This is coupled with the CARDAT data inventory, which documents datasets in the repository and existence of other datasets with relevance to our key focus areas.
+**Data sharing**: The CARDAT data repository, which contains datasets from a variety of sources (commercial, government, academic). This is coupled with the CARDAT data inventory, which holds metadata of CARDAT repository datasets as well as datasets of interest from other repositories or portals.
 
 **Data tools and workflows**: CARDAT maintains a code repository to aid reproducible research and development of new workflows.
 
@@ -33,4 +33,4 @@ The development of CARDAT infrastructure and its resources has previously receiv
 - Centre for Air pollution, energy and health Research (CAR), an NHMRC Centre of Research Excellence and predecessor of the Centre for Safe Air
 - Australian Research Data Commons (ARDC) [*Integrated National Air Pollution and Health Data*](https://doi.org/10.47486/PS022) project 
 
-We thank the past and on-going contributors of data and tools to the platform, as well as the [Terrestrial Ecosystem Research Network](https://www.tern.org.au/) (TERN), which provides key infrastructure support.
+We thank the past and on-going contributors of data and tools to the platform, as well as the [Terrestrial Ecosystem Research Network][tern-home] (TERN), which provides key infrastructure support.

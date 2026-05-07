@@ -8,3 +8,19 @@ ul.navbar-nav li.dropdown:hover > ul {
   display: block;
   position: absolute;
 }
+
+.index-menu-card {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    border: 10px double #094b92;
+    justify-content: center !important; /* override default */
+    
+    p {
+        text-align: center;
+        font-size: 1.5rem;
+        font-variant: small-caps;
+    }
+}
