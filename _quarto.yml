@@ -45,11 +45,11 @@ website:
     - id: using-cardat
       title: "Using CARDAT"
       contents: 
-        - user_guide/citation_and_acknowledgement.qmd
-        - user_guide/data_access_request_form.qmd
+        - using_cardat/citation_and_acknowledgement.qmd
+        - using_cardat/data_access_request_form.qmd
         - text: "Data Inventory"
           href: /data_inventory/index.html
-        - user_guide/technical_guide.qmd
+        - using_cardat/user_guide.qmd
         # - user_guide/data_science.qmd
     - id: data-tools
       title: "Data and Tools"

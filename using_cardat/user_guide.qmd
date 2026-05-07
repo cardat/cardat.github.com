@@ -1,5 +1,5 @@
 ---
-title: "Technical guide"
+title: "User guide"
 ---
 
 {{< include /_common.qmd >}}
