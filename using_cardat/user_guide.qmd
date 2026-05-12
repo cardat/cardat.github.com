@@ -1,0 +1,51 @@
+---
+title: "User guide"
+---
+
+{{< include /_common.qmd >}}
+
+## Cloud CARDAT
+
+Cloud CARDAT may be accessed through the [web interface][cardat-data-repo]. Instructions for accessing data *via* NextCloud Desktop Client or rclone command-line software are provided below. Alternatives are detailed in the [NextCloud documentation](https://docs.nextcloud.com/server/stable/user_manual/en/files/access_webdav.html).
+
+### *via* NextCloud Desktop Client
+
+1. Download the NextCloud Desktop Client for Windows, MacOS and Linux from <https://nextcloud.com/install/>.
+2. Install the downloaded setup application, reboot if needed.
+3. Launch NextCloud desktop.
+4. When prompted for the Nextcloud account, select "Log in" option.
+5. When prompted for the Server address, enter `https://cloud.car-dat.org/` and press Enter.
+6. A browser window will open prompting you to log in to Cloud CARDAT with your credentials - log in then press "Grant access".
+7. Set your local synced folder by accessing `Settings > [Your Account]` and pressing "Add Folder Sync Connection" in the NextCloud app.
+8. Set the remote synced folder (on Cloud CARDAT) when prompted.
+9. Tick the "Use virtual files instead..." checkbox - this will act like Microsoft OneDrive and show you the folders and files available to you while only downloading files to your machine when you attempt to open them.
+    - The alternative (unchecked) will require you to select the subfolders to sync and all selected folders and files will be downloaded to your local machine.
+
+### *via* *rclone*
+
+Cloud CARDAT may be accessed *via* the WebDAV protocol. [*rclone*](https://rclone.org/) is a command-line tool that allows you to connect to Cloud CARDAT with the WebDAV protocol and perform various operations such as syncing, copying, and moving files.
+
+This guide will demonstrate how to connect to Cloud CARDAT using *rclone*.
+
+1. Install *rclone* by going to the [*rclone* Downloads](https://rclone.org/downloads/) page and download the appropriate executable (typically "Intel/AMD - 64 Bit" for your operating system - Windows, MacOS or Linux)
+    - Alternative for MacOS: run the command `brew install rclone` in Terminal
+    - Alternative for Linux: run the command `sudo apt-get install rclone` in Terminal
+2. Generate the required info and login from Cloud CARDAT - access the Cloud CARDAT web interface in your browser.
+    - Find your WebDAV URL under the `Files` tab, `Files settings` in the left sidebar, under WebDAV
+    - Create an app password by going to your `Personal settings` (under your profile icon menu in the top-right), `Security` section and `Create new app password` button
+        + Note you will not be able to see the login name and password for your app once you close the prompt, do not close this before configuring rclone successfully
+        + This is a separate password to your main login
+3. Configure Rclone by running `rclone config` in Terminal or Command Prompt
+4. Follow the prompts to configure *rclone*
+    - **name** Provide a name to identify this source such as "cardat"
+    - **Storage** "webdav"
+    - **url** copy your WebDAV URL from Cloud CARDAT
+    - **vendor** "Nextcloud
+    - **user** your newly created app password "Login" field
+    - **password** enter 'y' to type in your own password, then copy your newly created app password "Password" field
+    - Leave the bearer token empty and do not edit advanced config
+    
+After exiting the config, try listing the available directories with `rclone lsd [name]`.
+
+
+

@@ -1,0 +1,48 @@
+<!-- Reference links -->
+
+<!-- CARDAT -->
+[cardat-home]: http://cardat.github.io/
+[cardat-mail]: mailto:car.data@curtin.edu.au
+[cardat-gh]: https://github.com/cardat/
+[cardat-data-repo]: https://cloud.car-dat.org/
+[cardat-data-inventory]: /data_inventory/index.html
+
+<!-- CARDAT repos -->
+[gh-napmdtools]: https://github.com/cardat/napmdtools
+[gh-pages-napmdtools]: https://cardat.github.io/napmdtools/
+[gh-cardatdbtools]: https://github.com/cardat/cardatdbtools
+[gh-bushfire_pm25_v1_3_tools]: https://github.com/cardat/bushfire_pm25_v1_3_tools
+[gh-pages-bushfire_pm25_v1_3_tools]: https://cardat.github.io/bushfire_pm25_v1_3_tools/
+[gh-airhealth-targets-sws]: https://github.com/cardat/air-health-sws-r-targets
+
+<!-- CARDAT data DOIs -->
+[doi-aihw-mortality]: https://doi.org/10.17605/OSF.IO/GZM5F
+[doi-napmd]: https://doi.org/10.17605/OSF.IO/JXD98
+[doi-bushfire-v1-3-2001-2020]: https://doi.org/10.17605/OSF.IO/WQK4T
+[doi-bushfire-v1-3-2020-2023]: https://doi.org/10.17605/OSF.IO/47C6B
+
+
+<!-- Other key organisations -->
+[whocc-home]: https://research.curtin.edu.au/whocc-cchia/
+[csa-home]: https://safeair.org.au/
+[heal-home]: https://healnetwork.org.au/
+[ardc-home]: https://ardc.edu.au/
+[tern-home]: https://www.tern.org.au/
+[coesra-home]: https://coesra.tern.org.au/
+
+
+<!-- internal sections -->
+<!-- Data -->
+[section-data-napmd]: /data_and_tools/index.qmd#sec-data-napmd
+[section-data-aihw-mortality]: /data_and_tools/index.qmd#sec-data-aihw-mortality
+[section-data-bushfire-v1-3]: /data_and_tools/index.qmd#sec-data-bushfire-v1-3
+<!-- Tools -->
+[section-tools-napmdtools]: /data_and_tools/index.qmd#sec-tools-napmdtools
+[section-tools-targets-sws]: /data_and_tools/index.qmd#sec-tools-targets-sws
+<!-- Projects -->
+[section-project-airhealth-bridges]: /projects/index.qmd#sec-project-airhealth-bridges
+[section-project-airhealth-sws]: /projects/index.qmd#sec-project-airhealth-Sws
+[section-project-bushfire-smoke]: /projects/index.qmd#sec-project-bushfire-smoke
+[section-project-apmma]: /projects/index.qmd#sec-project-apmma
+
+[section-data-inventory]: /data_inventory/index.html

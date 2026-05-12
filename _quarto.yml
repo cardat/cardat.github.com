@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: docs # for GitHub pages
+  render:
+    - "*.qmd"
+
+website:
+  ## ANNOUNCEMENT BAR (shows on all pages)
+  # announcement:
+  #   icon: info-circle-fill
+  #   dismissable: false # true or false
+  #   content: "**Due to staff absence, response to enquiries may be delayed. Expected return in Jan 2027.**"
+  #   type: warning # primary, secondary, success, danger, warning, info, light, dark
+  #   position: below-navbar # below-navbar or above-navbar
+  
+  title: "**CARDAT**"
+  page-footer: 
+    border: true
+    left: "Clean Air and health Research Data and Analysis Technology platform" 
+    right: 
+      - text: '![](/images/centre-safe-air-logo.svg){height=5em margin-bottom=0 fig-align="center"}'
+        href: https://safeair.org.au
+      - text: '![](/images/5683HS_WHOCC_Brand_Linked_logo_Master.jpg){height=5em margin-bottom=0 fig-align="center"}'
+        href: https://research.curtin.edu.au/whocc-cchia/
+    
+  # top navbar, linked to sidebars
+  navbar:
+    search: true
+    right:
+        - text: "Home"
+          href: index.qmd
+        - sidebar:about
+        - sidebar:using-cardat
+        - href: data_and_tools/index.qmd
+        - href: projects/index.qmd
+        - text: "Contact us"
+          href: mailto:car.data@curtin.edu.au
+   
+  sidebar:
+    - id: about
+      title: "About"
+      contents:
+        - about/index.qmd
+        - about/infrastructure.qmd
+    - id: using-cardat
+      title: "Using CARDAT"
+      contents: 
+        - using_cardat/index.qmd
+        - using_cardat/data_access_request_form.qmd
+        - text: "Data Inventory"
+          href: /data_inventory/index.html
+        - using_cardat/user_guide.qmd
+    # - id: data-tools
+    #   title: "Data and Tools"
+    #   contents: 
+    #     - data_and_tools/index.qmd
+    # - id: projects
+    #   title: "Projects"
+    #   contents: 
+    #     - projects/index.qmd
+format:
+  html:
+    include-in-header:
+      - file: header.html # link font Roboto
+    embed-resources: true
+    theme:
+      - main.scss
+    css: styles.css
+    toc: true

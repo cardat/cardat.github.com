@@ -1,0 +1,24 @@
+---
+title: "CARDAT Data Access Request Form"
+aliases:
+  - "/data_access_request_form.html"
+  
+toc: false
+---
+
+{{< include /_common.qmd >}}
+
+Please ensure when submitting the data access request form that you:
+
+- Include key members of your project team, for example:
+    + project lead
+    + supervisor(s), if a student
+    + data analysts or curators who will also be handling the data
+- Provide a reasonably detailed description of your project, including:
+    + Spatial and temporal extent and resolution
+    + Key datasets you will be using
+    + Specific outcomes
+
+```{=html}
+<iframe width="1280px" height="720px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=1wx0WmhXCU2uE_cGsJ-iLKarouT28ClKqh3UKowV08dURDZHRlVOU09FV0g3S1UwNDlTUTRQWUNQUC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen data-external="1"> </iframe>
+```

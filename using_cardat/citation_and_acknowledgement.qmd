@@ -1,0 +1,16 @@
+---
+title: "Citation and Acknowledgement"
+aliases: 
+    - "/acknowledgements.html"
+---
+
+{{< include /_common.qmd >}}
+
+Please ensure your usage falls within the bounds of the relevant licence and conditions of use set by the data owner.
+
+When publishing work that has used resources (datasets or tools) from the CARDAT platform, please include an acknowledgement statement such as: 
+
+>This research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (https://cardat.github.io). CARDAT is supported by The Centre for Safe Air (https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment.
+
+Also cite the specific dataset and/or software used in your work - check the dataset/software metadata page for a recommended citation.
+

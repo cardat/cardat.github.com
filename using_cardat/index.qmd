@@ -1,0 +1,30 @@
+---
+title: "Overview"
+aliases: 
+    - "/acknowledgements.html"
+---
+
+{{< include /_common.qmd >}}
+
+## Data repository
+
+CARDAT holds data at varying levels of restriction and access, ranging from publicly available, Creative Commons-licensed datasets to commercial datasets restricted to named users.
+
+Data is broadly divided into three categories:
+
+- **Environment General**: CARDAT datasets that do not require particular permission from the data owner for access and is open to all Centre for Safe Air (CSA) members. Those outside of CSA may be granted access if nominated by a Chief or Associate Investigator.
+- **Restricted datasets**: CARDAT datasets that cannot be widely shared due to licence conditions. Generally permission must be given on a case-by-case basis. Other requirements may be set by the data owner.
+- **Public datasets**: CARDAT datasets, including the National Air Pollution Monitor Database (NAPMD), that are open to academics and students for legitimate non-commercial research purposes.
+
+Access requests may be submitted through the [Data Access Request Form](/using_cardat/data_access_request_form.qmd).
+
+## Citation and acknowledgement {#sec-citation-and-acknowledgement}
+
+Please ensure your usage of CARDAT datasets or software falls within the bounds of the associated licence and conditions of use set by the data owner.
+
+When publishing work that has used resources (datasets or tools) from the CARDAT platform, please include an acknowledgement statement such as: 
+
+>This research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (<https://cardat.github.io>). CARDAT is supported by The Centre for Safe Air (<https://safeair.org.au/>), which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (<https://doi.org/10.47486/PS022>), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment.
+
+Also cite the specific dataset and/or software used in your work - check the dataset/software metadata or documentation for a recommended citation.
+
