@@ -1,0 +1,152 @@
+[
+  {
+    "objectID": "using_cardat/user_guide.html",
+    "href": "using_cardat/user_guide.html",
+    "title": "User guide",
+    "section": "",
+    "text": "Cloud CARDAT may be accessed through the web interface. Instructions for accessing data via NextCloud Desktop Client or rclone command-line software are provided below. Alternatives are detailed in the NextCloud documentation.\n\n\n\nDownload the NextCloud Desktop Client for Windows, MacOS and Linux from https://nextcloud.com/install/.\nInstall the downloaded setup application, reboot if needed.\nLaunch NextCloud desktop.\nWhen prompted for the Nextcloud account, select “Log in” option.\nWhen prompted for the Server address, enter https://cloud.car-dat.org/ and press Enter.\nA browser window will open prompting you to log in to Cloud CARDAT with your credentials - log in then press “Grant access”.\nSet your local synced folder by accessing Settings &gt; [Your Account] and pressing “Add Folder Sync Connection” in the NextCloud app.\nSet the remote synced folder (on Cloud CARDAT) when prompted.\nTick the “Use virtual files instead…” checkbox - this will act like Microsoft OneDrive and show you the folders and files available to you while only downloading files to your machine when you attempt to open them.\n\nThe alternative (unchecked) will require you to select the subfolders to sync and all selected folders and files will be downloaded to your local machine.\n\n\n\n\n\nCloud CARDAT may be accessed via the WebDAV protocol. rclone is a command-line tool that allows you to connect to Cloud CARDAT with the WebDAV protocol and perform various operations such as syncing, copying, and moving files.\nThis guide will demonstrate how to connect to Cloud CARDAT using rclone.\n\nInstall rclone by going to the rclone Downloads page and download the appropriate executable (typically “Intel/AMD - 64 Bit” for your operating system - Windows, MacOS or Linux)\n\nAlternative for MacOS: run the command brew install rclone in Terminal\nAlternative for Linux: run the command sudo apt-get install rclone in Terminal\n\nGenerate the required info and login from Cloud CARDAT - access the Cloud CARDAT web interface in your browser.\n\nFind your WebDAV URL under the Files tab, Files settings in the left sidebar, under WebDAV\nCreate an app password by going to your Personal settings (under your profile icon menu in the top-right), Security section and Create new app password button\n\nNote you will not be able to see the login name and password for your app once you close the prompt, do not close this before configuring rclone successfully\nThis is a separate password to your main login\n\n\nConfigure Rclone by running rclone config in Terminal or Command Prompt\nFollow the prompts to configure rclone\n\nname Provide a name to identify this source such as “cardat”\nStorage “webdav”\nurl copy your WebDAV URL from Cloud CARDAT\nvendor “Nextcloud\nuser your newly created app password “Login” field\npassword enter ‘y’ to type in your own password, then copy your newly created app password “Password” field\nLeave the bearer token empty and do not edit advanced config\n\n\nAfter exiting the config, try listing the available directories with rclone lsd [name].",
+    "crumbs": [
+      "User guide"
+    ]
+  },
+  {
+    "objectID": "using_cardat/user_guide.html#cloud-cardat",
+    "href": "using_cardat/user_guide.html#cloud-cardat",
+    "title": "User guide",
+    "section": "",
+    "text": "Cloud CARDAT may be accessed through the web interface. Instructions for accessing data via NextCloud Desktop Client or rclone command-line software are provided below. Alternatives are detailed in the NextCloud documentation.\n\n\n\nDownload the NextCloud Desktop Client for Windows, MacOS and Linux from https://nextcloud.com/install/.\nInstall the downloaded setup application, reboot if needed.\nLaunch NextCloud desktop.\nWhen prompted for the Nextcloud account, select “Log in” option.\nWhen prompted for the Server address, enter https://cloud.car-dat.org/ and press Enter.\nA browser window will open prompting you to log in to Cloud CARDAT with your credentials - log in then press “Grant access”.\nSet your local synced folder by accessing Settings &gt; [Your Account] and pressing “Add Folder Sync Connection” in the NextCloud app.\nSet the remote synced folder (on Cloud CARDAT) when prompted.\nTick the “Use virtual files instead…” checkbox - this will act like Microsoft OneDrive and show you the folders and files available to you while only downloading files to your machine when you attempt to open them.\n\nThe alternative (unchecked) will require you to select the subfolders to sync and all selected folders and files will be downloaded to your local machine.\n\n\n\n\n\nCloud CARDAT may be accessed via the WebDAV protocol. rclone is a command-line tool that allows you to connect to Cloud CARDAT with the WebDAV protocol and perform various operations such as syncing, copying, and moving files.\nThis guide will demonstrate how to connect to Cloud CARDAT using rclone.\n\nInstall rclone by going to the rclone Downloads page and download the appropriate executable (typically “Intel/AMD - 64 Bit” for your operating system - Windows, MacOS or Linux)\n\nAlternative for MacOS: run the command brew install rclone in Terminal\nAlternative for Linux: run the command sudo apt-get install rclone in Terminal\n\nGenerate the required info and login from Cloud CARDAT - access the Cloud CARDAT web interface in your browser.\n\nFind your WebDAV URL under the Files tab, Files settings in the left sidebar, under WebDAV\nCreate an app password by going to your Personal settings (under your profile icon menu in the top-right), Security section and Create new app password button\n\nNote you will not be able to see the login name and password for your app once you close the prompt, do not close this before configuring rclone successfully\nThis is a separate password to your main login\n\n\nConfigure Rclone by running rclone config in Terminal or Command Prompt\nFollow the prompts to configure rclone\n\nname Provide a name to identify this source such as “cardat”\nStorage “webdav”\nurl copy your WebDAV URL from Cloud CARDAT\nvendor “Nextcloud\nuser your newly created app password “Login” field\npassword enter ‘y’ to type in your own password, then copy your newly created app password “Password” field\nLeave the bearer token empty and do not edit advanced config\n\n\nAfter exiting the config, try listing the available directories with rclone lsd [name].",
+    "crumbs": [
+      "User guide"
+    ]
+  },
+  {
+    "objectID": "using_cardat/data_access_request_form.html",
+    "href": "using_cardat/data_access_request_form.html",
+    "title": "CARDAT Data Access Request Form",
+    "section": "",
+    "text": "Please ensure when submitting the data access request form that you:\n\nInclude key members of your project team, for example:\n\nproject lead\nsupervisor(s), if a student\ndata analysts or curators who will also be handling the data\n\nProvide a reasonably detailed description of your project, including:\n\nSpatial and temporal extent and resolution\nKey datasets you will be using\nSpecific outcomes",
+    "crumbs": [
+      "CARDAT Data Access Request Form"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The AirHealth Data Bridges project, “Integrated National Air Pollution and Health Data” (https://doi.org/10.47486/PS022), ran from 2021 to 2023, with the aim to expand CARDAT datasets and tools. This project received co-investment support from the Australian Research Data Commons (ARDC).\nThe AirHealth Data Bridges project built a new Integrated National Air Pollution and Health Data platform within the existing CARDAT platform. The data platform extends on the successful collaborations between Australian academics involved in the Centre for Air pollution, energy and health Research (CAR), its successor, the Centre for Safe Air), and the Healthy Environments And Lives (HEAL) National Research Network, all of which received funding from the National Health and Medical Research Council (NHMRC).\nProject partners included Curtin University, the NSW Department of Planning and Environment, EPA Victoria, the Australian Institute of Health and Welfare, Monash University, the University of Queensland and the University of Sydney.\nRead more about this project at https://cardat.github.io/air-health-data-bridges/.\nThis project contributed to the development and maintenance of the National Air Pollution Monitoring Database, acquisition of AIHW Mortality data, as well as the infrastructure behind the Bushfire Smoke Exposures."
+  },
+  {
+    "objectID": "projects/index.html#project-airhealth-bridges",
+    "href": "projects/index.html#project-airhealth-bridges",
+    "title": "Projects",
+    "section": "",
+    "text": "The AirHealth Data Bridges project, “Integrated National Air Pollution and Health Data” (https://doi.org/10.47486/PS022), ran from 2021 to 2023, with the aim to expand CARDAT datasets and tools. This project received co-investment support from the Australian Research Data Commons (ARDC).\nThe AirHealth Data Bridges project built a new Integrated National Air Pollution and Health Data platform within the existing CARDAT platform. The data platform extends on the successful collaborations between Australian academics involved in the Centre for Air pollution, energy and health Research (CAR), its successor, the Centre for Safe Air), and the Healthy Environments And Lives (HEAL) National Research Network, all of which received funding from the National Health and Medical Research Council (NHMRC).\nProject partners included Curtin University, the NSW Department of Planning and Environment, EPA Victoria, the Australian Institute of Health and Welfare, Monash University, the University of Queensland and the University of Sydney.\nRead more about this project at https://cardat.github.io/air-health-data-bridges/.\nThis project contributed to the development and maintenance of the National Air Pollution Monitoring Database, acquisition of AIHW Mortality data, as well as the infrastructure behind the Bushfire Smoke Exposures."
+  },
+  {
+    "objectID": "projects/index.html#sec-project-airhealth-sws",
+    "href": "projects/index.html#sec-project-airhealth-sws",
+    "title": "Projects",
+    "section": "Air-Health Scientific Workflow System project",
+    "text": "Air-Health Scientific Workflow System project\nThe “Air-Health Scientific Workflow System” project (https://doi.org/10.47486/PL059) ran from 2021 to 2022, developing workflows to support epidemiological research through the merging of environmental and health datasets. This project received co-investment support from the Australian Research Data Commons (ARDC).\nProject partners included Curtin University, the NSW Department of Planning and Environment, EPA Victoria, the Australian Institute of Health and Welfare, Monash University, the University of Queensland and the University of Sydney.\nThis project developed a health impact assessment case study workflow available on GitHub and enhanced accessibility of the National Air Pollution Monitoring Database with the napmdtools package."
+  },
+  {
+    "objectID": "projects/index.html#sec-project-bushfire-smoke",
+    "href": "projects/index.html#sec-project-bushfire-smoke",
+    "title": "Projects",
+    "section": "Bushfire Smoke Exposures",
+    "text": "Bushfire Smoke Exposures\nThe “Assessing the Impact of Bushfire Smoke on Health” project (https://doi.org/10.47486/DC008), or Bushfire Smoke PM Exposures project, was part of the ARDC Bushfire Data Challenges program, running from 2022 to 2023.\nThis project supported the modelling and estimation of PM2.5 concentrations on a 5km grid covering Australia for 2001 to 2020 (subsequently extended to 2023), with additional identification of probable bushfire-affected days. CARDAT contributed data science support through data acquisition and preparation, and workflow development."
+  },
+  {
+    "objectID": "projects/index.html#sec-project-apmma",
+    "href": "projects/index.html#sec-project-apmma",
+    "title": "Projects",
+    "section": "APMMA",
+    "text": "APMMA\nThe “Air pollution and mortality and morbidity in adult Australians (APMMA) Study” was a NHMRC-funded project (GNT1142222), developing air pollution models for the Greater Sydney Metropolitan region and New South Wales on the observations from low-cost sensors and government-deployed monitors. The modelled pollutant concentrations (PM2.5, PM10, NO2, O3, PM2.5 absorbance and selected elemental components) were then made available for a series of epidemiological studies.\nThis project was supported with data science contributions from CARDAT through data preparation, modelling and workflow development."
+  },
+  {
+    "objectID": "data_and_tools/index.html",
+    "href": "data_and_tools/index.html",
+    "title": "CARDAT Data and Tools",
+    "section": "",
+    "text": "Browse the full data inventory."
+  },
+  {
+    "objectID": "data_and_tools/index.html#key-datasets",
+    "href": "data_and_tools/index.html#key-datasets",
+    "title": "CARDAT Data and Tools",
+    "section": "Key datasets",
+    "text": "Key datasets\n\nNational Air Pollution Monitoring Database\nThe National Air Pollution Monitoring Database is a collation of data in standardised format from air pollution monitors deployed by the state and territory governments of Australia. A full description of the coverage, access conditions and user guides can be found on the CARDAT GitHub.\n\n\nTotal and Bushfire-specific PM2.5\nThe Total and Bushfire-specific PM2.5 is a modelled surface of PM2.5 concentrations across Australia on a 5km grid. Estimates cover years 2001 to 2020 in the initial release with an additional update covering 2020 to 2023. A full description of the datasets, data sharing policy and user guide can be found on the CARDAT GitHub.\n\n\nAIHW Disaggregated Mortality\nThe AIHW_Summarised_cause_of_death_2000_2019_disaggregated_version_2 dataset contains a series of cause of death mortality counts for selected ABS spatial units. Causes of death include all-cause, respiratory, cardiovascular and renal diseases. Access is restricted. Further information may be found in the CARDAT data inventory."
+  },
+  {
+    "objectID": "data_and_tools/index.html#tools",
+    "href": "data_and_tools/index.html#tools",
+    "title": "CARDAT Data and Tools",
+    "section": "Tools",
+    "text": "Tools\n\nnapmdtools\nThis R package is a helper for users of the NAPMD to retrieve data through the NAPMD API. This package is stored in the CARDAT GitHub repository along with instructions for installation and use.\n\n\nair-health-targets-sws\nThe air-health-targets-sws workflow is a health impact assessment case study stored on the GitHub Repository. The workflow is designed to be run with publicly available data but can be easily adapted to other data sources for exposure and health inputs."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About CARDAT",
+    "section": "",
+    "text": "The Clean Air and health Research Data and Analysis Technology (CARDAT) platform is a collection of IT infrastructure that enables easy data sharing and reuse, and supports reproducible data analysis. This online research platform collates a wide array of population, health and environmental datasets alongside a collection of analysis tools and methodology resources.\nCARDAT is overseen by the Centre for Safe Air (CSA) and WHO Collaborating Centre for Climate Change and Health Impact Assessment (WHOCC-CCHIA). Its mission is to provide data, methods and tools to support research and analysis in the fields of air pollution, energy and health.\n\nKey areas\nData sharing: The CARDAT data repository, which contains datasets from a variety of sources (commercial, government, academic). This is coupled with the CARDAT data inventory, which holds metadata of CARDAT repository datasets as well as datasets of interest from other repositories or portals.\nData tools and workflows: CARDAT maintains a code repository to aid reproducible research and development of new workflows.\nData science support: CARDAT provides data science support to the Centre for Safe Air and WHO Collaborating Centre for Climate Change and Health Impact Assessment projects. Additionally, CARDAT supports training events with creation of training materials, workflows and tutorials.\n\n\nFunding and support\nCARDAT is currently funded and overseen by the Centre for Safe Air, an NHMRC Centre of Research Excellence (APP ID 2015584), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment, located at Curtin University, Perth, Australia.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe development of CARDAT infrastructure and its resources has previously received support from the Centre for Air pollution, energy and health Research (CAR), an NHMRC Centre of Research Excellence and predecessor of the Centre for Safe Air. Further enhancements were made possible through the funding of various projects.\nWe thank the past and on-going contributors of data and tools to the platform, as well as the Terrestrial Ecosystem Research Network (TERN), which provides key infrastructure support.",
+    "crumbs": [
+      "About CARDAT"
+    ]
+  },
+  {
+    "objectID": "about/infrastructure.html",
+    "href": "about/infrastructure.html",
+    "title": "Infrastructure",
+    "section": "",
+    "text": "CARDAT maintains a collection of infrastructure assets to support air quality and health research. Where possible, data and software adheres to the FAIR principles - Findable, Accessible, Interoperable and Reusable. Data and software are shared through the following systems:\n\nCloud CARDAT, a cloud-based data storage system\nPostGIS_CAR, a PostgreSQL database with PostGIS extension storing a subset of geospatial data\nCARDAT GitHub repository, a collection of software, such as code tools, R packages, and scientific workflows, plus documentation through GitHub pages\nCoESRA platform, a cloud-based virtual desktop service provided by TERN, which holds a subset of the CARDAT repository and provides a space for researchers to perform data analyses.\n\nThe data and software assets held by CARDAT are catalogued in the CARDAT Data Inventory, in addition to potential datasets and tools of interest held elsewhere.",
+    "crumbs": [
+      "Infrastructure"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clean Air and health Research Data and Analysis Technology platform",
+    "section": "",
+    "text": "Welcome to the Clean Air and health Research Data and Analysis Technology (CARDAT) platform.\nWe promote air quality and health research through data and software sharing, supporting reproducible data analysis and responsible data management practices. Our online research platform collates a wide array of population, health and environmental data alongside a collection of analysis tools and methodological resources.\n\n\n\n\n\n\n\nAbout CARDAT\n\n\nUsing CARDAT\n\n\nData sharing and science"
+  },
+  {
+    "objectID": "using_cardat/citation_and_acknowledgement.html",
+    "href": "using_cardat/citation_and_acknowledgement.html",
+    "title": "Citation and Acknowledgement",
+    "section": "",
+    "text": "Please ensure your usage falls within the bounds of the relevant licence and conditions of use set by the data owner.\nWhen publishing work that has used resources (datasets or tools) from the CARDAT platform, please include an acknowledgement statement such as:\n\nThis research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (https://cardat.github.io). CARDAT is supported by The Centre for Safe Air (https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment.\n\nAlso cite the specific dataset and/or software used in your work - check the dataset/software metadata page for a recommended citation."
+  },
+  {
+    "objectID": "using_cardat/index.html",
+    "href": "using_cardat/index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "CARDAT holds data at varying levels of restriction and access, ranging from publicly available, Creative Commons-licensed datasets to commercial datasets restricted to named users.\nData is broadly divided into three categories:\n\nEnvironment General: CARDAT datasets that do not require particular permission from the data owner for access and is open to all Centre for Safe Air (CSA) members. Those outside of CSA may be granted access if nominated by a Chief or Associate Investigator.\nRestricted datasets: CARDAT datasets that cannot be widely shared due to licence conditions. Generally permission must be given on a case-by-case basis. Other requirements may be set by the data owner.\nPublic datasets: CARDAT datasets, including the National Air Pollution Monitor Database (NAPMD), that are open to academics and students for legitimate non-commercial research purposes.\n\nAccess requests may be submitted through the Data Access Request Form.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "using_cardat/index.html#data-repository",
+    "href": "using_cardat/index.html#data-repository",
+    "title": "Overview",
+    "section": "",
+    "text": "CARDAT holds data at varying levels of restriction and access, ranging from publicly available, Creative Commons-licensed datasets to commercial datasets restricted to named users.\nData is broadly divided into three categories:\n\nEnvironment General: CARDAT datasets that do not require particular permission from the data owner for access and is open to all Centre for Safe Air (CSA) members. Those outside of CSA may be granted access if nominated by a Chief or Associate Investigator.\nRestricted datasets: CARDAT datasets that cannot be widely shared due to licence conditions. Generally permission must be given on a case-by-case basis. Other requirements may be set by the data owner.\nPublic datasets: CARDAT datasets, including the National Air Pollution Monitor Database (NAPMD), that are open to academics and students for legitimate non-commercial research purposes.\n\nAccess requests may be submitted through the Data Access Request Form.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "using_cardat/index.html#sec-citation-and-acknowledgement",
+    "href": "using_cardat/index.html#sec-citation-and-acknowledgement",
+    "title": "Overview",
+    "section": "Citation and acknowledgement",
+    "text": "Citation and acknowledgement\nPlease ensure your usage of CARDAT datasets or software falls within the bounds of the associated licence and conditions of use set by the data owner.\nWhen publishing work that has used resources (datasets or tools) from the CARDAT platform, please include an acknowledgement statement such as:\n\nThis research was undertaken with the assistance of resources from the Clean Air Research Data and Analysis Tools (CARDAT) platform (https://cardat.github.io). CARDAT is supported by The Centre for Safe Air (https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584) and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022), and the WHO Collaborating Centre for Climate Change and Health Impact Assessment.\n\nAlso cite the specific dataset and/or software used in your work - check the dataset/software metadata or documentation for a recommended citation.",
+    "crumbs": [
+      "Overview"
+    ]
+  }
+]
