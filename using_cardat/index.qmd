@@ -16,9 +16,9 @@ Data is broadly divided into three categories:
 - **Restricted datasets**: CARDAT datasets that cannot be widely shared due to licence conditions. Generally permission must be given on a case-by-case basis. Other requirements may be set by the data owner.
 - **Public datasets**: CARDAT datasets, including the National Air Pollution Monitor Database (NAPMD), that are open to academics and students for legitimate non-commercial research purposes.
 
-Access requests may be submitted through the [Data Access Request Form](./using_cardat/data_access_request_form.qmd).
+Access requests may be submitted through the [Data Access Request Form](/using_cardat/data_access_request_form.qmd).
 
-## Citation and acknowledgement
+## Citation and acknowledgement {#sec-citation-and-acknowledgement}
 
 Please ensure your usage of CARDAT datasets or software falls within the bounds of the associated licence and conditions of use set by the data owner.
 

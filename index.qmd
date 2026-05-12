@@ -22,7 +22,7 @@ We promote air quality and health research through data and software sharing, su
 
 ::: {#second-column .index-menu-card}
 
-[Using CARDAT](using_cardat/citation_and_acknowledgement.qmd)
+[Using CARDAT](using_cardat/index.qmd)
 :::
 
 ::: {#third-column .index-menu-card}

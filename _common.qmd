@@ -34,7 +34,7 @@
 <!-- internal sections -->
 <!-- Data -->
 [section-data-napmd]: /data_and_tools/index.qmd#sec-data-napmd
-[section-data-aihw-mortality]: /data_and_tools/index.qmd#sec-data-aihw_mortality
+[section-data-aihw-mortality]: /data_and_tools/index.qmd#sec-data-aihw-mortality
 [section-data-bushfire-v1-3]: /data_and_tools/index.qmd#sec-data-bushfire-v1-3
 <!-- Tools -->
 [section-tools-napmdtools]: /data_and_tools/index.qmd#sec-tools-napmdtools
