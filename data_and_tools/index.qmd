@@ -4,20 +4,28 @@ title: "CARDAT Data and Tools"
 
 {{< include /_common.qmd >}}
 
-Browse the full [data inventory](/data_inventory/index.html).
+Browse the full [data inventory][section-data-inventory].
 
 ## Key datasets
 
-### National Air Pollution Monitoring Database
+### National Air Pollution Monitoring Database {#sec-data-napmd}
 
-### Total and Bushfire-specific PM~2.5~
+The National Air Pollution Monitoring Database is a collation of data in standardised format from air pollution monitors deployed by the state and territory governments of Australia. A full description of the coverage, access conditions and user guides can be found on the [CARDAT GitHub][gh-pages-napmdtools].
 
-### AIHW disaggregated Mortality
+### Total and Bushfire-specific PM~2.5~ {#sec-data-bushfire-v1-3}
 
+The Total and Bushfire-specific PM~2.5~ is a modelled surface of PM~2.5~ concentrations across Australia on a 5km grid. Estimates cover years 2001 to 2020 in the initial release with an additional update covering 2020 to 2023. A full description of the datasets, data sharing policy and user guide can be found on the [CARDAT GitHub][gh-pages-bushfire_pm25_v1_3_tools].
+
+### AIHW Disaggregated Mortality {#sec-data-aihw-mortality}
+
+The [*AIHW_Summarised_cause_of_death_2000_2019_disaggregated_version_2*][doi-aihw-mortality] dataset contains a series of cause of death mortality counts for selected ABS spatial units. Causes of death include all-cause, respiratory, cardiovascular and renal diseases. Access is restricted. Further information may be found in the [CARDAT data inventory][section-data-inventory].
 
 ## Tools
 
-### napmdtools
+### napmdtools {#sec-tools-napmdtools}
 
-### air-health-targets-sws
+This *R* package is a helper for users of the [NAPMD][section-data-napmd] to retrieve data through the NAPMD API. This package is stored in the CARDAT [GitHub repository][gh-napmdtools] along with instructions for installation and use.
 
+### air-health-targets-sws {#sec-tools-targets-sws}
+
+The *air-health-targets-sws* workflow is a health impact assessment case study stored on the [GitHub Repository][gh-airhealth-targets-sws]. The workflow is designed to be run with publicly available data but can be easily adapted to other data sources for exposure and health inputs.

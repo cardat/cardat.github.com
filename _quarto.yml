@@ -67,6 +67,3 @@ format:
       - main.scss
     css: styles.css
     toc: true
-
-
-

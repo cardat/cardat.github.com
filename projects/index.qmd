@@ -1,0 +1,38 @@
+---
+title: "Projects"
+---
+
+{{< include /_common.qmd >}}
+
+## AirHealth Data Bridges project{#project-airhealth-bridges}
+
+The AirHealth Data Bridges project, "Integrated National Air Pollution and Health Data
+"  (<https://doi.org/10.47486/PS022>), ran from 2021 to 2023, with the aim to expand CARDAT datasets and tools. This project received co-investment support from the Australian Research Data Commons (ARDC). 
+
+The AirHealth Data Bridges project built a new Integrated National Air Pollution and Health Data platform within the existing CARDAT platform. The data platform extends on the successful collaborations between Australian academics involved in the Centre for Air pollution, energy and health Research (CAR), its successor, the [Centre for Safe Air][csa-home]), and the [Healthy Environments And Lives (HEAL)][heal-home] National Research Network, all of which received funding from the National Health and Medical Research Council (NHMRC).
+
+Project partners included Curtin University, the NSW Department of Planning and Environment, EPA Victoria, the Australian Institute of Health and Welfare, Monash University, the University of Queensland and the University of Sydney.
+
+Read more about this project at <https://cardat.github.io/air-health-data-bridges/>.
+
+This project contributed to the development and maintenance of the [National Air Pollution Monitoring Database][section-data-napmd], acquisition of [AIHW Mortality][section-data-aihw-mortality] data, as well as the infrastructure behind the [Bushfire Smoke Exposures][section-project-bushfire-smoke].
+
+## Air-Health Scientific Workflow System project {#sec-project-airhealth-sws}
+
+The "Air-Health Scientific Workflow System" project (<https://doi.org/10.47486/PL059>) ran from 2021 to 2022, developing workflows to support epidemiological research through the merging of environmental and health datasets. This project received co-investment support from the Australian Research Data Commons (ARDC).
+
+Project partners included Curtin University, the NSW Department of Planning and Environment, EPA Victoria, the Australian Institute of Health and Welfare, Monash University, the University of Queensland and the University of Sydney.
+
+This project developed a [health impact assessment case study workflow][section-tools-targets-sws] available on GitHub and enhanced accessibility of the [National Air Pollution Monitoring Database][section-data-napmd] with the [*napmdtools*][section-tools-napmdtools] package.
+
+## Bushfire Smoke Exposures {#sec-project-bushfire-smoke}
+
+The "Assessing the Impact of Bushfire Smoke on Health" project (<https://doi.org/10.47486/DC008>), or Bushfire Smoke PM Exposures project, was part of the ARDC Bushfire Data Challenges program, running from 2022 to 2023. 
+
+This project supported the modelling and estimation of [PM~2.5~ concentrations][section-data-bushfire-v1-3] on a 5km grid covering Australia for 2001 to 2020 (subsequently extended to 2023), with additional identification of probable bushfire-affected days. CARDAT contributed data science support through data acquisition and preparation, and workflow development.
+
+## APMMA {#sec-project-apmma}
+
+The "Air pollution and mortality and morbidity in adult Australians (APMMA) Study" was a NHMRC-funded project (GNT1142222), developing air pollution models for the Greater Sydney Metropolitan region and New South Wales on the observations from  low-cost sensors and government-deployed monitors. The modelled pollutant concentrations (PM~2.5~, PM~10~, NO~2~, O~3~, PM~2.5~ absorbance and selected elemental components) were then made available for a series of epidemiological studies.
+
+This project was supported with data science contributions from CARDAT through data preparation, modelling and workflow development.
