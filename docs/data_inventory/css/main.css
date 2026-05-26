@@ -12,6 +12,13 @@
 }
 
 
+/* Override default css that hides sections on search */
+/* (show all anchor tagged section in contents sidebar) */
+.with-search .summary li[data-level] a[href*=".html#"] {
+  display: list-item;
+}
+
+
 /* General allowance of text-wrapping to cope with long URL and directory path names*/
 a {
 	overflow-wrap: anywhere;
