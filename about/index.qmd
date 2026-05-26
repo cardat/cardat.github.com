@@ -8,6 +8,8 @@ The Clean Air and health Research Data and Analysis Technology (CARDAT) platform
 
 CARDAT is overseen by the [Centre for Safe Air][csa-home] (CSA) and [WHO Collaborating Centre for Climate Change and Health Impact Assessment][whocc-home] (WHOCC-CCHIA). Its mission is to provide data, methods and tools to support research and analysis in the fields of air pollution, energy and health.
 
+Our [Statement of Engagement (DOI: 10.17605/OSF.IO/S29FM)][cardat-statement-of-engagement] outlines the philosophy underpinning the continuing collaborative work of CARDAT.
+
 ### Key areas
 
 **Data sharing**: The CARDAT data repository, which contains datasets from a variety of sources (commercial, government, academic). This is coupled with the CARDAT data inventory, which holds metadata of CARDAT repository datasets as well as datasets of interest from other repositories or portals.

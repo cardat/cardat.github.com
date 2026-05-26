@@ -6,6 +6,7 @@
 [cardat-gh]: https://github.com/cardat/
 [cardat-data-repo]: https://cloud.car-dat.org/
 [cardat-data-inventory]: /data_inventory/index.html
+[cardat-statement-of-engagement]: https://doi.org/10.17605/OSF.IO/S29FM
 
 <!-- CARDAT repos -->
 [gh-napmdtools]: https://github.com/cardat/napmdtools
