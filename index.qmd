@@ -13,6 +13,7 @@ We promote air quality and health research through data and software sharing, su
 
 --- 
 
+<!-- First row of menu cards -->
 :::: {layout-ncol=3}
 
 ::: {#first-column .index-menu-card}
@@ -28,6 +29,26 @@ We promote air quality and health research through data and software sharing, su
 ::: {#third-column .index-menu-card}
 
 [Data sharing and science](data_and_tools/index.qmd)
+:::
+
+::::
+
+
+<!-- Second row of menu cards -->
+:::: {layout-ncol=3}
+
+::: {#first-column}
+
+
+:::
+
+::: {#second-column .index-menu-card}
+
+[Data inventory](/data_inventory/index.html)
+:::
+
+::: {#third-column}
+
 :::
 
 ::::
