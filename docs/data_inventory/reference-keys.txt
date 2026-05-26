@@ -16,8 +16,10 @@ abs_census_2001
 abs_census_2006
 abs_census_2011
 abs_census_2016
+abs_census_2021
 abs_energy_use_conservation_2011
 abs_erp
+abs_erp_total
 abs_gcp_2016
 abs_lga
 abs_meshblocks
@@ -26,6 +28,12 @@ abs_poa
 abs_seifa
 abs_suburbs_localities
 asgc_1981_2010
+abs_data_by_region
+abs_data_by_region_2011_2024
+abs_economy_data
+abs_cpi_202503
+abs_labour_data
+abs_labour_force_detailed_202509
 aeroallergen_concentrations_tern
 weekly_pollen_counts_campbelltown_1993_1995
 aeroallergen_concentrations_utas
