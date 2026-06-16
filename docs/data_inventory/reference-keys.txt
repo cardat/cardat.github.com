@@ -29,11 +29,11 @@ abs_seifa
 abs_suburbs_localities
 asgc_1981_2010
 abs_data_by_region
-abs_data_by_region_2011_2024
+abs_health_and_disability_2011_2022
 abs_economy_data
 abs_cpi_202503
 abs_labour_data
-abs_labour_force_detailed_202509
+abs_labour_force_detailed_202508
 aeroallergen_concentrations_tern
 weekly_pollen_counts_campbelltown_1993_1995
 aeroallergen_concentrations_utas
@@ -352,6 +352,8 @@ drought_bom_grids_1890_2008
 drought-spei-global-drought-monitor-restricted
 drought_spei_csic_global_drought_monitor_1950_2023
 resprj-drought-spei-indicator-for-tlrh-wpc-2023
+dss_hilda_survey
+dss_hilda_restricted_23
 dust_event_database
 dust_event_database_1960_2019
 ecoregions_climate_zones_bom
