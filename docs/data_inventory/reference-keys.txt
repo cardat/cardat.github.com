@@ -322,6 +322,7 @@ ctm_source_specific_bushfires_2000_2020
 ctm_ukceh
 ctm_mean_pollutants_hourly_global_2018
 ctm_ukceh_daily_global_emepwrf_run_2019_2020
+ctm_ukceh_emep_daily_o3_pm_southeast_asia_2019
 datshr_ctm_ukceh_daily_global_emepwrf_run_2019_2020
 curated_aot_csiro_cardat
 curated_csiro_hourly
@@ -337,6 +338,8 @@ dem_d8_9sec_2008
 srtm_1sec_smooth_dem_national
 dog_and_heatwave_vetcompass_nsw
 vetcompass_nsw
+dos_malaysia
+dosm_population_by_state_1970_2025
 drought-awap-grids
 drought_and_abs_sa2_16
 drought_and_lgas_2016
@@ -361,6 +364,8 @@ rainfallzones
 temperaturezones
 ehia_malaysia
 air_fire_haze_mort_2015
+air_fire_haze_mort_2019
+resprj_ehia_malaysia_fire_haze_mort_2019
 ehindicators_nsw
 ehi_fire_smoke_and_mortality_australia
 ehi_fire_smoke_and_mortality_nsw
