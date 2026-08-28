@@ -416,6 +416,9 @@ geoscape_2019_noise_collaboration
 geoscape_major_roads
 geoscape_national_roads
 geoscape-residential-land
+geoscape_g-naf
+g-naf_aug26_allstates
+g-naf_core_aug26
 geovision_pitney_bowes
 geovision_pitney_bowes_australia_2017
 ghsl_data_tools
